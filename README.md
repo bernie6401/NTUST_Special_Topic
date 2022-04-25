@@ -67,4 +67,4 @@ python test_leave_one_out.py -p --data_type GEMEP --num_classes 12
 ***
 
 ## More Detail
-You can download [here](./A\ Hybrid\ Facial\ Expression\ Recognition\ System\ Based\ on\ Facial\ Features\ and\ Pose\ Estimation.pft) for more experience detail such as platform, software version, or hyper parameters, etc.
+You can download [here](A Hybrid Facial Expression Recognition System Based on Facial Features and Pose Estimation.pdf) for more experience detail such as platform, software version, or hyper parameters, etc.
