@@ -23,4 +23,4 @@ models
 │
 ├──epoch59_acc0.9205.pth
 │
-└──README.txt
+└──README.md
