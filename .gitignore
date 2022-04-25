@@ -1,0 +1,5 @@
+./models/*.pth
+./datasets/BRED_dataset/
+./datasets/GEMEP/
+./datasets/rafdb/
+./datasets/rafdb_openpose/
