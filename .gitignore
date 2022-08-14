@@ -7,7 +7,11 @@ datasets/*
 !datasets/README.txt
 
 
-./concate/kfold
-./concate/wandb
-./concate/others
-./concate/__pycache__
+concate/*
+!concate/dataset_leave_one_out.py
+!concate/image_utils.py
+!concate/Networks.py
+!concate/test_leave_one_out.py
+!concate/train_body_leave_one_out.py
+!concate/train_face_leave_one_out.py
+!concate/train_fc_layer.py
