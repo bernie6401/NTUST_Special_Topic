@@ -1,0 +1,267 @@
+
+  0%|                                                                                        | 0/50 [00:00<?, ?it/s]
+Loading pretrained weights... ../models/GEMEP_old/epoch13_acc0.999.pth
+The dataset is GEMEP and the path is ../datasets/GEMEP/
+Train set size: 5740
+Validation set size: 1319
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.008
+    weight_decay: 0.0001
+)
+[Epoch 1] Training accuracy: 0.3347. Loss: 1.830 LR: 0.008000
+
+  2%|█▌                                                                              | 1/50 [00:27<22:07, 27.09s/it]
+[Epoch 1] Validation accuracy:0.1820. Loss:2.769
+Val correct sum 240 and length is 1319
+best_acc:0.182
+[Epoch 2] Training accuracy: 0.3557. Loss: 1.711 LR: 0.008000
+Training correct sum 2042 and length is 5740
+[Epoch 2] Validation accuracy:0.1820. Loss:2.168
+
+  4%|███▏                                                                            | 2/50 [00:52<20:58, 26.22s/it]
+[Epoch 3] Training accuracy: 0.3624. Loss: 1.699 LR: 0.008000
+
+  6%|████▊                                                                           | 3/50 [01:17<20:04, 25.63s/it]
+[Epoch 3] Validation accuracy:0.1820. Loss:1.939
+Val correct sum 240 and length is 1319
+[Epoch 4] Training accuracy: 0.3624. Loss: 1.698 LR: 0.008000
+
+  8%|██████▍                                                                         | 4/50 [01:43<19:36, 25.58s/it]
+[Epoch 4] Validation accuracy:0.1820. Loss:1.832
+Val correct sum 240 and length is 1319
+[Epoch 5] Training accuracy: 0.3624. Loss: 1.688 LR: 0.008000
+Training correct sum 2080 and length is 5740
+[Epoch 5] Validation accuracy:0.1820. Loss:1.806
+
+ 10%|████████                                                                        | 5/50 [02:08<19:06, 25.47s/it]
+[Epoch 6] Training accuracy: 0.3624. Loss: 1.689 LR: 0.008000
+Training correct sum 2080 and length is 5740
+[Epoch 6] Validation accuracy:0.1820. Loss:1.780
+
+ 12%|█████████▌                                                                      | 6/50 [02:33<18:34, 25.34s/it]
+[Epoch 7] Training accuracy: 0.3624. Loss: 1.690 LR: 0.008000
+Training correct sum 2080 and length is 5740
+[Epoch 7] Validation accuracy:0.1820. Loss:1.800
+
+ 14%|███████████▏                                                                    | 7/50 [02:58<18:06, 25.26s/it]
+[Epoch 8] Training accuracy: 0.3624. Loss: 1.688 LR: 0.008000
+Training correct sum 2080 and length is 5740
+[Epoch 8] Validation accuracy:0.1820. Loss:1.818
+
+ 16%|████████████▊                                                                   | 8/50 [03:23<17:41, 25.27s/it]
+[Epoch 9] Training accuracy: 0.3624. Loss: 1.691 LR: 0.008000
+Training correct sum 2080 and length is 5740
+[Epoch 9] Validation accuracy:0.1820. Loss:1.789
+
+ 18%|██████████████▍                                                                 | 9/50 [03:48<17:12, 25.17s/it]
+[Epoch 10] Training accuracy: 0.3624. Loss: 1.688 LR: 0.008000
+Training correct sum 2080 and length is 5740
+[Epoch 10] Validation accuracy:0.1820. Loss:1.793
+
+ 20%|███████████████▊                                                               | 10/50 [04:13<16:46, 25.17s/it]
+[Epoch 11] Training accuracy: 0.3624. Loss: 1.685 LR: 0.006400
+Training correct sum 2080 and length is 5740
+[Epoch 11] Validation accuracy:0.3609. Loss:1.713
+Val correct sum 476 and length is 1319
+Model saved.
+
+ 22%|█████████████████▍                                                             | 11/50 [04:39<16:22, 25.20s/it]
+[Epoch 12] Training accuracy: 0.3624. Loss: 1.686 LR: 0.006400
+Training correct sum 2080 and length is 5740
+[Epoch 12] Validation accuracy:0.3609. Loss:1.742
+
+ 24%|██████████████████▉                                                            | 12/50 [05:04<15:58, 25.23s/it]
+[Epoch 13] Training accuracy: 0.3624. Loss: 1.686 LR: 0.006400
+Training correct sum 2080 and length is 5740
+[Epoch 13] Validation accuracy:0.3609. Loss:1.748
+
+ 26%|████████████████████▌                                                          | 13/50 [05:29<15:35, 25.28s/it]
+[Epoch 14] Training accuracy: 0.3624. Loss: 1.685 LR: 0.006400
+Training correct sum 2080 and length is 5740
+[Epoch 14] Validation accuracy:0.3609. Loss:1.749
+
+ 28%|██████████████████████                                                         | 14/50 [05:55<15:11, 25.32s/it]
+[Epoch 15] Training accuracy: 0.3624. Loss: 1.687 LR: 0.006400
+Training correct sum 2080 and length is 5740
+[Epoch 15] Validation accuracy:0.3609. Loss:1.695
+
+ 30%|███████████████████████▋                                                       | 15/50 [06:20<14:42, 25.20s/it]
+[Epoch 16] Training accuracy: 0.3624. Loss: 1.687 LR: 0.006400
+Training correct sum 2080 and length is 5740
+[Epoch 16] Validation accuracy:0.3609. Loss:1.698
+
+ 32%|█████████████████████████▎                                                     | 16/50 [06:45<14:15, 25.15s/it]
+[Epoch 17] Training accuracy: 0.3624. Loss: 1.684 LR: 0.006400
+
+ 34%|██████████████████████████▊                                                    | 17/50 [07:10<13:50, 25.16s/it]
+[Epoch 17] Validation accuracy:0.3609. Loss:1.704
+Val correct sum 476 and length is 1319
+[Epoch 18] Training accuracy: 0.3624. Loss: 1.687 LR: 0.006400
+Training correct sum 2080 and length is 5740
+[Epoch 18] Validation accuracy:0.3609. Loss:1.704
+
+ 36%|████████████████████████████▍                                                  | 18/50 [07:35<13:25, 25.18s/it]
+[Epoch 19] Training accuracy: 0.3624. Loss: 1.686 LR: 0.006400
+Training correct sum 2080 and length is 5740
+[Epoch 19] Validation accuracy:0.3609. Loss:1.706
+
+ 38%|██████████████████████████████                                                 | 19/50 [08:00<12:58, 25.11s/it]
+[Epoch 20] Training accuracy: 0.3624. Loss: 1.685 LR: 0.006400
+Training correct sum 2080 and length is 5740
+[Epoch 20] Validation accuracy:0.3609. Loss:1.702
+
+ 40%|███████████████████████████████▌                                               | 20/50 [08:25<12:32, 25.07s/it]
+[Epoch 21] Training accuracy: 0.3624. Loss: 1.685 LR: 0.005120
+Training correct sum 2080 and length is 5740
+[Epoch 21] Validation accuracy:0.3609. Loss:1.698
+
+ 42%|█████████████████████████████████▏                                             | 21/50 [08:51<12:09, 25.16s/it]
+[Epoch 22] Training accuracy: 0.3624. Loss: 1.685 LR: 0.005120
+Training correct sum 2080 and length is 5740
+[Epoch 22] Validation accuracy:0.3609. Loss:1.695
+
+ 44%|██████████████████████████████████▊                                            | 22/50 [09:16<11:44, 25.15s/it]
+[Epoch 23] Training accuracy: 0.3624. Loss: 1.685 LR: 0.005120
+Training correct sum 2080 and length is 5740
+[Epoch 23] Validation accuracy:0.3609. Loss:1.700
+
+ 46%|████████████████████████████████████▎                                          | 23/50 [09:41<11:19, 25.16s/it]
+[Epoch 24] Training accuracy: 0.3624. Loss: 1.685 LR: 0.005120
+Training correct sum 2080 and length is 5740
+[Epoch 24] Validation accuracy:0.3609. Loss:1.703
+
+ 48%|█████████████████████████████████████▉                                         | 24/50 [10:06<10:52, 25.11s/it]
+[Epoch 25] Training accuracy: 0.3624. Loss: 1.685 LR: 0.005120
+Training correct sum 2080 and length is 5740
+[Epoch 25] Validation accuracy:0.3609. Loss:1.704
+
+ 50%|███████████████████████████████████████▌                                       | 25/50 [10:31<10:29, 25.19s/it]
+[Epoch 26] Training accuracy: 0.3624. Loss: 1.684 LR: 0.005120
+Training correct sum 2080 and length is 5740
+[Epoch 26] Validation accuracy:0.3609. Loss:1.701
+
+ 52%|█████████████████████████████████████████                                      | 26/50 [10:56<10:03, 25.13s/it]
+[Epoch 27] Training accuracy: 0.3624. Loss: 1.683 LR: 0.005120
+Training correct sum 2080 and length is 5740
+[Epoch 27] Validation accuracy:0.3609. Loss:1.700
+
+ 54%|██████████████████████████████████████████▋                                    | 27/50 [11:21<09:37, 25.11s/it]
+[Epoch 28] Training accuracy: 0.3624. Loss: 1.684 LR: 0.005120
+Training correct sum 2080 and length is 5740
+[Epoch 28] Validation accuracy:0.3609. Loss:1.705
+
+ 56%|████████████████████████████████████████████▏                                  | 28/50 [11:46<09:12, 25.13s/it]
+[Epoch 29] Training accuracy: 0.3624. Loss: 1.685 LR: 0.005120
+Training correct sum 2080 and length is 5740
+[Epoch 29] Validation accuracy:0.3609. Loss:1.692
+
+ 58%|█████████████████████████████████████████████▊                                 | 29/50 [12:11<08:47, 25.10s/it]
+[Epoch 30] Training accuracy: 0.3624. Loss: 1.684 LR: 0.005120
+Training correct sum 2080 and length is 5740
+[Epoch 30] Validation accuracy:0.3609. Loss:1.694
+
+ 60%|███████████████████████████████████████████████▍                               | 30/50 [12:37<08:22, 25.14s/it]
+[Epoch 31] Training accuracy: 0.3624. Loss: 1.684 LR: 0.004096
+Training correct sum 2080 and length is 5740
+[Epoch 31] Validation accuracy:0.3609. Loss:1.696
+
+ 62%|████████████████████████████████████████████████▉                              | 31/50 [13:02<07:59, 25.24s/it]
+[Epoch 32] Training accuracy: 0.3624. Loss: 1.683 LR: 0.004096
+Training correct sum 2080 and length is 5740
+[Epoch 32] Validation accuracy:0.3609. Loss:1.695
+
+ 64%|██████████████████████████████████████████████████▌                            | 32/50 [13:27<07:31, 25.07s/it]
+[Epoch 33] Training accuracy: 0.3624. Loss: 1.683 LR: 0.004096
+Training correct sum 2080 and length is 5740
+[Epoch 33] Validation accuracy:0.3609. Loss:1.696
+
+ 66%|████████████████████████████████████████████████████▏                          | 33/50 [13:52<07:05, 25.03s/it]
+[Epoch 34] Training accuracy: 0.3624. Loss: 1.684 LR: 0.004096
+Training correct sum 2080 and length is 5740
+[Epoch 34] Validation accuracy:0.3609. Loss:1.694
+
+ 68%|█████████████████████████████████████████████████████▋                         | 34/50 [14:17<06:40, 25.02s/it]
+[Epoch 35] Training accuracy: 0.3624. Loss: 1.684 LR: 0.004096
+Training correct sum 2080 and length is 5740
+[Epoch 35] Validation accuracy:0.3609. Loss:1.692
+
+ 70%|███████████████████████████████████████████████████████▎                       | 35/50 [14:42<06:14, 24.99s/it]
+[Epoch 36] Training accuracy: 0.3624. Loss: 1.683 LR: 0.004096
+Training correct sum 2080 and length is 5740
+[Epoch 36] Validation accuracy:0.3609. Loss:1.694
+
+ 72%|████████████████████████████████████████████████████████▉                      | 36/50 [15:07<05:49, 24.97s/it]
+[Epoch 37] Training accuracy: 0.3624. Loss: 1.683 LR: 0.004096
+Training correct sum 2080 and length is 5740
+[Epoch 37] Validation accuracy:0.3609. Loss:1.693
+
+ 74%|██████████████████████████████████████████████████████████▍                    | 37/50 [15:32<05:24, 24.96s/it]
+[Epoch 38] Training accuracy: 0.3624. Loss: 1.683 LR: 0.004096
+
+ 76%|████████████████████████████████████████████████████████████                   | 38/50 [15:56<04:58, 24.86s/it]
+[Epoch 38] Validation accuracy:0.3609. Loss:1.694
+Val correct sum 476 and length is 1319
+[Epoch 39] Training accuracy: 0.3624. Loss: 1.683 LR: 0.004096
+Training correct sum 2080 and length is 5740
+[Epoch 39] Validation accuracy:0.3609. Loss:1.695
+
+ 78%|█████████████████████████████████████████████████████████████▌                 | 39/50 [16:21<04:33, 24.83s/it]
+[Epoch 40] Training accuracy: 0.3624. Loss: 1.684 LR: 0.004096
+Training correct sum 2080 and length is 5740
+[Epoch 40] Validation accuracy:0.3609. Loss:1.695
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 40/50 [16:46<04:07, 24.76s/it]
+[Epoch 41] Training accuracy: 0.3624. Loss: 1.683 LR: 0.003277
+Training correct sum 2080 and length is 5740
+[Epoch 41] Validation accuracy:0.3609. Loss:1.694
+
+ 82%|████████████████████████████████████████████████████████████████▊              | 41/50 [17:10<03:43, 24.81s/it]
+[Epoch 42] Training accuracy: 0.3624. Loss: 1.684 LR: 0.003277
+Training correct sum 2080 and length is 5740
+[Epoch 42] Validation accuracy:0.3609. Loss:1.695
+
+ 84%|██████████████████████████████████████████████████████████████████▎            | 42/50 [17:35<03:18, 24.80s/it]
+[Epoch 43] Training accuracy: 0.3624. Loss: 1.683 LR: 0.003277
+Training correct sum 2080 and length is 5740
+[Epoch 43] Validation accuracy:0.3609. Loss:1.698
+
+ 86%|███████████████████████████████████████████████████████████████████▉           | 43/50 [18:00<02:53, 24.85s/it]
+[Epoch 44] Training accuracy: 0.3624. Loss: 1.683 LR: 0.003277
+Training correct sum 2080 and length is 5740
+[Epoch 44] Validation accuracy:0.3609. Loss:1.693
+
+ 88%|█████████████████████████████████████████████████████████████████████▌         | 44/50 [18:25<02:29, 24.85s/it]
+[Epoch 45] Training accuracy: 0.3624. Loss: 1.684 LR: 0.003277
+Training correct sum 2080 and length is 5740
+[Epoch 45] Validation accuracy:0.3609. Loss:1.694
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 45/50 [18:50<02:04, 24.88s/it]
+[Epoch 46] Training accuracy: 0.3624. Loss: 1.683 LR: 0.003277
+Training correct sum 2080 and length is 5740
+[Epoch 46] Validation accuracy:0.3609. Loss:1.695
+
+ 92%|████████████████████████████████████████████████████████████████████████▋      | 46/50 [19:15<01:39, 24.85s/it]
+[Epoch 47] Training accuracy: 0.3624. Loss: 1.684 LR: 0.003277
+Training correct sum 2080 and length is 5740
+[Epoch 47] Validation accuracy:0.3609. Loss:1.694
+
+ 94%|██████████████████████████████████████████████████████████████████████████▎    | 47/50 [19:40<01:14, 24.86s/it]
+[Epoch 48] Training accuracy: 0.3624. Loss: 1.684 LR: 0.003277
+Training correct sum 2080 and length is 5740
+[Epoch 48] Validation accuracy:0.3609. Loss:1.696
+
+ 96%|███████████████████████████████████████████████████████████████████████████▊   | 48/50 [20:04<00:49, 24.77s/it]
+[Epoch 49] Training accuracy: 0.3624. Loss: 1.682 LR: 0.003277
+Training correct sum 2080 and length is 5740
+[Epoch 49] Validation accuracy:0.3609. Loss:1.695
+
+ 98%|█████████████████████████████████████████████████████████████████████████████▍ | 49/50 [20:29<00:24, 24.77s/it]
+[Epoch 50] Training accuracy: 0.3624. Loss: 1.682 LR: 0.003277
+Training correct sum 2080 and length is 5740
+[Epoch 50] Validation accuracy:0.3609. Loss:1.695
+
+100%|███████████████████████████████████████████████████████████████████████████████| 50/50 [20:54<00:00, 25.09s/it]

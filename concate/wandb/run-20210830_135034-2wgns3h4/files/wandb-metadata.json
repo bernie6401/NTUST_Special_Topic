@@ -1,0 +1,30 @@
+{
+    "os": "Windows-10-10.0.19042-SP0",
+    "python": "3.8.10",
+    "heartbeatAt": "2021-08-30T05:50:35.993606",
+    "startedAt": "2021-08-30T05:50:34.738364",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--dataset_path",
+        "../datasets/",
+        "--batch_size",
+        "64",
+        "--epochs",
+        "50",
+        "--data_type",
+        "GEMEP",
+        "--wandb",
+        "--lr",
+        "0.01"
+    ],
+    "state": "running",
+    "program": "train_hfp.py",
+    "codePath": "train_hfp.py",
+    "host": "DESKTOP-KASKE6A",
+    "username": "Ho Ping-Hsueh",
+    "executable": "C:\\Users\\Ho Ping-Hsueh\\Anaconda3\\envs\\test\\python.exe"
+}

@@ -1,0 +1,33 @@
+
+  0%|                                                                                       | 0/100 [00:00<?, ?it/s]
+The dataset is GEMEP and the path is ../datasets/GEMEP/
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+[Epoch 1] Training accuracy: 0.6630. Loss: 0.970 LR: 0.001000
+
+  1%|▊                                                                              | 1/100 [00:29<47:59, 29.09s/it]
+[Epoch 1] Validation accuracy:0.3237. Loss:2.155
+Val correct sum 457 and length is 1412
+best_acc:0.3237
+[Epoch 2] Training accuracy: 0.8876. Loss: 0.356 LR: 0.001000
+Training correct sum 5012 and length is 5647
+[Epoch 2] Validation accuracy:0.5142. Loss:2.385
+  1%|▊                                                                            | 1/100 [00:56<1:33:03, 56.40s/it]
+Traceback (most recent call last):
+  File "train_hfp.py", line 254, in <module>
+    main()
+  File "train_hfp.py", line 127, in main
+    store_weight(i, model.state_dict(), optimizer.state_dict(), val_acc, fold)
+  File "train_hfp.py", line 223, in store_weight
+    os.path.join('../models', args.data_type, 'split', fold, "_epoch" + str(epoch) + "_acc" + str(val_acc) + ".pth"))
+  File "C:\Users\Ho Ping-Hsueh\Anaconda3\envs\test\lib\ntpath.py", line 117, in join
+    genericpath._check_arg_types('join', path, *paths)
+  File "C:\Users\Ho Ping-Hsueh\Anaconda3\envs\test\lib\genericpath.py", line 152, in _check_arg_types
+    raise TypeError(f'{funcname}() argument must be str, bytes, or '
+TypeError: join() argument must be str, bytes, or os.PathLike object, not 'int'

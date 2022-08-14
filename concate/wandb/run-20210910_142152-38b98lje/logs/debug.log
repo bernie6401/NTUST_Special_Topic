@@ -1,0 +1,14 @@
+2021-09-10 14:21:52,433 INFO    MainThread:12092 [wandb_setup.py:_flush():69] setting env: {}
+2021-09-10 14:21:52,433 INFO    MainThread:12092 [wandb_setup.py:_flush():69] setting login settings: {}
+2021-09-10 14:21:52,433 INFO    MainThread:12092 [wandb_init.py:_log_setup():337] Logging user logs to D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_142152-38b98lje\logs\debug.log
+2021-09-10 14:21:52,433 INFO    MainThread:12092 [wandb_init.py:_log_setup():338] Logging internal logs to D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_142152-38b98lje\logs\debug-internal.log
+2021-09-10 14:21:52,433 INFO    MainThread:12092 [wandb_init.py:init():370] calling init triggers
+2021-09-10 14:21:52,433 INFO    MainThread:12092 [wandb_init.py:init():375] wandb.init called with sweep_config: {}
+config: {}
+2021-09-10 14:21:52,433 INFO    MainThread:12092 [wandb_init.py:init():419] starting backend
+2021-09-10 14:21:52,433 INFO    MainThread:12092 [backend.py:_multiprocessing_setup():70] multiprocessing start_methods=spawn, using: spawn
+2021-09-10 14:21:52,436 INFO    MainThread:12092 [backend.py:ensure_launched():135] starting backend process...
+2021-09-10 14:21:52,487 INFO    MainThread:12092 [backend.py:ensure_launched():139] started backend process with pid: 17972
+2021-09-10 14:21:52,487 INFO    MainThread:12092 [wandb_init.py:init():424] backend started and connected
+2021-09-10 14:21:52,488 INFO    MainThread:12092 [wandb_init.py:init():472] updated telemetry
+2021-09-10 14:21:52,488 INFO    MainThread:12092 [wandb_init.py:init():491] communicating current version

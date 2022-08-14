@@ -1,0 +1,1022 @@
+
+  0%|                                                                                       | 0/200 [00:00<?, ?it/s]
+Loading pretrained weights... ../models/GEMEP/epoch3_acc0.533.pth
+The dataset is GEMEP and the path is ../datasets/GEMEP/
+Train set size: 5740
+Validation set size: 1319
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+[Epoch 1] Training accuracy: 0.9268. Loss: 0.229 LR: 0.001000
+Training correct sum 5320 and length is 5740
+[Epoch 1] Validation accuracy:0.3556. Loss:3.495
+Val correct sum 469 and length is 1319
+
+  0%|▍                                                                            | 1/200 [00:26<1:28:00, 26.54s/it]
+[Epoch 2] Training accuracy: 0.9237. Loss: 0.245 LR: 0.001000
+Training correct sum 5302 and length is 5740
+[Epoch 2] Validation accuracy:0.3541. Loss:5.128
+
+  1%|▊                                                                            | 2/200 [00:51<1:24:41, 25.66s/it]
+[Epoch 3] Training accuracy: 0.9324. Loss: 0.207 LR: 0.001000
+
+  2%|█▏                                                                           | 3/200 [01:16<1:23:43, 25.50s/it]
+[Epoch 3] Validation accuracy:0.3874. Loss:4.062
+Val correct sum 511 and length is 1319
+best_acc:0.3874
+[Epoch 4] Training accuracy: 0.9404. Loss: 0.186 LR: 0.001000
+
+  2%|█▌                                                                           | 4/200 [01:42<1:22:56, 25.39s/it]
+[Epoch 4] Validation accuracy:0.3889. Loss:2.567
+Val correct sum 513 and length is 1319
+best_acc:0.3889
+[Epoch 5] Training accuracy: 0.9490. Loss: 0.157 LR: 0.001000
+
+  2%|█▉                                                                           | 5/200 [02:07<1:22:41, 25.45s/it]
+[Epoch 5] Validation accuracy:0.3351. Loss:5.195
+Val correct sum 442 and length is 1319
+[Epoch 6] Training accuracy: 0.9540. Loss: 0.142 LR: 0.001000
+Training correct sum 5476 and length is 5740
+[Epoch 6] Validation accuracy:0.3965. Loss:3.159
+Val correct sum 523 and length is 1319
+
+  3%|██▎                                                                          | 6/200 [02:32<1:22:04, 25.39s/it]
+[Epoch 7] Training accuracy: 0.9639. Loss: 0.119 LR: 0.001000
+
+  4%|██▋                                                                          | 7/200 [02:58<1:21:28, 25.33s/it]
+[Epoch 7] Validation accuracy:0.3920. Loss:2.749
+Val correct sum 517 and length is 1319
+[Epoch 8] Training accuracy: 0.9653. Loss: 0.107 LR: 0.001000
+Training correct sum 5541 and length is 5740
+[Epoch 8] Validation accuracy:0.4344. Loss:4.373
+Val correct sum 573 and length is 1319
+
+  4%|███                                                                          | 8/200 [03:23<1:20:54, 25.28s/it]
+[Epoch 9] Training accuracy: 0.9681. Loss: 0.104 LR: 0.001000
+Training correct sum 5557 and length is 5740
+[Epoch 9] Validation accuracy:0.3806. Loss:3.742
+
+  4%|███▍                                                                         | 9/200 [03:48<1:20:33, 25.31s/it]
+[Epoch 10] Training accuracy: 0.9617. Loss: 0.113 LR: 0.001000
+
+  5%|███▊                                                                        | 10/200 [04:14<1:20:15, 25.35s/it]
+[Epoch 10] Validation accuracy:0.3283. Loss:3.580
+Val correct sum 433 and length is 1319
+[Epoch 11] Training accuracy: 0.9746. Loss: 0.088 LR: 0.001000
+Training correct sum 5594 and length is 5740
+[Epoch 11] Validation accuracy:0.3904. Loss:3.466
+
+  6%|████▏                                                                       | 11/200 [04:39<1:19:33, 25.26s/it]
+[Epoch 12] Training accuracy: 0.9763. Loss: 0.080 LR: 0.001000
+Training correct sum 5604 and length is 5740
+[Epoch 12] Validation accuracy:0.4321. Loss:3.115
+
+  6%|████▌                                                                       | 12/200 [05:04<1:19:18, 25.31s/it]
+[Epoch 13] Training accuracy: 0.9699. Loss: 0.094 LR: 0.001000
+Training correct sum 5567 and length is 5740
+[Epoch 13] Validation accuracy:0.3768. Loss:5.270
+
+  6%|████▉                                                                       | 13/200 [05:30<1:19:05, 25.38s/it]
+[Epoch 14] Training accuracy: 0.9817. Loss: 0.062 LR: 0.001000
+Training correct sum 5635 and length is 5740
+[Epoch 14] Validation accuracy:0.3791. Loss:4.227
+
+  7%|█████▎                                                                      | 14/200 [05:55<1:18:40, 25.38s/it]
+[Epoch 15] Training accuracy: 0.9716. Loss: 0.086 LR: 0.001000
+Training correct sum 5577 and length is 5740
+[Epoch 15] Validation accuracy:0.3677. Loss:4.089
+
+  8%|█████▋                                                                      | 15/200 [06:20<1:18:10, 25.36s/it]
+[Epoch 16] Training accuracy: 0.9815. Loss: 0.063 LR: 0.001000
+Training correct sum 5634 and length is 5740
+[Epoch 16] Validation accuracy:0.3632. Loss:3.685
+
+  8%|██████                                                                      | 16/200 [06:47<1:18:33, 25.62s/it]
+[Epoch 17] Training accuracy: 0.9857. Loss: 0.050 LR: 0.001000
+Training correct sum 5658 and length is 5740
+[Epoch 17] Validation accuracy:0.3161. Loss:3.790
+
+  8%|██████▍                                                                     | 17/200 [07:11<1:17:27, 25.40s/it]
+[Epoch 18] Training accuracy: 0.9843. Loss: 0.054 LR: 0.001000
+Training correct sum 5650 and length is 5740
+[Epoch 18] Validation accuracy:0.3487. Loss:3.386
+
+  9%|██████▊                                                                     | 18/200 [07:36<1:16:29, 25.22s/it]
+[Epoch 19] Training accuracy: 0.9794. Loss: 0.067 LR: 0.001000
+Training correct sum 5622 and length is 5740
+[Epoch 19] Validation accuracy:0.3882. Loss:3.945
+
+ 10%|███████▏                                                                    | 19/200 [08:01<1:15:37, 25.07s/it]
+[Epoch 20] Training accuracy: 0.9857. Loss: 0.051 LR: 0.001000
+Training correct sum 5658 and length is 5740
+[Epoch 20] Validation accuracy:0.3730. Loss:4.156
+
+ 10%|███████▌                                                                    | 20/200 [08:26<1:15:15, 25.09s/it]
+[Epoch 21] Training accuracy: 0.9808. Loss: 0.058 LR: 0.001000
+Training correct sum 5630 and length is 5740
+[Epoch 21] Validation accuracy:0.3700. Loss:4.228
+
+ 10%|███████▉                                                                    | 21/200 [08:51<1:14:46, 25.06s/it]
+[Epoch 22] Training accuracy: 0.9934. Loss: 0.026 LR: 0.001000
+Training correct sum 5702 and length is 5740
+[Epoch 22] Validation accuracy:0.4215. Loss:4.323
+
+ 11%|████████▎                                                                   | 22/200 [09:17<1:14:41, 25.18s/it]
+[Epoch 23] Training accuracy: 0.9796. Loss: 0.070 LR: 0.001000
+Training correct sum 5623 and length is 5740
+[Epoch 23] Validation accuracy:0.3647. Loss:6.314
+
+ 12%|████████▋                                                                   | 23/200 [09:41<1:14:03, 25.10s/it]
+[Epoch 24] Training accuracy: 0.9821. Loss: 0.061 LR: 0.001000
+Training correct sum 5637 and length is 5740
+[Epoch 24] Validation accuracy:0.3829. Loss:3.402
+
+ 12%|█████████                                                                   | 24/200 [10:07<1:13:43, 25.13s/it]
+[Epoch 25] Training accuracy: 0.9878. Loss: 0.043 LR: 0.001000
+Training correct sum 5670 and length is 5740
+[Epoch 25] Validation accuracy:0.3738. Loss:3.358
+
+ 12%|█████████▌                                                                  | 25/200 [10:32<1:13:17, 25.13s/it]
+[Epoch 26] Training accuracy: 0.9908. Loss: 0.031 LR: 0.001000
+Training correct sum 5687 and length is 5740
+[Epoch 26] Validation accuracy:0.3677. Loss:3.291
+
+ 13%|█████████▉                                                                  | 26/200 [10:57<1:13:10, 25.23s/it]
+[Epoch 27] Training accuracy: 0.9949. Loss: 0.022 LR: 0.001000
+
+ 14%|██████████▎                                                                 | 27/200 [11:23<1:13:21, 25.44s/it]
+[Epoch 27] Validation accuracy:0.3685. Loss:3.735
+Val correct sum 486 and length is 1319
+[Epoch 28] Training accuracy: 0.9909. Loss: 0.038 LR: 0.001000
+Training correct sum 5688 and length is 5740
+[Epoch 28] Validation accuracy:0.3867. Loss:3.343
+
+ 14%|██████████▋                                                                 | 28/200 [11:49<1:13:13, 25.54s/it]
+[Epoch 29] Training accuracy: 0.9826. Loss: 0.065 LR: 0.001000
+
+ 14%|███████████                                                                 | 29/200 [12:15<1:13:08, 25.66s/it]
+[Epoch 29] Validation accuracy:0.3487. Loss:3.230
+Val correct sum 460 and length is 1319
+[Epoch 30] Training accuracy: 0.9854. Loss: 0.049 LR: 0.001000
+
+ 15%|███████████▍                                                                | 30/200 [12:41<1:12:43, 25.67s/it]
+[Epoch 30] Validation accuracy:0.3647. Loss:3.108
+Val correct sum 481 and length is 1319
+[Epoch 31] Training accuracy: 0.9859. Loss: 0.047 LR: 0.001000
+
+ 16%|███████████▊                                                                | 31/200 [13:06<1:11:58, 25.55s/it]
+[Epoch 31] Validation accuracy:0.3897. Loss:3.007
+Val correct sum 514 and length is 1319
+[Epoch 32] Training accuracy: 0.9915. Loss: 0.035 LR: 0.001000
+Training correct sum 5691 and length is 5740
+[Epoch 32] Validation accuracy:0.3776. Loss:3.452
+
+ 16%|████████████▏                                                               | 32/200 [13:32<1:11:45, 25.63s/it]
+[Epoch 33] Training accuracy: 0.9902. Loss: 0.037 LR: 0.001000
+Training correct sum 5684 and length is 5740
+[Epoch 33] Validation accuracy:0.4147. Loss:2.828
+
+ 16%|████████████▌                                                               | 33/200 [13:57<1:11:08, 25.56s/it]
+[Epoch 34] Training accuracy: 0.9936. Loss: 0.026 LR: 0.001000
+
+ 17%|████████████▉                                                               | 34/200 [14:22<1:10:32, 25.50s/it]
+[Epoch 34] Validation accuracy:0.3798. Loss:3.438
+Val correct sum 501 and length is 1319
+[Epoch 35] Training accuracy: 0.9887. Loss: 0.038 LR: 0.001000
+
+ 18%|█████████████▎                                                              | 35/200 [14:48<1:10:15, 25.55s/it]
+[Epoch 35] Validation accuracy:0.3753. Loss:3.863
+Val correct sum 495 and length is 1319
+[Epoch 36] Training accuracy: 0.9831. Loss: 0.062 LR: 0.001000
+
+ 18%|█████████████▋                                                              | 36/200 [15:13<1:09:31, 25.44s/it]
+[Epoch 36] Validation accuracy:0.3457. Loss:3.565
+Val correct sum 456 and length is 1319
+[Epoch 37] Training accuracy: 0.9909. Loss: 0.033 LR: 0.001000
+
+ 18%|██████████████                                                              | 37/200 [15:38<1:08:39, 25.28s/it]
+[Epoch 37] Validation accuracy:0.3677. Loss:3.635
+Val correct sum 485 and length is 1319
+[Epoch 38] Training accuracy: 0.9913. Loss: 0.032 LR: 0.001000
+
+ 19%|██████████████▍                                                             | 38/200 [16:03<1:08:05, 25.22s/it]
+[Epoch 38] Validation accuracy:0.4064. Loss:2.766
+Val correct sum 536 and length is 1319
+[Epoch 39] Training accuracy: 0.9878. Loss: 0.044 LR: 0.001000
+
+ 20%|██████████████▊                                                             | 39/200 [16:29<1:07:43, 25.24s/it]
+[Epoch 39] Validation accuracy:0.3836. Loss:3.155
+Val correct sum 506 and length is 1319
+[Epoch 40] Training accuracy: 0.9902. Loss: 0.033 LR: 0.001000
+
+ 20%|███████████████▏                                                            | 40/200 [16:53<1:07:03, 25.15s/it]
+[Epoch 40] Validation accuracy:0.3616. Loss:3.087
+Val correct sum 477 and length is 1319
+[Epoch 41] Training accuracy: 0.9949. Loss: 0.021 LR: 0.000800
+
+ 20%|███████████████▌                                                            | 41/200 [17:19<1:06:36, 25.13s/it]
+[Epoch 41] Validation accuracy:0.3601. Loss:3.180
+Val correct sum 475 and length is 1319
+[Epoch 42] Training accuracy: 0.9977. Loss: 0.012 LR: 0.000800
+
+ 21%|███████████████▉                                                            | 42/200 [17:44<1:06:02, 25.08s/it]
+[Epoch 42] Validation accuracy:0.3677. Loss:3.167
+Val correct sum 485 and length is 1319
+[Epoch 43] Training accuracy: 0.9943. Loss: 0.023 LR: 0.000800
+
+ 22%|████████████████▎                                                           | 43/200 [18:09<1:05:55, 25.20s/it]
+[Epoch 43] Validation accuracy:0.4071. Loss:2.712
+Val correct sum 537 and length is 1319
+[Epoch 44] Training accuracy: 0.9927. Loss: 0.030 LR: 0.000800
+
+ 22%|████████████████▋                                                           | 44/200 [18:34<1:05:24, 25.16s/it]
+[Epoch 44] Validation accuracy:0.3995. Loss:2.809
+Val correct sum 527 and length is 1319
+[Epoch 45] Training accuracy: 0.9861. Loss: 0.046 LR: 0.000800
+
+ 22%|█████████████████                                                           | 45/200 [19:00<1:05:13, 25.25s/it]
+[Epoch 45] Validation accuracy:0.2714. Loss:3.691
+Val correct sum 358 and length is 1319
+[Epoch 46] Training accuracy: 0.9922. Loss: 0.032 LR: 0.000800
+
+ 23%|█████████████████▍                                                          | 46/200 [19:25<1:04:44, 25.22s/it]
+[Epoch 46] Validation accuracy:0.3851. Loss:3.439
+Val correct sum 508 and length is 1319
+[Epoch 47] Training accuracy: 0.9930. Loss: 0.024 LR: 0.000800
+
+ 24%|█████████████████▊                                                          | 47/200 [19:50<1:04:28, 25.28s/it]
+[Epoch 47] Validation accuracy:0.3783. Loss:2.817
+Val correct sum 499 and length is 1319
+[Epoch 48] Training accuracy: 0.9969. Loss: 0.016 LR: 0.000800
+
+ 24%|██████████████████▏                                                         | 48/200 [20:15<1:04:03, 25.28s/it]
+[Epoch 48] Validation accuracy:0.4026. Loss:3.001
+Val correct sum 531 and length is 1319
+[Epoch 49] Training accuracy: 0.9956. Loss: 0.017 LR: 0.000800
+
+ 24%|██████████████████▌                                                         | 49/200 [20:41<1:03:29, 25.23s/it]
+[Epoch 49] Validation accuracy:0.3973. Loss:2.969
+Val correct sum 524 and length is 1319
+[Epoch 50] Training accuracy: 0.9995. Loss: 0.008 LR: 0.000800
+Training correct sum 5737 and length is 5740
+[Epoch 50] Validation accuracy:0.3677. Loss:3.424
+
+ 25%|███████████████████                                                         | 50/200 [21:06<1:03:02, 25.21s/it]
+[Epoch 51] Training accuracy: 0.9988. Loss: 0.011 LR: 0.000800
+
+ 26%|███████████████████▍                                                        | 51/200 [21:31<1:02:29, 25.17s/it]
+[Epoch 51] Validation accuracy:0.3662. Loss:3.276
+Val correct sum 483 and length is 1319
+[Epoch 52] Training accuracy: 0.9854. Loss: 0.053 LR: 0.000800
+
+ 26%|███████████████████▊                                                        | 52/200 [21:56<1:02:24, 25.30s/it]
+[Epoch 52] Validation accuracy:0.4033. Loss:3.668
+Val correct sum 532 and length is 1319
+[Epoch 53] Training accuracy: 0.9826. Loss: 0.062 LR: 0.000800
+
+ 26%|████████████████████▏                                                       | 53/200 [22:21<1:01:50, 25.24s/it]
+[Epoch 53] Validation accuracy:0.3609. Loss:3.581
+Val correct sum 476 and length is 1319
+[Epoch 54] Training accuracy: 0.9889. Loss: 0.039 LR: 0.000800
+
+ 27%|████████████████████▌                                                       | 54/200 [22:47<1:01:27, 25.26s/it]
+[Epoch 54] Validation accuracy:0.3798. Loss:3.250
+Val correct sum 501 and length is 1319
+[Epoch 55] Training accuracy: 0.9960. Loss: 0.018 LR: 0.000800
+
+ 28%|████████████████████▉                                                       | 55/200 [23:12<1:01:01, 25.25s/it]
+[Epoch 55] Validation accuracy:0.3965. Loss:3.030
+Val correct sum 523 and length is 1319
+[Epoch 56] Training accuracy: 0.9962. Loss: 0.018 LR: 0.000800
+
+ 28%|█████████████████████▎                                                      | 56/200 [23:37<1:00:33, 25.23s/it]
+[Epoch 56] Validation accuracy:0.3434. Loss:3.407
+Val correct sum 453 and length is 1319
+[Epoch 57] Training accuracy: 0.9949. Loss: 0.022 LR: 0.000800
+
+ 28%|█████████████████████▋                                                      | 57/200 [24:02<1:00:10, 25.25s/it]
+[Epoch 57] Validation accuracy:0.3753. Loss:3.449
+Val correct sum 495 and length is 1319
+[Epoch 58] Training accuracy: 0.9981. Loss: 0.012 LR: 0.000800
+
+ 29%|██████████████████████▌                                                       | 58/200 [24:28<59:57, 25.34s/it]
+[Epoch 58] Validation accuracy:0.3495. Loss:3.509
+Val correct sum 461 and length is 1319
+[Epoch 59] Training accuracy: 0.9972. Loss: 0.012 LR: 0.000800
+
+ 30%|███████████████████████                                                       | 59/200 [24:53<59:33, 25.34s/it]
+[Epoch 59] Validation accuracy:0.3904. Loss:2.861
+Val correct sum 515 and length is 1319
+[Epoch 60] Training accuracy: 0.9847. Loss: 0.054 LR: 0.000800
+Training correct sum 5652 and length is 5740
+[Epoch 60] Validation accuracy:0.4117. Loss:2.752
+
+ 30%|███████████████████████▍                                                      | 60/200 [25:19<59:13, 25.38s/it]
+[Epoch 61] Training accuracy: 0.9889. Loss: 0.040 LR: 0.000800
+
+ 30%|███████████████████████▊                                                      | 61/200 [25:44<58:57, 25.45s/it]
+[Epoch 61] Validation accuracy:0.3829. Loss:3.133
+Val correct sum 505 and length is 1319
+[Epoch 62] Training accuracy: 0.9955. Loss: 0.024 LR: 0.000800
+
+ 31%|████████████████████████▏                                                     | 62/200 [26:10<58:24, 25.40s/it]
+[Epoch 62] Validation accuracy:0.3563. Loss:2.950
+Val correct sum 470 and length is 1319
+[Epoch 63] Training accuracy: 0.9906. Loss: 0.032 LR: 0.000800
+
+ 32%|████████████████████████▌                                                     | 63/200 [26:35<58:08, 25.46s/it]
+[Epoch 63] Validation accuracy:0.3995. Loss:3.267
+Val correct sum 527 and length is 1319
+[Epoch 64] Training accuracy: 0.9976. Loss: 0.013 LR: 0.000800
+
+ 32%|████████████████████████▉                                                     | 64/200 [27:00<57:23, 25.32s/it]
+[Epoch 64] Validation accuracy:0.3563. Loss:3.593
+Val correct sum 470 and length is 1319
+[Epoch 65] Training accuracy: 0.9972. Loss: 0.014 LR: 0.000800
+
+ 32%|█████████████████████████▎                                                    | 65/200 [27:25<56:49, 25.26s/it]
+[Epoch 65] Validation accuracy:0.3851. Loss:3.057
+Val correct sum 508 and length is 1319
+[Epoch 66] Training accuracy: 0.9932. Loss: 0.024 LR: 0.000800
+
+ 33%|█████████████████████████▋                                                    | 66/200 [27:51<56:18, 25.21s/it]
+[Epoch 66] Validation accuracy:0.3859. Loss:2.789
+Val correct sum 509 and length is 1319
+[Epoch 67] Training accuracy: 0.9963. Loss: 0.019 LR: 0.000800
+
+ 34%|██████████████████████████▏                                                   | 67/200 [28:16<55:49, 25.18s/it]
+[Epoch 67] Validation accuracy:0.3730. Loss:2.922
+Val correct sum 492 and length is 1319
+[Epoch 68] Training accuracy: 0.9876. Loss: 0.045 LR: 0.000800
+
+ 34%|██████████████████████████▌                                                   | 68/200 [28:43<56:56, 25.88s/it]
+[Epoch 68] Validation accuracy:0.4124. Loss:3.215
+Val correct sum 544 and length is 1319
+[Epoch 69] Training accuracy: 0.9852. Loss: 0.050 LR: 0.000800
+
+ 34%|██████████████████████████▉                                                   | 69/200 [29:08<56:04, 25.69s/it]
+[Epoch 69] Validation accuracy:0.2911. Loss:3.727
+Val correct sum 384 and length is 1319
+[Epoch 70] Training accuracy: 0.9918. Loss: 0.029 LR: 0.000800
+Training correct sum 5693 and length is 5740
+[Epoch 70] Validation accuracy:0.3624. Loss:3.209
+
+ 35%|███████████████████████████▎                                                  | 70/200 [29:34<55:20, 25.55s/it]
+[Epoch 71] Training accuracy: 0.9930. Loss: 0.026 LR: 0.000800
+
+ 36%|███████████████████████████▋                                                  | 71/200 [29:59<54:43, 25.45s/it]
+[Epoch 71] Validation accuracy:0.3616. Loss:3.596
+Val correct sum 477 and length is 1319
+[Epoch 72] Training accuracy: 0.9990. Loss: 0.009 LR: 0.000800
+Training correct sum 5734 and length is 5740
+[Epoch 72] Validation accuracy:0.4049. Loss:3.456
+
+ 36%|████████████████████████████                                                  | 72/200 [30:24<54:02, 25.33s/it]
+[Epoch 73] Training accuracy: 0.9988. Loss: 0.008 LR: 0.000800
+
+ 36%|████████████████████████████▍                                                 | 73/200 [30:49<53:39, 25.35s/it]
+[Epoch 73] Validation accuracy:0.3920. Loss:3.085
+Val correct sum 517 and length is 1319
+[Epoch 74] Training accuracy: 0.9990. Loss: 0.008 LR: 0.000800
+
+ 37%|████████████████████████████▊                                                 | 74/200 [31:15<53:09, 25.31s/it]
+[Epoch 74] Validation accuracy:0.3920. Loss:3.245
+Val correct sum 517 and length is 1319
+[Epoch 75] Training accuracy: 0.9909. Loss: 0.030 LR: 0.000800
+
+ 38%|█████████████████████████████▎                                                | 75/200 [31:40<52:36, 25.25s/it]
+[Epoch 75] Validation accuracy:0.3760. Loss:3.098
+Val correct sum 496 and length is 1319
+[Epoch 76] Training accuracy: 0.9909. Loss: 0.037 LR: 0.000800
+
+ 38%|█████████████████████████████▋                                                | 76/200 [32:05<52:20, 25.33s/it]
+[Epoch 76] Validation accuracy:0.4109. Loss:3.094
+Val correct sum 542 and length is 1319
+[Epoch 77] Training accuracy: 0.9902. Loss: 0.036 LR: 0.000800
+
+ 38%|██████████████████████████████                                                | 77/200 [32:30<51:55, 25.33s/it]
+[Epoch 77] Validation accuracy:0.3503. Loss:3.642
+Val correct sum 462 and length is 1319
+[Epoch 78] Training accuracy: 0.9920. Loss: 0.031 LR: 0.000800
+
+ 39%|██████████████████████████████▍                                               | 78/200 [32:56<51:21, 25.26s/it]
+[Epoch 78] Validation accuracy:0.3518. Loss:3.277
+Val correct sum 464 and length is 1319
+[Epoch 79] Training accuracy: 0.9946. Loss: 0.021 LR: 0.000800
+
+ 40%|██████████████████████████████▊                                               | 79/200 [33:21<51:07, 25.35s/it]
+[Epoch 79] Validation accuracy:0.3776. Loss:3.180
+Val correct sum 498 and length is 1319
+[Epoch 80] Training accuracy: 0.9904. Loss: 0.032 LR: 0.000800
+
+ 40%|███████████████████████████████▏                                              | 80/200 [33:46<50:36, 25.30s/it]
+[Epoch 80] Validation accuracy:0.3685. Loss:3.601
+Val correct sum 486 and length is 1319
+[Epoch 81] Training accuracy: 0.9920. Loss: 0.026 LR: 0.000640
+
+ 40%|███████████████████████████████▌                                              | 81/200 [34:12<50:07, 25.27s/it]
+[Epoch 81] Validation accuracy:0.3836. Loss:2.989
+Val correct sum 506 and length is 1319
+[Epoch 82] Training accuracy: 0.9986. Loss: 0.008 LR: 0.000640
+
+ 41%|███████████████████████████████▉                                              | 82/200 [34:37<49:56, 25.39s/it]
+[Epoch 82] Validation accuracy:0.3859. Loss:3.189
+Val correct sum 509 and length is 1319
+[Epoch 83] Training accuracy: 0.9988. Loss: 0.007 LR: 0.000640
+
+ 42%|████████████████████████████████▎                                             | 83/200 [35:02<49:26, 25.35s/it]
+[Epoch 83] Validation accuracy:0.3730. Loss:3.174
+Val correct sum 492 and length is 1319
+[Epoch 84] Training accuracy: 0.9990. Loss: 0.008 LR: 0.000640
+
+ 42%|████████████████████████████████▊                                             | 84/200 [35:28<49:01, 25.36s/it]
+[Epoch 84] Validation accuracy:0.3510. Loss:3.315
+Val correct sum 463 and length is 1319
+[Epoch 85] Training accuracy: 0.9948. Loss: 0.018 LR: 0.000640
+Training correct sum 5710 and length is 5740
+[Epoch 85] Validation accuracy:0.3912. Loss:2.828
+
+ 42%|█████████████████████████████████▏                                            | 85/200 [35:53<48:29, 25.30s/it]
+[Epoch 86] Training accuracy: 0.9979. Loss: 0.012 LR: 0.000640
+
+ 43%|█████████████████████████████████▌                                            | 86/200 [36:18<48:07, 25.33s/it]
+[Epoch 86] Validation accuracy:0.3783. Loss:3.023
+Val correct sum 499 and length is 1319
+[Epoch 87] Training accuracy: 0.9993. Loss: 0.008 LR: 0.000640
+
+ 44%|█████████████████████████████████▉                                            | 87/200 [36:44<47:43, 25.34s/it]
+[Epoch 87] Validation accuracy:0.3753. Loss:3.105
+Val correct sum 495 and length is 1319
+[Epoch 88] Training accuracy: 0.9990. Loss: 0.008 LR: 0.000640
+
+ 44%|██████████████████████████████████▎                                           | 88/200 [37:09<47:13, 25.30s/it]
+[Epoch 88] Validation accuracy:0.3692. Loss:3.070
+Val correct sum 487 and length is 1319
+[Epoch 89] Training accuracy: 0.9956. Loss: 0.019 LR: 0.000640
+
+ 44%|██████████████████████████████████▋                                           | 89/200 [37:34<46:44, 25.27s/it]
+[Epoch 89] Validation accuracy:0.4367. Loss:2.354
+Val correct sum 576 and length is 1319
+best_acc:0.4367
+[Epoch 90] Training accuracy: 0.9857. Loss: 0.051 LR: 0.000640
+Training correct sum 5658 and length is 5740
+[Epoch 90] Validation accuracy:0.3662. Loss:3.467
+
+ 45%|███████████████████████████████████                                           | 90/200 [38:00<46:22, 25.30s/it]
+[Epoch 91] Training accuracy: 0.9899. Loss: 0.035 LR: 0.000640
+
+ 46%|███████████████████████████████████▍                                          | 91/200 [38:25<45:57, 25.30s/it]
+[Epoch 91] Validation accuracy:0.3594. Loss:3.522
+Val correct sum 474 and length is 1319
+[Epoch 92] Training accuracy: 0.9929. Loss: 0.028 LR: 0.000640
+
+ 46%|███████████████████████████████████▉                                          | 92/200 [38:50<45:38, 25.36s/it]
+[Epoch 92] Validation accuracy:0.3821. Loss:3.240
+Val correct sum 504 and length is 1319
+[Epoch 93] Training accuracy: 0.9948. Loss: 0.018 LR: 0.000640
+
+ 46%|████████████████████████████████████▎                                         | 93/200 [39:16<45:21, 25.44s/it]
+[Epoch 93] Validation accuracy:0.3776. Loss:3.672
+Val correct sum 498 and length is 1319
+[Epoch 94] Training accuracy: 0.9972. Loss: 0.013 LR: 0.000640
+
+ 47%|████████████████████████████████████▋                                         | 94/200 [39:42<45:06, 25.53s/it]
+[Epoch 94] Validation accuracy:0.3973. Loss:3.089
+Val correct sum 524 and length is 1319
+[Epoch 95] Training accuracy: 0.9983. Loss: 0.010 LR: 0.000640
+
+ 48%|█████████████████████████████████████                                         | 95/200 [40:07<44:49, 25.61s/it]
+[Epoch 95] Validation accuracy:0.3897. Loss:3.008
+Val correct sum 514 and length is 1319
+[Epoch 96] Training accuracy: 0.9969. Loss: 0.013 LR: 0.000640
+
+ 48%|█████████████████████████████████████▍                                        | 96/200 [40:33<44:15, 25.53s/it]
+[Epoch 96] Validation accuracy:0.3889. Loss:3.462
+Val correct sum 513 and length is 1319
+[Epoch 97] Training accuracy: 0.9977. Loss: 0.012 LR: 0.000640
+
+ 48%|█████████████████████████████████████▊                                        | 97/200 [40:58<43:35, 25.39s/it]
+[Epoch 97] Validation accuracy:0.3624. Loss:3.298
+Val correct sum 478 and length is 1319
+[Epoch 98] Training accuracy: 0.9969. Loss: 0.013 LR: 0.000640
+
+ 49%|██████████████████████████████████████▏                                       | 98/200 [41:23<43:01, 25.31s/it]
+[Epoch 98] Validation accuracy:0.3988. Loss:2.911
+Val correct sum 526 and length is 1319
+[Epoch 99] Training accuracy: 0.9963. Loss: 0.018 LR: 0.000640
+
+ 50%|██████████████████████████████████████▌                                       | 99/200 [41:48<42:39, 25.34s/it]
+[Epoch 99] Validation accuracy:0.3594. Loss:3.208
+Val correct sum 474 and length is 1319
+[Epoch 100] Training accuracy: 0.9939. Loss: 0.021 LR: 0.000640
+
+ 50%|██████████████████████████████████████▌                                      | 100/200 [42:14<42:13, 25.34s/it]
+[Epoch 100] Validation accuracy:0.3685. Loss:3.645
+Val correct sum 486 and length is 1319
+[Epoch 101] Training accuracy: 0.9915. Loss: 0.031 LR: 0.000640
+
+ 50%|██████████████████████████████████████▉                                      | 101/200 [42:39<41:51, 25.37s/it]
+[Epoch 101] Validation accuracy:0.3844. Loss:3.221
+Val correct sum 507 and length is 1319
+[Epoch 102] Training accuracy: 0.9946. Loss: 0.024 LR: 0.000640
+
+ 51%|███████████████████████████████████████▎                                     | 102/200 [43:04<41:16, 25.27s/it]
+[Epoch 102] Validation accuracy:0.4132. Loss:3.590
+Val correct sum 545 and length is 1319
+[Epoch 103] Training accuracy: 0.9976. Loss: 0.014 LR: 0.000640
+
+ 52%|███████████████████████████████████████▋                                     | 103/200 [43:30<40:52, 25.28s/it]
+[Epoch 103] Validation accuracy:0.3950. Loss:2.888
+Val correct sum 521 and length is 1319
+[Epoch 104] Training accuracy: 0.9948. Loss: 0.020 LR: 0.000640
+
+ 52%|████████████████████████████████████████                                     | 104/200 [43:55<40:21, 25.23s/it]
+[Epoch 104] Validation accuracy:0.3434. Loss:3.641
+Val correct sum 453 and length is 1319
+[Epoch 105] Training accuracy: 0.9946. Loss: 0.021 LR: 0.000640
+
+ 52%|████████████████████████████████████████▍                                    | 105/200 [44:20<40:01, 25.28s/it]
+[Epoch 105] Validation accuracy:0.4162. Loss:2.964
+Val correct sum 549 and length is 1319
+[Epoch 106] Training accuracy: 0.9967. Loss: 0.017 LR: 0.000640
+
+ 53%|████████████████████████████████████████▊                                    | 106/200 [44:45<39:34, 25.26s/it]
+[Epoch 106] Validation accuracy:0.3965. Loss:2.514
+Val correct sum 523 and length is 1319
+[Epoch 107] Training accuracy: 0.9990. Loss: 0.008 LR: 0.000640
+
+ 54%|█████████████████████████████████████████▏                                   | 107/200 [45:11<39:12, 25.30s/it]
+[Epoch 107] Validation accuracy:0.3662. Loss:3.369
+Val correct sum 483 and length is 1319
+[Epoch 108] Training accuracy: 0.9991. Loss: 0.006 LR: 0.000640
+
+ 54%|█████████████████████████████████████████▌                                   | 108/200 [45:36<38:50, 25.34s/it]
+[Epoch 108] Validation accuracy:0.4086. Loss:3.191
+Val correct sum 539 and length is 1319
+[Epoch 109] Training accuracy: 0.9990. Loss: 0.007 LR: 0.000640
+
+ 55%|█████████████████████████████████████████▉                                   | 109/200 [46:01<38:17, 25.25s/it]
+[Epoch 109] Validation accuracy:0.3836. Loss:3.093
+Val correct sum 506 and length is 1319
+[Epoch 110] Training accuracy: 0.9814. Loss: 0.064 LR: 0.000640
+
+ 55%|██████████████████████████████████████████▎                                  | 110/200 [46:26<37:51, 25.24s/it]
+[Epoch 110] Validation accuracy:0.3518. Loss:3.930
+Val correct sum 464 and length is 1319
+[Epoch 111] Training accuracy: 0.9889. Loss: 0.041 LR: 0.000640
+
+ 56%|██████████████████████████████████████████▋                                  | 111/200 [46:52<37:26, 25.24s/it]
+[Epoch 111] Validation accuracy:0.4064. Loss:2.555
+Val correct sum 536 and length is 1319
+[Epoch 112] Training accuracy: 0.9946. Loss: 0.020 LR: 0.000640
+
+ 56%|███████████████████████████████████████████                                  | 112/200 [47:17<36:57, 25.20s/it]
+[Epoch 112] Validation accuracy:0.4344. Loss:3.030
+Val correct sum 573 and length is 1319
+[Epoch 113] Training accuracy: 0.9949. Loss: 0.017 LR: 0.000640
+
+ 56%|███████████████████████████████████████████▌                                 | 113/200 [47:42<36:34, 25.22s/it]
+[Epoch 113] Validation accuracy:0.3897. Loss:3.011
+Val correct sum 514 and length is 1319
+[Epoch 114] Training accuracy: 0.9972. Loss: 0.016 LR: 0.000640
+
+ 57%|███████████████████████████████████████████▉                                 | 114/200 [48:07<36:13, 25.28s/it]
+[Epoch 114] Validation accuracy:0.4094. Loss:2.823
+Val correct sum 540 and length is 1319
+[Epoch 115] Training accuracy: 0.9972. Loss: 0.013 LR: 0.000640
+
+ 57%|████████████████████████████████████████████▎                                | 115/200 [48:33<35:49, 25.29s/it]
+[Epoch 115] Validation accuracy:0.3700. Loss:3.382
+Val correct sum 488 and length is 1319
+[Epoch 116] Training accuracy: 0.9976. Loss: 0.013 LR: 0.000640
+
+ 58%|████████████████████████████████████████████▋                                | 116/200 [48:58<35:27, 25.32s/it]
+[Epoch 116] Validation accuracy:0.4155. Loss:3.254
+Val correct sum 548 and length is 1319
+[Epoch 117] Training accuracy: 0.9998. Loss: 0.005 LR: 0.000640
+
+ 58%|█████████████████████████████████████████████                                | 117/200 [49:24<35:12, 25.45s/it]
+[Epoch 117] Validation accuracy:0.4086. Loss:2.969
+Val correct sum 539 and length is 1319
+[Epoch 118] Training accuracy: 0.9993. Loss: 0.007 LR: 0.000640
+
+ 59%|█████████████████████████████████████████████▍                               | 118/200 [49:49<34:43, 25.41s/it]
+[Epoch 118] Validation accuracy:0.3980. Loss:2.947
+Val correct sum 525 and length is 1319
+[Epoch 119] Training accuracy: 1.0000. Loss: 0.006 LR: 0.000640
+
+ 60%|█████████████████████████████████████████████▊                               | 119/200 [50:14<34:11, 25.33s/it]
+[Epoch 119] Validation accuracy:0.4071. Loss:3.113
+Val correct sum 537 and length is 1319
+[Epoch 120] Training accuracy: 0.9993. Loss: 0.007 LR: 0.000640
+
+ 60%|██████████████████████████████████████████████▏                              | 120/200 [50:39<33:40, 25.25s/it]
+[Epoch 120] Validation accuracy:0.4177. Loss:2.536
+Val correct sum 551 and length is 1319
+[Epoch 121] Training accuracy: 0.9955. Loss: 0.020 LR: 0.000512
+
+ 60%|██████████████████████████████████████████████▌                              | 121/200 [51:05<33:13, 25.23s/it]
+[Epoch 121] Validation accuracy:0.4132. Loss:2.775
+Val correct sum 545 and length is 1319
+[Epoch 122] Training accuracy: 0.9984. Loss: 0.012 LR: 0.000512
+
+ 61%|██████████████████████████████████████████████▉                              | 122/200 [51:30<32:54, 25.31s/it]
+[Epoch 122] Validation accuracy:0.3700. Loss:3.223
+Val correct sum 488 and length is 1319
+[Epoch 123] Training accuracy: 0.9976. Loss: 0.013 LR: 0.000512
+Training correct sum 5726 and length is 5740
+[Epoch 123] Validation accuracy:0.3935. Loss:2.639
+
+ 62%|███████████████████████████████████████████████▎                             | 123/200 [51:55<32:21, 25.22s/it]
+[Epoch 124] Training accuracy: 0.9927. Loss: 0.029 LR: 0.000512
+
+ 62%|███████████████████████████████████████████████▋                             | 124/200 [52:20<31:50, 25.14s/it]
+[Epoch 124] Validation accuracy:0.3487. Loss:3.236
+Val correct sum 460 and length is 1319
+[Epoch 125] Training accuracy: 0.9890. Loss: 0.044 LR: 0.000512
+
+ 62%|████████████████████████████████████████████████▏                            | 125/200 [52:45<31:23, 25.11s/it]
+[Epoch 125] Validation accuracy:0.3563. Loss:3.999
+Val correct sum 470 and length is 1319
+[Epoch 126] Training accuracy: 0.9913. Loss: 0.027 LR: 0.000512
+
+ 63%|████████████████████████████████████████████████▌                            | 126/200 [53:10<30:59, 25.13s/it]
+[Epoch 126] Validation accuracy:0.3904. Loss:3.661
+Val correct sum 515 and length is 1319
+[Epoch 127] Training accuracy: 0.9970. Loss: 0.013 LR: 0.000512
+
+ 64%|████████████████████████████████████████████████▉                            | 127/200 [53:35<30:33, 25.12s/it]
+[Epoch 127] Validation accuracy:0.3882. Loss:3.648
+Val correct sum 512 and length is 1319
+[Epoch 128] Training accuracy: 0.9979. Loss: 0.010 LR: 0.000512
+
+ 64%|█████████████████████████████████████████████████▎                           | 128/200 [54:00<30:07, 25.11s/it]
+[Epoch 128] Validation accuracy:0.3942. Loss:3.321
+Val correct sum 520 and length is 1319
+[Epoch 129] Training accuracy: 0.9998. Loss: 0.004 LR: 0.000512
+
+ 64%|█████████████████████████████████████████████████▋                           | 129/200 [54:26<29:47, 25.17s/it]
+[Epoch 129] Validation accuracy:0.3995. Loss:3.228
+Val correct sum 527 and length is 1319
+[Epoch 130] Training accuracy: 0.9991. Loss: 0.006 LR: 0.000512
+
+ 65%|██████████████████████████████████████████████████                           | 130/200 [54:51<29:23, 25.20s/it]
+[Epoch 130] Validation accuracy:0.3927. Loss:3.095
+Val correct sum 518 and length is 1319
+[Epoch 131] Training accuracy: 0.9995. Loss: 0.006 LR: 0.000512
+
+ 66%|██████████████████████████████████████████████████▍                          | 131/200 [55:16<28:54, 25.14s/it]
+[Epoch 131] Validation accuracy:0.3912. Loss:2.920
+Val correct sum 516 and length is 1319
+[Epoch 132] Training accuracy: 0.9998. Loss: 0.005 LR: 0.000512
+
+ 66%|██████████████████████████████████████████████████▊                          | 132/200 [55:41<28:30, 25.15s/it]
+[Epoch 132] Validation accuracy:0.4041. Loss:3.007
+Val correct sum 533 and length is 1319
+[Epoch 133] Training accuracy: 0.9986. Loss: 0.010 LR: 0.000512
+
+ 66%|███████████████████████████████████████████████████▏                         | 133/200 [56:06<28:03, 25.13s/it]
+[Epoch 133] Validation accuracy:0.3715. Loss:3.241
+Val correct sum 490 and length is 1319
+[Epoch 134] Training accuracy: 1.0000. Loss: 0.006 LR: 0.000512
+
+ 67%|███████████████████████████████████████████████████▌                         | 134/200 [56:31<27:38, 25.13s/it]
+[Epoch 134] Validation accuracy:0.3760. Loss:3.107
+Val correct sum 496 and length is 1319
+[Epoch 135] Training accuracy: 0.9986. Loss: 0.009 LR: 0.000512
+
+ 68%|███████████████████████████████████████████████████▉                         | 135/200 [56:56<27:12, 25.12s/it]
+[Epoch 135] Validation accuracy:0.3942. Loss:3.582
+Val correct sum 520 and length is 1319
+[Epoch 136] Training accuracy: 0.9939. Loss: 0.024 LR: 0.000512
+
+ 68%|████████████████████████████████████████████████████▎                        | 136/200 [57:21<26:44, 25.08s/it]
+[Epoch 136] Validation accuracy:0.2904. Loss:4.899
+Val correct sum 383 and length is 1319
+[Epoch 137] Training accuracy: 0.9824. Loss: 0.063 LR: 0.000512
+
+ 68%|████████████████████████████████████████████████████▋                        | 137/200 [57:47<26:24, 25.16s/it]
+[Epoch 137] Validation accuracy:0.3836. Loss:3.613
+Val correct sum 506 and length is 1319
+[Epoch 138] Training accuracy: 0.9925. Loss: 0.024 LR: 0.000512
+
+ 69%|█████████████████████████████████████████████████████▏                       | 138/200 [58:12<26:00, 25.18s/it]
+[Epoch 138] Validation accuracy:0.3882. Loss:3.236
+Val correct sum 512 and length is 1319
+[Epoch 139] Training accuracy: 0.9951. Loss: 0.020 LR: 0.000512
+
+ 70%|█████████████████████████████████████████████████████▌                       | 139/200 [58:37<25:35, 25.17s/it]
+[Epoch 139] Validation accuracy:0.3760. Loss:3.415
+Val correct sum 496 and length is 1319
+[Epoch 140] Training accuracy: 0.9986. Loss: 0.010 LR: 0.000512
+
+ 70%|█████████████████████████████████████████████████████▉                       | 140/200 [59:02<25:12, 25.21s/it]
+[Epoch 140] Validation accuracy:0.3874. Loss:2.944
+Val correct sum 511 and length is 1319
+[Epoch 141] Training accuracy: 0.9979. Loss: 0.010 LR: 0.000512
+
+ 70%|██████████████████████████████████████████████████████▎                      | 141/200 [59:28<24:49, 25.24s/it]
+[Epoch 141] Validation accuracy:0.4049. Loss:3.455
+Val correct sum 534 and length is 1319
+[Epoch 142] Training accuracy: 0.9995. Loss: 0.006 LR: 0.000512
+Training correct sum 5737 and length is 5740
+[Epoch 142] Validation accuracy:0.3753. Loss:3.422
+
+ 71%|██████████████████████████████████████████████████████▋                      | 142/200 [59:53<24:23, 25.23s/it]
+[Epoch 143] Training accuracy: 0.9998. Loss: 0.005 LR: 0.000512
+
+ 72%|█████████████████████████████████████████████████████▋                     | 143/200 [1:00:18<23:55, 25.18s/it]
+[Epoch 143] Validation accuracy:0.4109. Loss:2.875
+Val correct sum 542 and length is 1319
+[Epoch 144] Training accuracy: 0.9998. Loss: 0.004 LR: 0.000512
+
+ 72%|██████████████████████████████████████████████████████                     | 144/200 [1:00:43<23:32, 25.22s/it]
+[Epoch 144] Validation accuracy:0.3927. Loss:3.105
+Val correct sum 518 and length is 1319
+[Epoch 145] Training accuracy: 1.0000. Loss: 0.005 LR: 0.000512
+
+ 72%|██████████████████████████████████████████████████████▍                    | 145/200 [1:01:09<23:07, 25.23s/it]
+[Epoch 145] Validation accuracy:0.3942. Loss:3.006
+Val correct sum 520 and length is 1319
+[Epoch 146] Training accuracy: 0.9998. Loss: 0.005 LR: 0.000512
+Training correct sum 5739 and length is 5740
+[Epoch 146] Validation accuracy:0.3958. Loss:3.204
+
+ 73%|██████████████████████████████████████████████████████▊                    | 146/200 [1:01:34<22:37, 25.14s/it]
+[Epoch 147] Training accuracy: 0.9997. Loss: 0.005 LR: 0.000512
+
+ 74%|███████████████████████████████████████████████████████▏                   | 147/200 [1:01:59<22:12, 25.14s/it]
+[Epoch 147] Validation accuracy:0.3882. Loss:3.211
+Val correct sum 512 and length is 1319
+[Epoch 148] Training accuracy: 0.9981. Loss: 0.010 LR: 0.000512
+
+ 74%|███████████████████████████████████████████████████████▌                   | 148/200 [1:02:24<21:46, 25.13s/it]
+[Epoch 148] Validation accuracy:0.3639. Loss:3.223
+Val correct sum 480 and length is 1319
+[Epoch 149] Training accuracy: 0.9868. Loss: 0.046 LR: 0.000512
+
+ 74%|███████████████████████████████████████████████████████▉                   | 149/200 [1:02:49<21:25, 25.20s/it]
+[Epoch 149] Validation accuracy:0.3958. Loss:3.387
+Val correct sum 522 and length is 1319
+[Epoch 150] Training accuracy: 0.9859. Loss: 0.054 LR: 0.000512
+
+ 75%|████████████████████████████████████████████████████████▎                  | 150/200 [1:03:14<20:59, 25.19s/it]
+[Epoch 150] Validation accuracy:0.4230. Loss:3.208
+Val correct sum 558 and length is 1319
+[Epoch 151] Training accuracy: 0.9937. Loss: 0.024 LR: 0.000512
+
+ 76%|████████████████████████████████████████████████████████▋                  | 151/200 [1:03:40<20:36, 25.23s/it]
+[Epoch 151] Validation accuracy:0.4230. Loss:3.447
+Val correct sum 558 and length is 1319
+[Epoch 152] Training accuracy: 0.9943. Loss: 0.023 LR: 0.000512
+
+ 76%|█████████████████████████████████████████████████████████                  | 152/200 [1:04:05<20:10, 25.23s/it]
+[Epoch 152] Validation accuracy:0.4094. Loss:3.496
+Val correct sum 540 and length is 1319
+[Epoch 153] Training accuracy: 0.9970. Loss: 0.014 LR: 0.000512
+Training correct sum 5723 and length is 5740
+[Epoch 153] Validation accuracy:0.3654. Loss:3.180
+
+ 76%|█████████████████████████████████████████████████████████▍                 | 153/200 [1:04:30<19:50, 25.32s/it]
+[Epoch 154] Training accuracy: 0.9991. Loss: 0.009 LR: 0.000512
+
+ 77%|█████████████████████████████████████████████████████████▊                 | 154/200 [1:04:55<19:20, 25.24s/it]
+[Epoch 154] Validation accuracy:0.3950. Loss:3.191
+Val correct sum 521 and length is 1319
+[Epoch 155] Training accuracy: 0.9995. Loss: 0.006 LR: 0.000512
+
+ 78%|██████████████████████████████████████████████████████████▏                | 155/200 [1:05:21<18:57, 25.27s/it]
+[Epoch 155] Validation accuracy:0.4003. Loss:3.059
+Val correct sum 528 and length is 1319
+[Epoch 156] Training accuracy: 0.9970. Loss: 0.011 LR: 0.000512
+
+ 78%|██████████████████████████████████████████████████████████▌                | 156/200 [1:05:46<18:36, 25.38s/it]
+[Epoch 156] Validation accuracy:0.4572. Loss:2.674
+Val correct sum 603 and length is 1319
+Model saved.
+best_acc:0.4572
+[Epoch 157] Training accuracy: 0.9991. Loss: 0.007 LR: 0.000512
+
+ 78%|██████████████████████████████████████████████████████████▉                | 157/200 [1:06:12<18:15, 25.47s/it]
+[Epoch 157] Validation accuracy:0.3950. Loss:2.800
+Val correct sum 521 and length is 1319
+[Epoch 158] Training accuracy: 0.9984. Loss: 0.010 LR: 0.000512
+
+ 79%|███████████████████████████████████████████████████████████▎               | 158/200 [1:06:38<17:48, 25.45s/it]
+[Epoch 158] Validation accuracy:0.3662. Loss:2.957
+Val correct sum 483 and length is 1319
+[Epoch 159] Training accuracy: 0.9991. Loss: 0.009 LR: 0.000512
+
+ 80%|███████████████████████████████████████████████████████████▋               | 159/200 [1:07:03<17:26, 25.53s/it]
+[Epoch 159] Validation accuracy:0.3927. Loss:2.893
+Val correct sum 518 and length is 1319
+[Epoch 160] Training accuracy: 0.9976. Loss: 0.010 LR: 0.000512
+
+ 80%|████████████████████████████████████████████████████████████               | 160/200 [1:07:29<16:59, 25.49s/it]
+[Epoch 160] Validation accuracy:0.3950. Loss:3.311
+Val correct sum 521 and length is 1319
+[Epoch 161] Training accuracy: 1.0000. Loss: 0.006 LR: 0.000410
+
+ 80%|████████████████████████████████████████████████████████████▍              | 161/200 [1:07:54<16:38, 25.60s/it]
+[Epoch 161] Validation accuracy:0.3897. Loss:3.177
+Val correct sum 514 and length is 1319
+[Epoch 162] Training accuracy: 0.9993. Loss: 0.005 LR: 0.000410
+
+ 81%|████████████████████████████████████████████████████████████▊              | 162/200 [1:08:20<16:12, 25.59s/it]
+[Epoch 162] Validation accuracy:0.3821. Loss:3.146
+Val correct sum 504 and length is 1319
+[Epoch 163] Training accuracy: 0.9967. Loss: 0.017 LR: 0.000410
+Training correct sum 5721 and length is 5740
+[Epoch 163] Validation accuracy:0.3548. Loss:3.562
+
+ 82%|█████████████████████████████████████████████████████████████              | 163/200 [1:08:45<15:42, 25.47s/it]
+[Epoch 164] Training accuracy: 0.9955. Loss: 0.019 LR: 0.000410
+
+ 82%|█████████████████████████████████████████████████████████████▍             | 164/200 [1:09:11<15:17, 25.48s/it]
+[Epoch 164] Validation accuracy:0.4041. Loss:3.063
+Val correct sum 533 and length is 1319
+[Epoch 165] Training accuracy: 0.9949. Loss: 0.021 LR: 0.000410
+
+ 82%|█████████████████████████████████████████████████████████████▉             | 165/200 [1:09:36<14:51, 25.48s/it]
+[Epoch 165] Validation accuracy:0.4003. Loss:3.095
+Val correct sum 528 and length is 1319
+[Epoch 166] Training accuracy: 0.9984. Loss: 0.010 LR: 0.000410
+
+ 83%|██████████████████████████████████████████████████████████████▎            | 166/200 [1:10:01<14:22, 25.38s/it]
+[Epoch 166] Validation accuracy:0.4003. Loss:2.939
+Val correct sum 528 and length is 1319
+[Epoch 167] Training accuracy: 0.9990. Loss: 0.008 LR: 0.000410
+
+ 84%|██████████████████████████████████████████████████████████████▋            | 167/200 [1:10:27<13:57, 25.37s/it]
+[Epoch 167] Validation accuracy:0.4155. Loss:3.300
+Val correct sum 548 and length is 1319
+[Epoch 168] Training accuracy: 0.9990. Loss: 0.007 LR: 0.000410
+Training correct sum 5734 and length is 5740
+[Epoch 168] Validation accuracy:0.3874. Loss:3.063
+
+ 84%|███████████████████████████████████████████████████████████████            | 168/200 [1:10:52<13:32, 25.40s/it]
+[Epoch 169] Training accuracy: 0.9995. Loss: 0.006 LR: 0.000410
+
+ 84%|███████████████████████████████████████████████████████████████▍           | 169/200 [1:11:17<13:05, 25.34s/it]
+[Epoch 169] Validation accuracy:0.4200. Loss:2.838
+Val correct sum 554 and length is 1319
+[Epoch 170] Training accuracy: 0.9976. Loss: 0.012 LR: 0.000410
+
+ 85%|███████████████████████████████████████████████████████████████▊           | 170/200 [1:11:43<12:42, 25.43s/it]
+[Epoch 170] Validation accuracy:0.3904. Loss:2.968
+Val correct sum 515 and length is 1319
+[Epoch 171] Training accuracy: 0.9960. Loss: 0.017 LR: 0.000410
+
+ 86%|████████████████████████████████████████████████████████████████▏          | 171/200 [1:12:09<12:18, 25.48s/it]
+[Epoch 171] Validation accuracy:0.3404. Loss:4.054
+Val correct sum 449 and length is 1319
+[Epoch 172] Training accuracy: 0.9955. Loss: 0.019 LR: 0.000410
+
+ 86%|████████████████████████████████████████████████████████████████▌          | 172/200 [1:12:34<11:52, 25.45s/it]
+[Epoch 172] Validation accuracy:0.3874. Loss:2.915
+Val correct sum 511 and length is 1319
+[Epoch 173] Training accuracy: 0.9939. Loss: 0.021 LR: 0.000410
+
+ 86%|████████████████████████████████████████████████████████████████▉          | 173/200 [1:13:00<11:27, 25.47s/it]
+[Epoch 173] Validation accuracy:0.3942. Loss:3.016
+Val correct sum 520 and length is 1319
+[Epoch 174] Training accuracy: 0.9946. Loss: 0.024 LR: 0.000410
+
+ 87%|█████████████████████████████████████████████████████████████████▎         | 174/200 [1:13:25<11:04, 25.54s/it]
+[Epoch 174] Validation accuracy:0.3578. Loss:3.314
+Val correct sum 472 and length is 1319
+[Epoch 175] Training accuracy: 0.9986. Loss: 0.009 LR: 0.000410
+
+ 88%|█████████████████████████████████████████████████████████████████▋         | 175/200 [1:13:51<10:38, 25.54s/it]
+[Epoch 175] Validation accuracy:0.3973. Loss:3.029
+Val correct sum 524 and length is 1319
+[Epoch 176] Training accuracy: 0.9997. Loss: 0.006 LR: 0.000410
+
+ 88%|██████████████████████████████████████████████████████████████████         | 176/200 [1:14:16<10:13, 25.56s/it]
+[Epoch 176] Validation accuracy:0.3980. Loss:3.285
+Val correct sum 525 and length is 1319
+[Epoch 177] Training accuracy: 0.9997. Loss: 0.007 LR: 0.000410
+
+ 88%|██████████████████████████████████████████████████████████████████▍        | 177/200 [1:14:41<09:43, 25.39s/it]
+[Epoch 177] Validation accuracy:0.3821. Loss:3.269
+Val correct sum 504 and length is 1319
+[Epoch 178] Training accuracy: 0.9965. Loss: 0.015 LR: 0.000410
+
+ 89%|██████████████████████████████████████████████████████████████████▊        | 178/200 [1:15:06<09:15, 25.25s/it]
+[Epoch 178] Validation accuracy:0.4033. Loss:3.021
+Val correct sum 532 and length is 1319
+[Epoch 179] Training accuracy: 0.9976. Loss: 0.012 LR: 0.000410
+
+ 90%|███████████████████████████████████████████████████████████████████▏       | 179/200 [1:15:32<08:50, 25.25s/it]
+[Epoch 179] Validation accuracy:0.4443. Loss:2.556
+Val correct sum 586 and length is 1319
+[Epoch 180] Training accuracy: 0.9969. Loss: 0.014 LR: 0.000410
+
+ 90%|███████████████████████████████████████████████████████████████████▌       | 180/200 [1:15:57<08:25, 25.26s/it]
+[Epoch 180] Validation accuracy:0.4003. Loss:2.923
+Val correct sum 528 and length is 1319
+[Epoch 181] Training accuracy: 0.9970. Loss: 0.014 LR: 0.000410
+
+ 90%|███████████████████████████████████████████████████████████████████▉       | 181/200 [1:16:22<08:00, 25.28s/it]
+[Epoch 181] Validation accuracy:0.3836. Loss:3.571
+Val correct sum 506 and length is 1319
+[Epoch 182] Training accuracy: 0.9932. Loss: 0.025 LR: 0.000410
+
+ 91%|████████████████████████████████████████████████████████████████████▎      | 182/200 [1:16:48<07:35, 25.32s/it]
+[Epoch 182] Validation accuracy:0.3738. Loss:2.568
+Val correct sum 493 and length is 1319
+[Epoch 183] Training accuracy: 0.9956. Loss: 0.018 LR: 0.000410
+
+ 92%|████████████████████████████████████████████████████████████████████▋      | 183/200 [1:17:13<07:10, 25.33s/it]
+[Epoch 183] Validation accuracy:0.3889. Loss:3.105
+Val correct sum 513 and length is 1319
+[Epoch 184] Training accuracy: 0.9981. Loss: 0.010 LR: 0.000410
+
+ 92%|█████████████████████████████████████████████████████████████████████      | 184/200 [1:17:38<06:45, 25.36s/it]
+[Epoch 184] Validation accuracy:0.3821. Loss:3.284
+Val correct sum 504 and length is 1319
+[Epoch 185] Training accuracy: 0.9993. Loss: 0.007 LR: 0.000410
+Training correct sum 5736 and length is 5740
+[Epoch 185] Validation accuracy:0.3685. Loss:3.213
+
+ 92%|█████████████████████████████████████████████████████████████████████▍     | 185/200 [1:18:04<06:21, 25.42s/it]
+[Epoch 186] Training accuracy: 0.9998. Loss: 0.005 LR: 0.000410
+
+ 93%|█████████████████████████████████████████████████████████████████████▊     | 186/200 [1:18:29<05:55, 25.36s/it]
+[Epoch 186] Validation accuracy:0.4056. Loss:3.173
+Val correct sum 535 and length is 1319
+[Epoch 187] Training accuracy: 0.9991. Loss: 0.005 LR: 0.000410
+
+ 94%|██████████████████████████████████████████████████████████████████████▏    | 187/200 [1:18:54<05:29, 25.36s/it]
+[Epoch 187] Validation accuracy:0.3783. Loss:3.311
+Val correct sum 499 and length is 1319
+[Epoch 188] Training accuracy: 0.9997. Loss: 0.005 LR: 0.000410
+Training correct sum 5738 and length is 5740
+[Epoch 188] Validation accuracy:0.3904. Loss:3.216
+
+ 94%|██████████████████████████████████████████████████████████████████████▌    | 188/200 [1:19:20<05:04, 25.37s/it]
+[Epoch 189] Training accuracy: 0.9984. Loss: 0.010 LR: 0.000410
+
+ 94%|██████████████████████████████████████████████████████████████████████▉    | 189/200 [1:19:45<04:39, 25.39s/it]
+[Epoch 189] Validation accuracy:0.3791. Loss:3.630
+Val correct sum 500 and length is 1319
+[Epoch 190] Training accuracy: 0.9983. Loss: 0.012 LR: 0.000410
+Training correct sum 5730 and length is 5740
+[Epoch 190] Validation accuracy:0.3904. Loss:3.277
+
+ 95%|███████████████████████████████████████████████████████████████████████▎   | 190/200 [1:20:10<04:12, 25.28s/it]
+[Epoch 191] Training accuracy: 0.9998. Loss: 0.005 LR: 0.000410
+
+ 96%|███████████████████████████████████████████████████████████████████████▋   | 191/200 [1:20:36<03:48, 25.36s/it]
+[Epoch 191] Validation accuracy:0.3829. Loss:3.228
+Val correct sum 505 and length is 1319
+[Epoch 192] Training accuracy: 0.9997. Loss: 0.005 LR: 0.000410
+
+ 96%|████████████████████████████████████████████████████████████████████████   | 192/200 [1:21:01<03:21, 25.22s/it]
+[Epoch 192] Validation accuracy:0.3836. Loss:3.203
+Val correct sum 506 and length is 1319
+[Epoch 193] Training accuracy: 0.9993. Loss: 0.005 LR: 0.000410
+
+ 96%|████████████████████████████████████████████████████████████████████████▍  | 193/200 [1:21:26<02:56, 25.28s/it]
+[Epoch 193] Validation accuracy:0.3715. Loss:3.480
+Val correct sum 490 and length is 1319
+[Epoch 194] Training accuracy: 0.9984. Loss: 0.011 LR: 0.000410
+
+ 97%|████████████████████████████████████████████████████████████████████████▊  | 194/200 [1:21:52<02:32, 25.37s/it]
+[Epoch 194] Validation accuracy:0.4428. Loss:3.214
+Val correct sum 584 and length is 1319
+[Epoch 195] Training accuracy: 0.9995. Loss: 0.006 LR: 0.000410
+
+ 98%|█████████████████████████████████████████████████████████████████████████▏ | 195/200 [1:22:17<02:07, 25.43s/it]
+[Epoch 195] Validation accuracy:0.4132. Loss:3.793
+Val correct sum 545 and length is 1319
+[Epoch 196] Training accuracy: 0.9960. Loss: 0.021 LR: 0.000410
+Training correct sum 5717 and length is 5740
+[Epoch 196] Validation accuracy:0.3609. Loss:3.238
+
+ 98%|█████████████████████████████████████████████████████████████████████████▌ | 196/200 [1:22:43<01:41, 25.46s/it]
+[Epoch 197] Training accuracy: 0.9861. Loss: 0.047 LR: 0.000410
+
+ 98%|█████████████████████████████████████████████████████████████████████████▉ | 197/200 [1:23:08<01:16, 25.35s/it]
+[Epoch 197] Validation accuracy:0.4193. Loss:3.108
+Val correct sum 553 and length is 1319
+[Epoch 198] Training accuracy: 0.9951. Loss: 0.022 LR: 0.000410
+
+ 99%|██████████████████████████████████████████████████████████████████████████▎| 198/200 [1:23:34<00:50, 25.43s/it]
+[Epoch 198] Validation accuracy:0.3935. Loss:3.229
+Val correct sum 519 and length is 1319
+[Epoch 199] Training accuracy: 0.9983. Loss: 0.009 LR: 0.000410
+
+100%|██████████████████████████████████████████████████████████████████████████▋| 199/200 [1:23:59<00:25, 25.38s/it]
+[Epoch 199] Validation accuracy:0.4132. Loss:3.306
+Val correct sum 545 and length is 1319
+[Epoch 200] Training accuracy: 0.9967. Loss: 0.012 LR: 0.000410
+Training correct sum 5721 and length is 5740
+[Epoch 200] Validation accuracy:0.4549. Loss:3.203
+
+100%|███████████████████████████████████████████████████████████████████████████| 200/200 [1:24:24<00:00, 25.32s/it]

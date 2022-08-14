@@ -1,0 +1,28 @@
+{
+    "os": "Windows-10-10.0.19042-SP0",
+    "python": "3.8.10",
+    "heartbeatAt": "2021-09-09T17:32:29.008227",
+    "startedAt": "2021-09-09T17:32:27.504660",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--data_type",
+        "GEMEP",
+        "--epochs",
+        "200",
+        "--wandb",
+        "--lr",
+        "0.005",
+        "--step",
+        "50"
+    ],
+    "state": "running",
+    "program": "train_face_leave_one_out.py",
+    "codePath": "train_face_leave_one_out.py",
+    "host": "DESKTOP-KASKE6A",
+    "username": "Ho Ping-Hsueh",
+    "executable": "C:\\Users\\Ho Ping-Hsueh\\Anaconda3\\envs\\test\\python.exe"
+}

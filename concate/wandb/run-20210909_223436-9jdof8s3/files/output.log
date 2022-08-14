@@ -1,0 +1,2649 @@
+The dataset is GEMEP and the path is ../datasets/GEMEP/
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/02amu_Gemep/
+train :  ../datasets/GEMEP/crop/02ang_Gemep/
+train :  ../datasets/GEMEP/crop/02anx_Gemep/
+train :  ../datasets/GEMEP/crop/02des_Gemep/
+train :  ../datasets/GEMEP/crop/02dis_Gemep/
+train :  ../datasets/GEMEP/crop/02fea_Gemep/
+train :  ../datasets/GEMEP/crop/02irr_Gemep/
+train :  ../datasets/GEMEP/crop/02joy_Gemep/
+train :  ../datasets/GEMEP/crop/02ple_Gemep/
+train :  ../datasets/GEMEP/crop/02sad_Gemep/
+train :  ../datasets/GEMEP/crop/03amu_Gemep/
+train :  ../datasets/GEMEP/crop/03ang_Gemep/
+train :  ../datasets/GEMEP/crop/03anx_Gemep/
+train :  ../datasets/GEMEP/crop/03con_Gemep/
+train :  ../datasets/GEMEP/crop/03des_Gemep/
+train :  ../datasets/GEMEP/crop/03fea_Gemep/
+train :  ../datasets/GEMEP/crop/03irr_Gemep/
+train :  ../datasets/GEMEP/crop/03joy_Gemep/
+train :  ../datasets/GEMEP/crop/03ple_Gemep/
+train :  ../datasets/GEMEP/crop/03sad_Gemep/
+train :  ../datasets/GEMEP/crop/03sur_Gemep/
+train :  ../datasets/GEMEP/crop/04amu_Gemep/
+train :  ../datasets/GEMEP/crop/04ang_Gemep/
+train :  ../datasets/GEMEP/crop/04anx_Gemep/
+train :  ../datasets/GEMEP/crop/04des_Gemep/
+train :  ../datasets/GEMEP/crop/04dis_Gemep/
+train :  ../datasets/GEMEP/crop/04fea_Gemep/
+train :  ../datasets/GEMEP/crop/04irr_Gemep/
+train :  ../datasets/GEMEP/crop/04joy_Gemep/
+train :  ../datasets/GEMEP/crop/04ple_Gemep/
+train :  ../datasets/GEMEP/crop/04sad_Gemep/
+train :  ../datasets/GEMEP/crop/05amu_Gemep/
+train :  ../datasets/GEMEP/crop/05ang_Gemep/
+train :  ../datasets/GEMEP/crop/05anx_Gemep/
+train :  ../datasets/GEMEP/crop/05des_Gemep/
+train :  ../datasets/GEMEP/crop/05dis_Gemep/
+train :  ../datasets/GEMEP/crop/05fea_Gemep/
+train :  ../datasets/GEMEP/crop/05irr_Gemep/
+train :  ../datasets/GEMEP/crop/05joy_Gemep/
+train :  ../datasets/GEMEP/crop/05ple_Gemep/
+train :  ../datasets/GEMEP/crop/05sad_Gemep/
+train :  ../datasets/GEMEP/crop/06amu_Gemep/
+train :  ../datasets/GEMEP/crop/06ang_Gemep/
+train :  ../datasets/GEMEP/crop/06anx_Gemep/
+train :  ../datasets/GEMEP/crop/06con_Gemep/
+train :  ../datasets/GEMEP/crop/06des_Gemep/
+train :  ../datasets/GEMEP/crop/06fea_Gemep/
+train :  ../datasets/GEMEP/crop/06irr_Gemep/
+train :  ../datasets/GEMEP/crop/06joy_Gemep/
+train :  ../datasets/GEMEP/crop/06ple_Gemep/
+train :  ../datasets/GEMEP/crop/06sad_Gemep/
+train :  ../datasets/GEMEP/crop/06sur_Gemep/
+train :  ../datasets/GEMEP/crop/07amu_Gemep/
+train :  ../datasets/GEMEP/crop/07ang_Gemep/
+train :  ../datasets/GEMEP/crop/07anx_Gemep/
+train :  ../datasets/GEMEP/crop/07con_Gemep/
+train :  ../datasets/GEMEP/crop/07des_Gemep/
+train :  ../datasets/GEMEP/crop/07fea_Gemep/
+train :  ../datasets/GEMEP/crop/07irr_Gemep/
+train :  ../datasets/GEMEP/crop/07joy_Gemep/
+train :  ../datasets/GEMEP/crop/07ple_Gemep/
+train :  ../datasets/GEMEP/crop/07sad_Gemep/
+train :  ../datasets/GEMEP/crop/07sur_Gemep/
+train :  ../datasets/GEMEP/crop/08amu_Gemep/
+train :  ../datasets/GEMEP/crop/08ang_Gemep/
+train :  ../datasets/GEMEP/crop/08anx_Gemep/
+train :  ../datasets/GEMEP/crop/08con_Gemep/
+train :  ../datasets/GEMEP/crop/08des_Gemep/
+train :  ../datasets/GEMEP/crop/08fea_Gemep/
+train :  ../datasets/GEMEP/crop/08irr_Gemep/
+train :  ../datasets/GEMEP/crop/08joy_Gemep/
+train :  ../datasets/GEMEP/crop/08ple_Gemep/
+train :  ../datasets/GEMEP/crop/08sad_Gemep/
+train :  ../datasets/GEMEP/crop/08sur_Gemep/
+train :  ../datasets/GEMEP/crop/09amu_Gemep/
+train :  ../datasets/GEMEP/crop/09ang_Gemep/
+train :  ../datasets/GEMEP/crop/09anx_Gemep/
+train :  ../datasets/GEMEP/crop/09des_Gemep/
+train :  ../datasets/GEMEP/crop/09dis_Gemep/
+train :  ../datasets/GEMEP/crop/09fea_Gemep/
+train :  ../datasets/GEMEP/crop/09irr_Gemep/
+train :  ../datasets/GEMEP/crop/09joy_Gemep/
+train :  ../datasets/GEMEP/crop/09ple_Gemep/
+train :  ../datasets/GEMEP/crop/09sad_Gemep/
+train :  ../datasets/GEMEP/crop/10amu_Gemep/
+train :  ../datasets/GEMEP/crop/10ang_Gemep/
+train :  ../datasets/GEMEP/crop/10anx_Gemep/
+train :  ../datasets/GEMEP/crop/10des_Gemep/
+train :  ../datasets/GEMEP/crop/10dis_Gemep/
+train :  ../datasets/GEMEP/crop/10fea_Gemep/
+train :  ../datasets/GEMEP/crop/10irr_Gemep/
+train :  ../datasets/GEMEP/crop/10joy_Gemep/
+train :  ../datasets/GEMEP/crop/10ple_Gemep/
+train :  ../datasets/GEMEP/crop/10sad_Gemep/
+val :  ../datasets/GEMEP/crop/01ang_Gemep/
+val :  ../datasets/GEMEP/crop/01con_Gemep/
+val :  ../datasets/GEMEP/crop/01fea_Gemep/
+val :  ../datasets/GEMEP/crop/01ple_Gemep/
+val :  ../datasets/GEMEP/crop/01sad_Gemep/
+val :  ../datasets/GEMEP/crop/01sur_Gemep/
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+[Epoch 1] Training accuracy: 0.5995. Loss: 1.111 LR: 0.001000
+Training correct sum 3750 and length is 6255
+Validation accuracy:0.2873. Loss:1.473
+Val correct sum 77 and length is 268
+
+  3%|██▋                                                                             | 1/30 [00:28<13:40, 28.31s/it]
+[Epoch 2] Training accuracy: 0.8871. Loss: 0.350 LR: 0.001000
+Training correct sum 5549 and length is 6255
+Validation accuracy:0.4813. Loss:1.401
+Val correct sum 129 and length is 268
+
+  7%|█████▎                                                                          | 2/30 [00:54<12:40, 27.16s/it]
+[Epoch 3] Training accuracy: 0.9413. Loss: 0.203 LR: 0.001000
+Training correct sum 5888 and length is 6255
+Validation accuracy:0.1642. Loss:5.246
+
+ 10%|████████                                                                        | 3/30 [01:21<12:03, 26.81s/it]
+[Epoch 4] Training accuracy: 0.9376. Loss: 0.217 LR: 0.001000
+Training correct sum 5865 and length is 6255
+Validation accuracy:0.5821. Loss:1.896
+Val correct sum 156 and length is 268
+
+ 13%|██████████▋                                                                     | 4/30 [01:47<11:34, 26.70s/it]
+[Epoch 5] Training accuracy: 0.9504. Loss: 0.161 LR: 0.001000
+Training correct sum 5945 and length is 6255
+Validation accuracy:0.2612. Loss:5.828
+
+ 17%|█████████████▎                                                                  | 5/30 [02:13<11:04, 26.57s/it]
+[Epoch 6] Training accuracy: 0.9503. Loss: 0.169 LR: 0.001000
+Training correct sum 5944 and length is 6255
+Validation accuracy:0.1567. Loss:5.812
+
+ 20%|████████████████                                                                | 6/30 [02:40<10:35, 26.46s/it]
+[Epoch 7] Training accuracy: 0.9551. Loss: 0.144 LR: 0.001000
+Training correct sum 5974 and length is 6255
+Validation accuracy:0.3507. Loss:3.438
+
+ 23%|██████████████████▋                                                             | 7/30 [03:06<10:10, 26.54s/it]
+[Epoch 8] Training accuracy: 0.9533. Loss: 0.151 LR: 0.001000
+Training correct sum 5963 and length is 6255
+Validation accuracy:0.2612. Loss:3.762
+
+ 27%|█████████████████████▎                                                          | 8/30 [03:33<09:43, 26.54s/it]
+[Epoch 9] Training accuracy: 0.9645. Loss: 0.118 LR: 0.001000
+Training correct sum 6033 and length is 6255
+Validation accuracy:0.3396. Loss:2.219
+
+ 30%|████████████████████████                                                        | 9/30 [03:59<09:17, 26.54s/it]
+[Epoch 10] Training accuracy: 0.9591. Loss: 0.134 LR: 0.001000
+Training correct sum 5999 and length is 6255
+Validation accuracy:0.6157. Loss:2.750
+Val correct sum 165 and length is 268
+
+ 33%|██████████████████████████▎                                                    | 10/30 [04:26<08:51, 26.58s/it]
+[Epoch 11] Training accuracy: 0.9722. Loss: 0.099 LR: 0.000800
+Training correct sum 6081 and length is 6255
+Validation accuracy:0.4813. Loss:1.801
+
+ 37%|████████████████████████████▉                                                  | 11/30 [04:53<08:25, 26.59s/it]
+[Epoch 12] Training accuracy: 0.9783. Loss: 0.072 LR: 0.000800
+Training correct sum 6119 and length is 6255
+Validation accuracy:0.3918. Loss:2.081
+
+ 40%|███████████████████████████████▌                                               | 12/30 [05:19<07:57, 26.51s/it]
+[Epoch 13] Training accuracy: 0.9680. Loss: 0.107 LR: 0.000800
+Training correct sum 6055 and length is 6255
+Validation accuracy:0.3619. Loss:4.181
+
+ 43%|██████████████████████████████████▏                                            | 13/30 [05:46<07:31, 26.56s/it]
+[Epoch 14] Training accuracy: 0.9725. Loss: 0.087 LR: 0.000800
+Training correct sum 6083 and length is 6255
+Validation accuracy:0.7313. Loss:1.253
+Val correct sum 196 and length is 268
+
+ 47%|████████████████████████████████████▊                                          | 14/30 [06:12<07:03, 26.48s/it]
+[Epoch 15] Training accuracy: 0.9823. Loss: 0.066 LR: 0.000800
+Training correct sum 6144 and length is 6255
+Validation accuracy:0.5187. Loss:2.573
+
+ 50%|███████████████████████████████████████▌                                       | 15/30 [06:38<06:36, 26.44s/it]
+[Epoch 16] Training accuracy: 0.9799. Loss: 0.070 LR: 0.000800
+Training correct sum 6129 and length is 6255
+Validation accuracy:0.4254. Loss:1.863
+
+ 53%|██████████████████████████████████████████▏                                    | 16/30 [07:05<06:08, 26.35s/it]
+[Epoch 17] Training accuracy: 0.9808. Loss: 0.065 LR: 0.000800
+Training correct sum 6135 and length is 6255
+Validation accuracy:0.5336. Loss:2.426
+
+ 57%|████████████████████████████████████████████▊                                  | 17/30 [07:31<05:43, 26.42s/it]
+[Epoch 18] Training accuracy: 0.9781. Loss: 0.076 LR: 0.000800
+Training correct sum 6118 and length is 6255
+Validation accuracy:0.5299. Loss:2.781
+
+ 60%|███████████████████████████████████████████████▍                               | 18/30 [07:58<05:19, 26.61s/it]
+[Epoch 19] Training accuracy: 0.9815. Loss: 0.064 LR: 0.000800
+Training correct sum 6139 and length is 6255
+Validation accuracy:0.2575. Loss:4.192
+
+ 63%|██████████████████████████████████████████████████                             | 19/30 [08:24<04:51, 26.48s/it]
+[Epoch 20] Training accuracy: 0.9878. Loss: 0.043 LR: 0.000800
+Training correct sum 6179 and length is 6255
+Validation accuracy:0.5336. Loss:2.552
+
+ 67%|████████████████████████████████████████████████████▋                          | 20/30 [08:50<04:23, 26.33s/it]
+[Epoch 21] Training accuracy: 0.9875. Loss: 0.040 LR: 0.000640
+Training correct sum 6177 and length is 6255
+Validation accuracy:0.5672. Loss:2.165
+
+ 70%|███████████████████████████████████████████████████████▎                       | 21/30 [09:17<03:57, 26.42s/it]
+[Epoch 22] Training accuracy: 0.9875. Loss: 0.042 LR: 0.000640
+Training correct sum 6177 and length is 6255
+Validation accuracy:0.4291. Loss:2.581
+
+ 73%|█████████████████████████████████████████████████████████▉                     | 22/30 [09:44<03:32, 26.58s/it]
+[Epoch 23] Training accuracy: 0.9886. Loss: 0.042 LR: 0.000640
+Training correct sum 6184 and length is 6255
+Validation accuracy:0.4739. Loss:3.274
+
+ 77%|████████████████████████████████████████████████████████████▌                  | 23/30 [10:10<03:05, 26.53s/it]
+[Epoch 24] Training accuracy: 0.9882. Loss: 0.041 LR: 0.000640
+Training correct sum 6181 and length is 6255
+Validation accuracy:0.3657. Loss:4.720
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 24/30 [10:37<02:38, 26.44s/it]
+[Epoch 25] Training accuracy: 0.9835. Loss: 0.056 LR: 0.000640
+Training correct sum 6152 and length is 6255
+Validation accuracy:0.4888. Loss:3.968
+
+ 83%|█████████████████████████████████████████████████████████████████▊             | 25/30 [11:03<02:12, 26.42s/it]
+[Epoch 26] Training accuracy: 0.9893. Loss: 0.039 LR: 0.000640
+Training correct sum 6188 and length is 6255
+Validation accuracy:0.2985. Loss:3.274
+
+ 87%|████████████████████████████████████████████████████████████████████▍          | 26/30 [11:30<01:45, 26.50s/it]
+[Epoch 27] Training accuracy: 0.9914. Loss: 0.026 LR: 0.000640
+Training correct sum 6201 and length is 6255
+Validation accuracy:0.5373. Loss:3.583
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 27/30 [11:56<01:19, 26.58s/it]
+[Epoch 28] Training accuracy: 0.9883. Loss: 0.039 LR: 0.000640
+Training correct sum 6182 and length is 6255
+Validation accuracy:0.5336. Loss:3.183
+
+ 93%|█████████████████████████████████████████████████████████████████████████▋     | 28/30 [12:23<00:53, 26.69s/it]
+[Epoch 29] Training accuracy: 0.9875. Loss: 0.041 LR: 0.000640
+Training correct sum 6177 and length is 6255
+Validation accuracy:0.5336. Loss:3.647
+
+ 97%|████████████████████████████████████████████████████████████████████████████▎  | 29/30 [12:50<00:26, 26.71s/it]
+[Epoch 30] Training accuracy: 0.9891. Loss: 0.043 LR: 0.000640
+Training correct sum 6187 and length is 6255
+Validation accuracy:0.5112. Loss:2.732
+Val correct sum 137 and length is 268
+Model saved.
+[Split: 01/10] Accuracy: 0.433
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/01amu_Gemep/
+train :  ../datasets/GEMEP/crop/01ang_Gemep/
+train :  ../datasets/GEMEP/crop/01anx_Gemep/
+train :  ../datasets/GEMEP/crop/01con_Gemep/
+train :  ../datasets/GEMEP/crop/01des_Gemep/
+train :  ../datasets/GEMEP/crop/01fea_Gemep/
+train :  ../datasets/GEMEP/crop/01irr_Gemep/
+train :  ../datasets/GEMEP/crop/01joy_Gemep/
+train :  ../datasets/GEMEP/crop/01ple_Gemep/
+train :  ../datasets/GEMEP/crop/01sad_Gemep/
+train :  ../datasets/GEMEP/crop/01sur_Gemep/
+train :  ../datasets/GEMEP/crop/03amu_Gemep/
+train :  ../datasets/GEMEP/crop/03ang_Gemep/
+train :  ../datasets/GEMEP/crop/03anx_Gemep/
+train :  ../datasets/GEMEP/crop/03con_Gemep/
+train :  ../datasets/GEMEP/crop/03des_Gemep/
+train :  ../datasets/GEMEP/crop/03fea_Gemep/
+train :  ../datasets/GEMEP/crop/03irr_Gemep/
+train :  ../datasets/GEMEP/crop/03joy_Gemep/
+train :  ../datasets/GEMEP/crop/03ple_Gemep/
+train :  ../datasets/GEMEP/crop/03sad_Gemep/
+train :  ../datasets/GEMEP/crop/03sur_Gemep/
+train :  ../datasets/GEMEP/crop/04amu_Gemep/
+train :  ../datasets/GEMEP/crop/04ang_Gemep/
+train :  ../datasets/GEMEP/crop/04anx_Gemep/
+train :  ../datasets/GEMEP/crop/04des_Gemep/
+train :  ../datasets/GEMEP/crop/04dis_Gemep/
+train :  ../datasets/GEMEP/crop/04fea_Gemep/
+train :  ../datasets/GEMEP/crop/04irr_Gemep/
+train :  ../datasets/GEMEP/crop/04joy_Gemep/
+train :  ../datasets/GEMEP/crop/04ple_Gemep/
+train :  ../datasets/GEMEP/crop/04sad_Gemep/
+train :  ../datasets/GEMEP/crop/05amu_Gemep/
+train :  ../datasets/GEMEP/crop/05ang_Gemep/
+train :  ../datasets/GEMEP/crop/05anx_Gemep/
+train :  ../datasets/GEMEP/crop/05des_Gemep/
+train :  ../datasets/GEMEP/crop/05dis_Gemep/
+train :  ../datasets/GEMEP/crop/05fea_Gemep/
+train :  ../datasets/GEMEP/crop/05irr_Gemep/
+train :  ../datasets/GEMEP/crop/05joy_Gemep/
+train :  ../datasets/GEMEP/crop/05ple_Gemep/
+train :  ../datasets/GEMEP/crop/05sad_Gemep/
+train :  ../datasets/GEMEP/crop/06amu_Gemep/
+train :  ../datasets/GEMEP/crop/06ang_Gemep/
+train :  ../datasets/GEMEP/crop/06anx_Gemep/
+train :  ../datasets/GEMEP/crop/06con_Gemep/
+train :  ../datasets/GEMEP/crop/06des_Gemep/
+train :  ../datasets/GEMEP/crop/06fea_Gemep/
+train :  ../datasets/GEMEP/crop/06irr_Gemep/
+train :  ../datasets/GEMEP/crop/06joy_Gemep/
+train :  ../datasets/GEMEP/crop/06ple_Gemep/
+train :  ../datasets/GEMEP/crop/06sad_Gemep/
+train :  ../datasets/GEMEP/crop/06sur_Gemep/
+train :  ../datasets/GEMEP/crop/07amu_Gemep/
+train :  ../datasets/GEMEP/crop/07ang_Gemep/
+train :  ../datasets/GEMEP/crop/07anx_Gemep/
+train :  ../datasets/GEMEP/crop/07con_Gemep/
+train :  ../datasets/GEMEP/crop/07des_Gemep/
+train :  ../datasets/GEMEP/crop/07fea_Gemep/
+train :  ../datasets/GEMEP/crop/07irr_Gemep/
+train :  ../datasets/GEMEP/crop/07joy_Gemep/
+train :  ../datasets/GEMEP/crop/07ple_Gemep/
+train :  ../datasets/GEMEP/crop/07sad_Gemep/
+train :  ../datasets/GEMEP/crop/07sur_Gemep/
+train :  ../datasets/GEMEP/crop/08amu_Gemep/
+train :  ../datasets/GEMEP/crop/08ang_Gemep/
+train :  ../datasets/GEMEP/crop/08anx_Gemep/
+train :  ../datasets/GEMEP/crop/08con_Gemep/
+train :  ../datasets/GEMEP/crop/08des_Gemep/
+train :  ../datasets/GEMEP/crop/08fea_Gemep/
+train :  ../datasets/GEMEP/crop/08irr_Gemep/
+train :  ../datasets/GEMEP/crop/08joy_Gemep/
+train :  ../datasets/GEMEP/crop/08ple_Gemep/
+train :  ../datasets/GEMEP/crop/08sad_Gemep/
+train :  ../datasets/GEMEP/crop/08sur_Gemep/
+train :  ../datasets/GEMEP/crop/09amu_Gemep/
+train :  ../datasets/GEMEP/crop/09ang_Gemep/
+train :  ../datasets/GEMEP/crop/09anx_Gemep/
+train :  ../datasets/GEMEP/crop/09des_Gemep/
+train :  ../datasets/GEMEP/crop/09dis_Gemep/
+train :  ../datasets/GEMEP/crop/09fea_Gemep/
+train :  ../datasets/GEMEP/crop/09irr_Gemep/
+train :  ../datasets/GEMEP/crop/09joy_Gemep/
+train :  ../datasets/GEMEP/crop/09ple_Gemep/
+train :  ../datasets/GEMEP/crop/09sad_Gemep/
+train :  ../datasets/GEMEP/crop/10amu_Gemep/
+train :  ../datasets/GEMEP/crop/10ang_Gemep/
+train :  ../datasets/GEMEP/crop/10anx_Gemep/
+train :  ../datasets/GEMEP/crop/10des_Gemep/
+train :  ../datasets/GEMEP/crop/10dis_Gemep/
+train :  ../datasets/GEMEP/crop/10fea_Gemep/
+train :  ../datasets/GEMEP/crop/10irr_Gemep/
+train :  ../datasets/GEMEP/crop/10joy_Gemep/
+train :  ../datasets/GEMEP/crop/10ple_Gemep/
+train :  ../datasets/GEMEP/crop/10sad_Gemep/
+val :  ../datasets/GEMEP/crop/02ang_Gemep/
+val :  ../datasets/GEMEP/crop/02dis_Gemep/
+val :  ../datasets/GEMEP/crop/02fea_Gemep/
+val :  ../datasets/GEMEP/crop/02ple_Gemep/
+100%|███████████████████████████████████████████████████████████████████████████████| 30/30 [13:17<00:00, 26.57s/it]
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+[Epoch 1] Training accuracy: 0.6063. Loss: 1.107 LR: 0.001000
+Training correct sum 3738 and length is 6165
+Validation accuracy:0.4726. Loss:1.203
+Val correct sum 138 and length is 292
+
+  3%|██▋                                                                             | 1/30 [00:27<13:03, 27.02s/it]
+[Epoch 2] Training accuracy: 0.8913. Loss: 0.332 LR: 0.001000
+Training correct sum 5495 and length is 6165
+Validation accuracy:0.5342. Loss:1.703
+Val correct sum 156 and length is 292
+
+  7%|█████▎                                                                          | 2/30 [00:54<12:37, 27.07s/it]
+[Epoch 3] Training accuracy: 0.9374. Loss: 0.209 LR: 0.001000
+Training correct sum 5779 and length is 6165
+Validation accuracy:0.4041. Loss:1.985
+
+ 10%|████████                                                                        | 3/30 [01:20<12:01, 26.71s/it]
+[Epoch 4] Training accuracy: 0.9429. Loss: 0.185 LR: 0.001000
+Training correct sum 5813 and length is 6165
+Validation accuracy:0.2637. Loss:3.623
+
+ 13%|██████████▋                                                                     | 4/30 [01:50<12:04, 27.86s/it]
+[Epoch 5] Training accuracy: 0.9513. Loss: 0.155 LR: 0.001000
+Training correct sum 5865 and length is 6165
+Validation accuracy:0.5925. Loss:1.426
+Val correct sum 173 and length is 292
+
+ 17%|█████████████▎                                                                  | 5/30 [02:33<13:58, 33.53s/it]
+[Epoch 6] Training accuracy: 0.9468. Loss: 0.182 LR: 0.001000
+Training correct sum 5837 and length is 6165
+Validation accuracy:0.4110. Loss:6.762
+
+ 20%|████████████████                                                                | 6/30 [03:00<12:27, 31.16s/it]
+[Epoch 7] Training accuracy: 0.9478. Loss: 0.177 LR: 0.001000
+
+ 23%|██████████████████▋                                                             | 7/30 [03:27<11:26, 29.84s/it]
+Validation accuracy:0.5000. Loss:2.486
+Val correct sum 146 and length is 292
+[Epoch 8] Training accuracy: 0.9583. Loss: 0.139 LR: 0.001000
+Training correct sum 5908 and length is 6165
+Validation accuracy:0.4281. Loss:2.196
+
+ 27%|█████████████████████▎                                                          | 8/30 [03:53<10:33, 28.81s/it]
+[Epoch 9] Training accuracy: 0.9671. Loss: 0.110 LR: 0.001000
+Training correct sum 5962 and length is 6165
+Validation accuracy:0.3801. Loss:3.635
+
+ 30%|████████████████████████                                                        | 9/30 [04:20<09:48, 28.04s/it]
+[Epoch 10] Training accuracy: 0.9679. Loss: 0.103 LR: 0.001000
+Training correct sum 5967 and length is 6165
+Validation accuracy:0.4829. Loss:2.622
+
+ 33%|██████████████████████████▎                                                    | 10/30 [04:46<09:09, 27.47s/it]
+[Epoch 11] Training accuracy: 0.9815. Loss: 0.070 LR: 0.000800
+Training correct sum 6051 and length is 6165
+Validation accuracy:0.6233. Loss:1.446
+Val correct sum 182 and length is 292
+
+ 37%|████████████████████████████▉                                                  | 11/30 [05:13<08:37, 27.26s/it]
+[Epoch 12] Training accuracy: 0.9838. Loss: 0.060 LR: 0.000800
+Training correct sum 6065 and length is 6165
+Validation accuracy:0.2295. Loss:6.311
+
+ 40%|███████████████████████████████▌                                               | 12/30 [05:39<08:07, 27.09s/it]
+[Epoch 13] Training accuracy: 0.9630. Loss: 0.126 LR: 0.000800
+Training correct sum 5937 and length is 6165
+Validation accuracy:0.0788. Loss:4.008
+
+ 43%|██████████████████████████████████▏                                            | 13/30 [06:06<07:37, 26.92s/it]
+[Epoch 14] Training accuracy: 0.9705. Loss: 0.098 LR: 0.000800
+Training correct sum 5983 and length is 6165
+Validation accuracy:0.6062. Loss:0.903
+
+ 47%|████████████████████████████████████▊                                          | 14/30 [06:32<07:08, 26.80s/it]
+[Epoch 15] Training accuracy: 0.9925. Loss: 0.031 LR: 0.000800
+Training correct sum 6119 and length is 6165
+Validation accuracy:0.3973. Loss:2.522
+
+ 50%|███████████████████████████████████████▌                                       | 15/30 [06:59<06:40, 26.68s/it]
+[Epoch 16] Training accuracy: 0.9809. Loss: 0.065 LR: 0.000800
+Training correct sum 6047 and length is 6165
+Validation accuracy:0.5582. Loss:2.309
+
+ 53%|██████████████████████████████████████████▏                                    | 16/30 [07:25<06:12, 26.60s/it]
+[Epoch 17] Training accuracy: 0.9813. Loss: 0.063 LR: 0.000800
+Training correct sum 6050 and length is 6165
+Validation accuracy:0.5171. Loss:3.253
+
+ 57%|████████████████████████████████████████████▊                                  | 17/30 [07:53<05:49, 26.89s/it]
+[Epoch 18] Training accuracy: 0.9891. Loss: 0.044 LR: 0.000800
+Training correct sum 6098 and length is 6165
+Validation accuracy:0.5103. Loss:2.427
+
+ 60%|███████████████████████████████████████████████▍                               | 18/30 [08:20<05:21, 26.82s/it]
+[Epoch 19] Training accuracy: 0.9852. Loss: 0.056 LR: 0.000800
+Training correct sum 6074 and length is 6165
+Validation accuracy:0.3596. Loss:4.908
+
+ 63%|██████████████████████████████████████████████████                             | 19/30 [08:47<04:56, 26.94s/it]
+[Epoch 20] Training accuracy: 0.9766. Loss: 0.082 LR: 0.000800
+Training correct sum 6021 and length is 6165
+Validation accuracy:0.4315. Loss:3.132
+
+ 67%|████████████████████████████████████████████████████▋                          | 20/30 [09:14<04:28, 26.89s/it]
+[Epoch 21] Training accuracy: 0.9835. Loss: 0.059 LR: 0.000640
+Training correct sum 6063 and length is 6165
+Validation accuracy:0.4863. Loss:2.271
+
+ 70%|███████████████████████████████████████████████████████▎                       | 21/30 [09:40<04:00, 26.75s/it]
+[Epoch 22] Training accuracy: 0.9981. Loss: 0.013 LR: 0.000640
+Training correct sum 6153 and length is 6165
+Validation accuracy:0.3904. Loss:2.883
+
+ 73%|█████████████████████████████████████████████████████████▉                     | 22/30 [10:07<03:34, 26.78s/it]
+[Epoch 23] Training accuracy: 0.9945. Loss: 0.022 LR: 0.000640
+Training correct sum 6131 and length is 6165
+Validation accuracy:0.4075. Loss:2.748
+
+ 77%|████████████████████████████████████████████████████████████▌                  | 23/30 [10:34<03:08, 26.95s/it]
+[Epoch 24] Training accuracy: 0.9912. Loss: 0.027 LR: 0.000640
+Training correct sum 6111 and length is 6165
+Validation accuracy:0.4178. Loss:2.224
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 24/30 [11:01<02:40, 26.83s/it]
+[Epoch 25] Training accuracy: 0.9888. Loss: 0.039 LR: 0.000640
+Training correct sum 6096 and length is 6165
+Validation accuracy:0.5890. Loss:1.578
+
+ 83%|█████████████████████████████████████████████████████████████████▊             | 25/30 [11:28<02:14, 26.85s/it]
+[Epoch 26] Training accuracy: 0.9943. Loss: 0.027 LR: 0.000640
+Training correct sum 6130 and length is 6165
+Validation accuracy:0.4212. Loss:2.538
+
+ 87%|████████████████████████████████████████████████████████████████████▍          | 26/30 [11:54<01:47, 26.77s/it]
+[Epoch 27] Training accuracy: 0.9904. Loss: 0.031 LR: 0.000640
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 27/30 [12:21<01:20, 26.72s/it]
+Validation accuracy:0.4829. Loss:2.021
+Val correct sum 141 and length is 292
+[Epoch 28] Training accuracy: 0.9904. Loss: 0.033 LR: 0.000640
+
+ 93%|█████████████████████████████████████████████████████████████████████████▋     | 28/30 [12:47<00:53, 26.58s/it]
+Validation accuracy:0.5582. Loss:2.033
+Val correct sum 163 and length is 292
+[Epoch 29] Training accuracy: 0.9921. Loss: 0.027 LR: 0.000640
+Training correct sum 6116 and length is 6165
+Validation accuracy:0.5308. Loss:2.838
+
+ 97%|████████████████████████████████████████████████████████████████████████████▎  | 29/30 [13:14<00:26, 26.84s/it]
+[Epoch 30] Training accuracy: 0.9903. Loss: 0.036 LR: 0.000640
+Training correct sum 6105 and length is 6165
+Validation accuracy:0.6130. Loss:2.666
+Val correct sum 179 and length is 292
+Model saved.
+[Split: 02/10] Accuracy: 0.456
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/01amu_Gemep/
+train :  ../datasets/GEMEP/crop/01ang_Gemep/
+train :  ../datasets/GEMEP/crop/01anx_Gemep/
+train :  ../datasets/GEMEP/crop/01con_Gemep/
+train :  ../datasets/GEMEP/crop/01des_Gemep/
+train :  ../datasets/GEMEP/crop/01fea_Gemep/
+train :  ../datasets/GEMEP/crop/01irr_Gemep/
+train :  ../datasets/GEMEP/crop/01joy_Gemep/
+train :  ../datasets/GEMEP/crop/01ple_Gemep/
+train :  ../datasets/GEMEP/crop/01sad_Gemep/
+train :  ../datasets/GEMEP/crop/01sur_Gemep/
+train :  ../datasets/GEMEP/crop/02amu_Gemep/
+train :  ../datasets/GEMEP/crop/02ang_Gemep/
+train :  ../datasets/GEMEP/crop/02anx_Gemep/
+train :  ../datasets/GEMEP/crop/02des_Gemep/
+train :  ../datasets/GEMEP/crop/02dis_Gemep/
+train :  ../datasets/GEMEP/crop/02fea_Gemep/
+train :  ../datasets/GEMEP/crop/02irr_Gemep/
+train :  ../datasets/GEMEP/crop/02joy_Gemep/
+train :  ../datasets/GEMEP/crop/02ple_Gemep/
+train :  ../datasets/GEMEP/crop/02sad_Gemep/
+train :  ../datasets/GEMEP/crop/04amu_Gemep/
+train :  ../datasets/GEMEP/crop/04ang_Gemep/
+train :  ../datasets/GEMEP/crop/04anx_Gemep/
+train :  ../datasets/GEMEP/crop/04des_Gemep/
+train :  ../datasets/GEMEP/crop/04dis_Gemep/
+train :  ../datasets/GEMEP/crop/04fea_Gemep/
+train :  ../datasets/GEMEP/crop/04irr_Gemep/
+train :  ../datasets/GEMEP/crop/04joy_Gemep/
+train :  ../datasets/GEMEP/crop/04ple_Gemep/
+train :  ../datasets/GEMEP/crop/04sad_Gemep/
+train :  ../datasets/GEMEP/crop/05amu_Gemep/
+train :  ../datasets/GEMEP/crop/05ang_Gemep/
+train :  ../datasets/GEMEP/crop/05anx_Gemep/
+train :  ../datasets/GEMEP/crop/05des_Gemep/
+train :  ../datasets/GEMEP/crop/05dis_Gemep/
+train :  ../datasets/GEMEP/crop/05fea_Gemep/
+train :  ../datasets/GEMEP/crop/05irr_Gemep/
+train :  ../datasets/GEMEP/crop/05joy_Gemep/
+train :  ../datasets/GEMEP/crop/05ple_Gemep/
+train :  ../datasets/GEMEP/crop/05sad_Gemep/
+train :  ../datasets/GEMEP/crop/06amu_Gemep/
+train :  ../datasets/GEMEP/crop/06ang_Gemep/
+train :  ../datasets/GEMEP/crop/06anx_Gemep/
+train :  ../datasets/GEMEP/crop/06con_Gemep/
+train :  ../datasets/GEMEP/crop/06des_Gemep/
+train :  ../datasets/GEMEP/crop/06fea_Gemep/
+train :  ../datasets/GEMEP/crop/06irr_Gemep/
+train :  ../datasets/GEMEP/crop/06joy_Gemep/
+train :  ../datasets/GEMEP/crop/06ple_Gemep/
+train :  ../datasets/GEMEP/crop/06sad_Gemep/
+train :  ../datasets/GEMEP/crop/06sur_Gemep/
+train :  ../datasets/GEMEP/crop/07amu_Gemep/
+train :  ../datasets/GEMEP/crop/07ang_Gemep/
+train :  ../datasets/GEMEP/crop/07anx_Gemep/
+train :  ../datasets/GEMEP/crop/07con_Gemep/
+train :  ../datasets/GEMEP/crop/07des_Gemep/
+train :  ../datasets/GEMEP/crop/07fea_Gemep/
+train :  ../datasets/GEMEP/crop/07irr_Gemep/
+train :  ../datasets/GEMEP/crop/07joy_Gemep/
+train :  ../datasets/GEMEP/crop/07ple_Gemep/
+train :  ../datasets/GEMEP/crop/07sad_Gemep/
+train :  ../datasets/GEMEP/crop/07sur_Gemep/
+train :  ../datasets/GEMEP/crop/08amu_Gemep/
+train :  ../datasets/GEMEP/crop/08ang_Gemep/
+train :  ../datasets/GEMEP/crop/08anx_Gemep/
+train :  ../datasets/GEMEP/crop/08con_Gemep/
+train :  ../datasets/GEMEP/crop/08des_Gemep/
+train :  ../datasets/GEMEP/crop/08fea_Gemep/
+train :  ../datasets/GEMEP/crop/08irr_Gemep/
+train :  ../datasets/GEMEP/crop/08joy_Gemep/
+train :  ../datasets/GEMEP/crop/08ple_Gemep/
+train :  ../datasets/GEMEP/crop/08sad_Gemep/
+train :  ../datasets/GEMEP/crop/08sur_Gemep/
+train :  ../datasets/GEMEP/crop/09amu_Gemep/
+train :  ../datasets/GEMEP/crop/09ang_Gemep/
+train :  ../datasets/GEMEP/crop/09anx_Gemep/
+train :  ../datasets/GEMEP/crop/09des_Gemep/
+train :  ../datasets/GEMEP/crop/09dis_Gemep/
+train :  ../datasets/GEMEP/crop/09fea_Gemep/
+train :  ../datasets/GEMEP/crop/09irr_Gemep/
+train :  ../datasets/GEMEP/crop/09joy_Gemep/
+train :  ../datasets/GEMEP/crop/09ple_Gemep/
+train :  ../datasets/GEMEP/crop/09sad_Gemep/
+train :  ../datasets/GEMEP/crop/10amu_Gemep/
+train :  ../datasets/GEMEP/crop/10ang_Gemep/
+train :  ../datasets/GEMEP/crop/10anx_Gemep/
+train :  ../datasets/GEMEP/crop/10des_Gemep/
+train :  ../datasets/GEMEP/crop/10dis_Gemep/
+train :  ../datasets/GEMEP/crop/10fea_Gemep/
+train :  ../datasets/GEMEP/crop/10irr_Gemep/
+train :  ../datasets/GEMEP/crop/10joy_Gemep/
+train :  ../datasets/GEMEP/crop/10ple_Gemep/
+train :  ../datasets/GEMEP/crop/10sad_Gemep/
+val :  ../datasets/GEMEP/crop/03ang_Gemep/
+val :  ../datasets/GEMEP/crop/03con_Gemep/
+val :  ../datasets/GEMEP/crop/03fea_Gemep/
+val :  ../datasets/GEMEP/crop/03ple_Gemep/
+val :  ../datasets/GEMEP/crop/03sad_Gemep/
+100%|███████████████████████████████████████████████████████████████████████████████| 30/30 [13:42<00:00, 27.40s/it]
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+[Epoch 1] Training accuracy: 0.5526. Loss: 1.210 LR: 0.001000
+Training correct sum 3230 and length is 5845
+Validation accuracy:0.1746. Loss:6.294
+Val correct sum 73 and length is 418
+
+  3%|██▋                                                                             | 1/30 [00:26<12:40, 26.21s/it]
+[Epoch 2] Training accuracy: 0.8621. Loss: 0.427 LR: 0.001000
+Training correct sum 5039 and length is 5845
+Validation accuracy:0.0000. Loss:6.806
+
+  7%|█████▎                                                                          | 2/30 [00:51<11:58, 25.67s/it]
+[Epoch 3] Training accuracy: 0.9151. Loss: 0.269 LR: 0.001000
+Training correct sum 5349 and length is 5845
+Validation accuracy:0.1866. Loss:6.884
+Val correct sum 78 and length is 418
+
+ 10%|████████                                                                        | 3/30 [01:16<11:30, 25.58s/it]
+[Epoch 4] Training accuracy: 0.9340. Loss: 0.215 LR: 0.001000
+Training correct sum 5459 and length is 5845
+Validation accuracy:0.1818. Loss:4.589
+
+ 13%|██████████▋                                                                     | 4/30 [01:42<11:03, 25.50s/it]
+[Epoch 5] Training accuracy: 0.9420. Loss: 0.184 LR: 0.001000
+Training correct sum 5506 and length is 5845
+Validation accuracy:0.3301. Loss:3.025
+Val correct sum 138 and length is 418
+
+ 17%|█████████████▎                                                                  | 5/30 [02:08<10:43, 25.73s/it]
+[Epoch 6] Training accuracy: 0.9399. Loss: 0.195 LR: 0.001000
+Training correct sum 5494 and length is 5845
+Validation accuracy:0.1866. Loss:3.272
+
+ 20%|████████████████                                                                | 6/30 [02:34<10:22, 25.92s/it]
+[Epoch 7] Training accuracy: 0.9565. Loss: 0.144 LR: 0.001000
+Training correct sum 5591 and length is 5845
+Validation accuracy:0.3038. Loss:2.895
+
+ 23%|██████████████████▋                                                             | 7/30 [02:59<09:49, 25.63s/it]
+[Epoch 8] Training accuracy: 0.9617. Loss: 0.126 LR: 0.001000
+Training correct sum 5621 and length is 5845
+Validation accuracy:0.2799. Loss:3.111
+
+ 27%|█████████████████████▎                                                          | 8/30 [03:24<09:20, 25.48s/it]
+[Epoch 9] Training accuracy: 0.9423. Loss: 0.180 LR: 0.001000
+Training correct sum 5508 and length is 5845
+Validation accuracy:0.2895. Loss:4.666
+
+ 30%|████████████████████████                                                        | 9/30 [03:50<08:56, 25.53s/it]
+[Epoch 10] Training accuracy: 0.9660. Loss: 0.117 LR: 0.001000
+Training correct sum 5646 and length is 5845
+Validation accuracy:0.3780. Loss:4.814
+Val correct sum 158 and length is 418
+
+ 33%|██████████████████████████▎                                                    | 10/30 [04:15<08:29, 25.48s/it]
+[Epoch 11] Training accuracy: 0.9788. Loss: 0.069 LR: 0.000800
+Training correct sum 5721 and length is 5845
+Validation accuracy:0.2488. Loss:3.094
+
+ 37%|████████████████████████████▉                                                  | 11/30 [04:42<08:10, 25.80s/it]
+[Epoch 12] Training accuracy: 0.9771. Loss: 0.082 LR: 0.000800
+Training correct sum 5711 and length is 5845
+Validation accuracy:0.1746. Loss:7.395
+
+ 40%|███████████████████████████████▌                                               | 12/30 [05:08<07:47, 25.95s/it]
+[Epoch 13] Training accuracy: 0.9629. Loss: 0.127 LR: 0.000800
+
+ 43%|██████████████████████████████████▏                                            | 13/30 [05:34<07:21, 25.98s/it]
+Validation accuracy:0.1388. Loss:6.206
+Val correct sum 58 and length is 418
+[Epoch 14] Training accuracy: 0.9711. Loss: 0.090 LR: 0.000800
+Training correct sum 5676 and length is 5845
+Validation accuracy:0.3804. Loss:3.926
+Val correct sum 159 and length is 418
+
+ 47%|████████████████████████████████████▊                                          | 14/30 [06:00<06:54, 25.89s/it]
+[Epoch 15] Training accuracy: 0.9879. Loss: 0.044 LR: 0.000800
+Training correct sum 5774 and length is 5845
+Validation accuracy:0.3110. Loss:2.854
+
+ 50%|███████████████████████████████████████▌                                       | 15/30 [06:26<06:27, 25.81s/it]
+[Epoch 16] Training accuracy: 0.9771. Loss: 0.077 LR: 0.000800
+Training correct sum 5711 and length is 5845
+Validation accuracy:0.2177. Loss:4.771
+
+ 53%|██████████████████████████████████████████▏                                    | 16/30 [06:51<05:58, 25.59s/it]
+[Epoch 17] Training accuracy: 0.9769. Loss: 0.083 LR: 0.000800
+
+ 57%|████████████████████████████████████████████▊                                  | 17/30 [07:16<05:32, 25.58s/it]
+Validation accuracy:0.2584. Loss:7.455
+Val correct sum 108 and length is 418
+[Epoch 18] Training accuracy: 0.9778. Loss: 0.073 LR: 0.000800
+Training correct sum 5715 and length is 5845
+Validation accuracy:0.2488. Loss:3.892
+
+ 60%|███████████████████████████████████████████████▍                               | 18/30 [07:42<05:05, 25.48s/it]
+[Epoch 19] Training accuracy: 0.9889. Loss: 0.039 LR: 0.000800
+Training correct sum 5780 and length is 5845
+Validation accuracy:0.2919. Loss:5.041
+
+ 63%|██████████████████████████████████████████████████                             | 19/30 [08:07<04:40, 25.46s/it]
+[Epoch 20] Training accuracy: 0.9788. Loss: 0.071 LR: 0.000800
+Training correct sum 5721 and length is 5845
+Validation accuracy:0.2799. Loss:5.563
+
+ 67%|████████████████████████████████████████████████████▋                          | 20/30 [08:32<04:13, 25.38s/it]
+[Epoch 21] Training accuracy: 0.9808. Loss: 0.063 LR: 0.000640
+Training correct sum 5733 and length is 5845
+Validation accuracy:0.0622. Loss:5.836
+
+ 70%|███████████████████████████████████████████████████████▎                       | 21/30 [08:57<03:48, 25.35s/it]
+[Epoch 22] Training accuracy: 0.9894. Loss: 0.040 LR: 0.000640
+Training correct sum 5783 and length is 5845
+Validation accuracy:0.2990. Loss:3.203
+
+ 73%|█████████████████████████████████████████████████████████▉                     | 22/30 [09:23<03:23, 25.38s/it]
+[Epoch 23] Training accuracy: 0.9901. Loss: 0.034 LR: 0.000640
+Training correct sum 5787 and length is 5845
+Validation accuracy:0.1842. Loss:4.566
+
+ 77%|████████████████████████████████████████████████████████████▌                  | 23/30 [09:49<02:58, 25.53s/it]
+[Epoch 24] Training accuracy: 0.9884. Loss: 0.038 LR: 0.000640
+Training correct sum 5777 and length is 5845
+Validation accuracy:0.2249. Loss:7.162
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 24/30 [10:14<02:32, 25.49s/it]
+[Epoch 25] Training accuracy: 0.9861. Loss: 0.049 LR: 0.000640
+Training correct sum 5764 and length is 5845
+Validation accuracy:0.2727. Loss:3.526
+
+ 83%|█████████████████████████████████████████████████████████████████▊             | 25/30 [10:40<02:07, 25.52s/it]
+[Epoch 26] Training accuracy: 0.9870. Loss: 0.047 LR: 0.000640
+Training correct sum 5769 and length is 5845
+Validation accuracy:0.3014. Loss:5.641
+
+ 87%|████████████████████████████████████████████████████████████████████▍          | 26/30 [11:05<01:42, 25.59s/it]
+[Epoch 27] Training accuracy: 0.9904. Loss: 0.035 LR: 0.000640
+Training correct sum 5789 and length is 5845
+Validation accuracy:0.1388. Loss:4.906
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 27/30 [11:31<01:16, 25.59s/it]
+[Epoch 28] Training accuracy: 0.9834. Loss: 0.054 LR: 0.000640
+Training correct sum 5748 and length is 5845
+Validation accuracy:0.1388. Loss:6.552
+
+ 93%|█████████████████████████████████████████████████████████████████████████▋     | 28/30 [11:58<00:51, 25.89s/it]
+[Epoch 29] Training accuracy: 0.9841. Loss: 0.057 LR: 0.000640
+Training correct sum 5752 and length is 5845
+Validation accuracy:0.1675. Loss:4.467
+
+ 97%|████████████████████████████████████████████████████████████████████████████▎  | 29/30 [12:24<00:25, 25.88s/it]
+[Epoch 30] Training accuracy: 0.9899. Loss: 0.036 LR: 0.000640
+Training correct sum 5786 and length is 5845
+Validation accuracy:0.1388. Loss:6.213
+Val correct sum 58 and length is 418
+Model saved.
+[Split: 03/10] Accuracy: 0.226
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/01amu_Gemep/
+train :  ../datasets/GEMEP/crop/01ang_Gemep/
+train :  ../datasets/GEMEP/crop/01anx_Gemep/
+train :  ../datasets/GEMEP/crop/01con_Gemep/
+train :  ../datasets/GEMEP/crop/01des_Gemep/
+train :  ../datasets/GEMEP/crop/01fea_Gemep/
+train :  ../datasets/GEMEP/crop/01irr_Gemep/
+train :  ../datasets/GEMEP/crop/01joy_Gemep/
+train :  ../datasets/GEMEP/crop/01ple_Gemep/
+train :  ../datasets/GEMEP/crop/01sad_Gemep/
+train :  ../datasets/GEMEP/crop/01sur_Gemep/
+train :  ../datasets/GEMEP/crop/02amu_Gemep/
+train :  ../datasets/GEMEP/crop/02ang_Gemep/
+train :  ../datasets/GEMEP/crop/02anx_Gemep/
+train :  ../datasets/GEMEP/crop/02des_Gemep/
+train :  ../datasets/GEMEP/crop/02dis_Gemep/
+train :  ../datasets/GEMEP/crop/02fea_Gemep/
+train :  ../datasets/GEMEP/crop/02irr_Gemep/
+train :  ../datasets/GEMEP/crop/02joy_Gemep/
+train :  ../datasets/GEMEP/crop/02ple_Gemep/
+train :  ../datasets/GEMEP/crop/02sad_Gemep/
+train :  ../datasets/GEMEP/crop/03amu_Gemep/
+train :  ../datasets/GEMEP/crop/03ang_Gemep/
+train :  ../datasets/GEMEP/crop/03anx_Gemep/
+train :  ../datasets/GEMEP/crop/03con_Gemep/
+train :  ../datasets/GEMEP/crop/03des_Gemep/
+train :  ../datasets/GEMEP/crop/03fea_Gemep/
+train :  ../datasets/GEMEP/crop/03irr_Gemep/
+train :  ../datasets/GEMEP/crop/03joy_Gemep/
+train :  ../datasets/GEMEP/crop/03ple_Gemep/
+train :  ../datasets/GEMEP/crop/03sad_Gemep/
+train :  ../datasets/GEMEP/crop/03sur_Gemep/
+train :  ../datasets/GEMEP/crop/05amu_Gemep/
+train :  ../datasets/GEMEP/crop/05ang_Gemep/
+train :  ../datasets/GEMEP/crop/05anx_Gemep/
+train :  ../datasets/GEMEP/crop/05des_Gemep/
+train :  ../datasets/GEMEP/crop/05dis_Gemep/
+train :  ../datasets/GEMEP/crop/05fea_Gemep/
+train :  ../datasets/GEMEP/crop/05irr_Gemep/
+train :  ../datasets/GEMEP/crop/05joy_Gemep/
+train :  ../datasets/GEMEP/crop/05ple_Gemep/
+train :  ../datasets/GEMEP/crop/05sad_Gemep/
+train :  ../datasets/GEMEP/crop/06amu_Gemep/
+train :  ../datasets/GEMEP/crop/06ang_Gemep/
+train :  ../datasets/GEMEP/crop/06anx_Gemep/
+train :  ../datasets/GEMEP/crop/06con_Gemep/
+train :  ../datasets/GEMEP/crop/06des_Gemep/
+train :  ../datasets/GEMEP/crop/06fea_Gemep/
+train :  ../datasets/GEMEP/crop/06irr_Gemep/
+train :  ../datasets/GEMEP/crop/06joy_Gemep/
+train :  ../datasets/GEMEP/crop/06ple_Gemep/
+train :  ../datasets/GEMEP/crop/06sad_Gemep/
+train :  ../datasets/GEMEP/crop/06sur_Gemep/
+train :  ../datasets/GEMEP/crop/07amu_Gemep/
+train :  ../datasets/GEMEP/crop/07ang_Gemep/
+train :  ../datasets/GEMEP/crop/07anx_Gemep/
+train :  ../datasets/GEMEP/crop/07con_Gemep/
+train :  ../datasets/GEMEP/crop/07des_Gemep/
+train :  ../datasets/GEMEP/crop/07fea_Gemep/
+train :  ../datasets/GEMEP/crop/07irr_Gemep/
+train :  ../datasets/GEMEP/crop/07joy_Gemep/
+train :  ../datasets/GEMEP/crop/07ple_Gemep/
+train :  ../datasets/GEMEP/crop/07sad_Gemep/
+train :  ../datasets/GEMEP/crop/07sur_Gemep/
+train :  ../datasets/GEMEP/crop/08amu_Gemep/
+train :  ../datasets/GEMEP/crop/08ang_Gemep/
+train :  ../datasets/GEMEP/crop/08anx_Gemep/
+train :  ../datasets/GEMEP/crop/08con_Gemep/
+train :  ../datasets/GEMEP/crop/08des_Gemep/
+train :  ../datasets/GEMEP/crop/08fea_Gemep/
+train :  ../datasets/GEMEP/crop/08irr_Gemep/
+train :  ../datasets/GEMEP/crop/08joy_Gemep/
+train :  ../datasets/GEMEP/crop/08ple_Gemep/
+train :  ../datasets/GEMEP/crop/08sad_Gemep/
+train :  ../datasets/GEMEP/crop/08sur_Gemep/
+train :  ../datasets/GEMEP/crop/09amu_Gemep/
+train :  ../datasets/GEMEP/crop/09ang_Gemep/
+train :  ../datasets/GEMEP/crop/09anx_Gemep/
+train :  ../datasets/GEMEP/crop/09des_Gemep/
+train :  ../datasets/GEMEP/crop/09dis_Gemep/
+train :  ../datasets/GEMEP/crop/09fea_Gemep/
+train :  ../datasets/GEMEP/crop/09irr_Gemep/
+train :  ../datasets/GEMEP/crop/09joy_Gemep/
+train :  ../datasets/GEMEP/crop/09ple_Gemep/
+train :  ../datasets/GEMEP/crop/09sad_Gemep/
+train :  ../datasets/GEMEP/crop/10amu_Gemep/
+train :  ../datasets/GEMEP/crop/10ang_Gemep/
+train :  ../datasets/GEMEP/crop/10anx_Gemep/
+train :  ../datasets/GEMEP/crop/10des_Gemep/
+train :  ../datasets/GEMEP/crop/10dis_Gemep/
+train :  ../datasets/GEMEP/crop/10fea_Gemep/
+train :  ../datasets/GEMEP/crop/10irr_Gemep/
+train :  ../datasets/GEMEP/crop/10joy_Gemep/
+train :  ../datasets/GEMEP/crop/10ple_Gemep/
+train :  ../datasets/GEMEP/crop/10sad_Gemep/
+val :  ../datasets/GEMEP/crop/04ang_Gemep/
+val :  ../datasets/GEMEP/crop/04dis_Gemep/
+val :  ../datasets/GEMEP/crop/04fea_Gemep/
+val :  ../datasets/GEMEP/crop/04ple_Gemep/
+100%|███████████████████████████████████████████████████████████████████████████████| 30/30 [12:49<00:00, 25.65s/it]
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+[Epoch 1] Training accuracy: 0.7056. Loss: 0.879 LR: 0.001000
+Training correct sum 4378 and length is 6205
+Validation accuracy:0.3750. Loss:1.786
+Val correct sum 114 and length is 304
+
+  3%|██▋                                                                             | 1/30 [00:27<13:07, 27.15s/it]
+[Epoch 2] Training accuracy: 0.9214. Loss: 0.255 LR: 0.001000
+Training correct sum 5717 and length is 6205
+Validation accuracy:0.3717. Loss:1.725
+
+  7%|█████▎                                                                          | 2/30 [00:54<12:38, 27.10s/it]
+[Epoch 3] Training accuracy: 0.9313. Loss: 0.221 LR: 0.001000
+Training correct sum 5779 and length is 6205
+Validation accuracy:0.3520. Loss:1.638
+
+ 10%|████████                                                                        | 3/30 [01:21<12:15, 27.25s/it]
+[Epoch 4] Training accuracy: 0.9407. Loss: 0.192 LR: 0.001000
+Training correct sum 5837 and length is 6205
+Validation accuracy:0.4704. Loss:1.200
+Val correct sum 143 and length is 304
+
+ 13%|██████████▋                                                                     | 4/30 [01:48<11:44, 27.09s/it]
+[Epoch 5] Training accuracy: 0.9500. Loss: 0.164 LR: 0.001000
+Training correct sum 5895 and length is 6205
+Validation accuracy:0.6020. Loss:1.658
+Val correct sum 183 and length is 304
+
+ 17%|█████████████▎                                                                  | 5/30 [02:14<11:11, 26.85s/it]
+[Epoch 6] Training accuracy: 0.9507. Loss: 0.162 LR: 0.001000
+
+ 20%|████████████████                                                                | 6/30 [02:41<10:39, 26.64s/it]
+Validation accuracy:0.4375. Loss:2.082
+Val correct sum 133 and length is 304
+[Epoch 7] Training accuracy: 0.9489. Loss: 0.159 LR: 0.001000
+Training correct sum 5888 and length is 6205
+Validation accuracy:0.6579. Loss:1.904
+Val correct sum 200 and length is 304
+
+ 23%|██████████████████▋                                                             | 7/30 [03:08<10:14, 26.72s/it]
+[Epoch 8] Training accuracy: 0.9629. Loss: 0.117 LR: 0.001000
+Training correct sum 5975 and length is 6205
+Validation accuracy:0.6776. Loss:1.267
+Val correct sum 206 and length is 304
+
+ 27%|█████████████████████▎                                                          | 8/30 [03:34<09:47, 26.69s/it]
+[Epoch 9] Training accuracy: 0.9668. Loss: 0.109 LR: 0.001000
+
+ 30%|████████████████████████                                                        | 9/30 [04:01<09:19, 26.65s/it]
+Validation accuracy:0.3257. Loss:1.872
+Val correct sum 99 and length is 304
+[Epoch 10] Training accuracy: 0.9600. Loss: 0.127 LR: 0.001000
+Training correct sum 5957 and length is 6205
+Validation accuracy:0.5559. Loss:2.554
+
+ 33%|██████████████████████████▎                                                    | 10/30 [04:28<08:54, 26.73s/it]
+[Epoch 11] Training accuracy: 0.9753. Loss: 0.086 LR: 0.000800
+
+ 37%|████████████████████████████▉                                                  | 11/30 [04:55<08:28, 26.79s/it]
+Validation accuracy:0.1546. Loss:2.430
+Val correct sum 47 and length is 304
+[Epoch 12] Training accuracy: 0.9813. Loss: 0.064 LR: 0.000800
+Training correct sum 6089 and length is 6205
+Validation accuracy:0.2862. Loss:2.087
+
+ 40%|███████████████████████████████▌                                               | 12/30 [05:21<08:00, 26.71s/it]
+[Epoch 13] Training accuracy: 0.9850. Loss: 0.057 LR: 0.000800
+Training correct sum 6112 and length is 6205
+Validation accuracy:0.5822. Loss:1.778
+
+ 43%|██████████████████████████████████▏                                            | 13/30 [05:51<07:51, 27.74s/it]
+[Epoch 14] Training accuracy: 0.9647. Loss: 0.115 LR: 0.000800
+Training correct sum 5986 and length is 6205
+Validation accuracy:0.7895. Loss:1.072
+Val correct sum 240 and length is 304
+
+ 47%|████████████████████████████████████▊                                          | 14/30 [06:18<07:19, 27.46s/it]
+[Epoch 15] Training accuracy: 0.9811. Loss: 0.063 LR: 0.000800
+Training correct sum 6088 and length is 6205
+Validation accuracy:0.7105. Loss:1.734
+
+ 50%|███████████████████████████████████████▌                                       | 15/30 [06:45<06:48, 27.20s/it]
+[Epoch 16] Training accuracy: 0.9739. Loss: 0.085 LR: 0.000800
+Training correct sum 6043 and length is 6205
+Validation accuracy:0.6743. Loss:1.465
+
+ 53%|██████████████████████████████████████████▏                                    | 16/30 [07:11<06:17, 26.95s/it]
+[Epoch 17] Training accuracy: 0.9771. Loss: 0.078 LR: 0.000800
+Training correct sum 6063 and length is 6205
+Validation accuracy:0.3816. Loss:2.467
+
+ 57%|████████████████████████████████████████████▊                                  | 17/30 [07:38<05:49, 26.92s/it]
+[Epoch 18] Training accuracy: 0.9844. Loss: 0.057 LR: 0.000800
+Training correct sum 6108 and length is 6205
+Validation accuracy:0.6974. Loss:1.908
+
+ 60%|███████████████████████████████████████████████▍                               | 18/30 [08:05<05:24, 27.05s/it]
+[Epoch 19] Training accuracy: 0.9849. Loss: 0.051 LR: 0.000800
+Training correct sum 6111 and length is 6205
+Validation accuracy:0.7204. Loss:2.769
+
+ 63%|██████████████████████████████████████████████████                             | 19/30 [08:31<04:55, 26.82s/it]
+[Epoch 20] Training accuracy: 0.9861. Loss: 0.044 LR: 0.000800
+Training correct sum 6119 and length is 6205
+Validation accuracy:0.7237. Loss:1.473
+
+ 67%|████████████████████████████████████████████████████▋                          | 20/30 [08:58<04:26, 26.68s/it]
+[Epoch 21] Training accuracy: 0.9878. Loss: 0.043 LR: 0.000640
+Training correct sum 6129 and length is 6205
+Validation accuracy:0.7566. Loss:1.144
+
+ 70%|███████████████████████████████████████████████████████▎                       | 21/30 [09:24<03:59, 26.60s/it]
+[Epoch 22] Training accuracy: 0.9881. Loss: 0.040 LR: 0.000640
+Training correct sum 6131 and length is 6205
+Validation accuracy:0.6283. Loss:1.338
+
+ 73%|█████████████████████████████████████████████████████████▉                     | 22/30 [09:51<03:32, 26.60s/it]
+[Epoch 23] Training accuracy: 0.9913. Loss: 0.034 LR: 0.000640
+Training correct sum 6151 and length is 6205
+Validation accuracy:0.5263. Loss:1.593
+
+ 77%|████████████████████████████████████████████████████████████▌                  | 23/30 [10:19<03:10, 27.17s/it]
+[Epoch 24] Training accuracy: 0.9865. Loss: 0.049 LR: 0.000640
+Training correct sum 6121 and length is 6205
+Validation accuracy:0.5888. Loss:1.236
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 24/30 [10:46<02:42, 27.13s/it]
+[Epoch 25] Training accuracy: 0.9876. Loss: 0.045 LR: 0.000640
+Training correct sum 6128 and length is 6205
+Validation accuracy:0.6546. Loss:1.580
+
+ 83%|█████████████████████████████████████████████████████████████████▊             | 25/30 [11:13<02:14, 26.87s/it]
+[Epoch 26] Training accuracy: 0.9902. Loss: 0.032 LR: 0.000640
+
+ 87%|████████████████████████████████████████████████████████████████████▍          | 26/30 [11:39<01:46, 26.64s/it]
+Validation accuracy:0.6711. Loss:1.928
+Val correct sum 204 and length is 304
+[Epoch 27] Training accuracy: 0.9892. Loss: 0.038 LR: 0.000640
+Training correct sum 6138 and length is 6205
+Validation accuracy:0.5921. Loss:1.546
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 27/30 [12:06<01:20, 26.73s/it]
+[Epoch 28] Training accuracy: 0.9915. Loss: 0.030 LR: 0.000640
+Training correct sum 6152 and length is 6205
+Validation accuracy:0.7467. Loss:1.178
+
+ 93%|█████████████████████████████████████████████████████████████████████████▋     | 28/30 [12:32<00:53, 26.61s/it]
+[Epoch 29] Training accuracy: 0.9907. Loss: 0.035 LR: 0.000640
+
+ 97%|████████████████████████████████████████████████████████████████████████████▎  | 29/30 [12:59<00:26, 26.65s/it]
+Validation accuracy:0.6118. Loss:1.440
+Val correct sum 186 and length is 304
+[Epoch 30] Training accuracy: 0.9894. Loss: 0.041 LR: 0.000640
+Training correct sum 6139 and length is 6205
+Validation accuracy:0.7039. Loss:1.022
+Val correct sum 214 and length is 304
+Model saved.
+[Split: 04/10] Accuracy: 0.568
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/01amu_Gemep/
+train :  ../datasets/GEMEP/crop/01ang_Gemep/
+train :  ../datasets/GEMEP/crop/01anx_Gemep/
+train :  ../datasets/GEMEP/crop/01con_Gemep/
+train :  ../datasets/GEMEP/crop/01des_Gemep/
+train :  ../datasets/GEMEP/crop/01fea_Gemep/
+train :  ../datasets/GEMEP/crop/01irr_Gemep/
+train :  ../datasets/GEMEP/crop/01joy_Gemep/
+train :  ../datasets/GEMEP/crop/01ple_Gemep/
+train :  ../datasets/GEMEP/crop/01sad_Gemep/
+train :  ../datasets/GEMEP/crop/01sur_Gemep/
+train :  ../datasets/GEMEP/crop/02amu_Gemep/
+train :  ../datasets/GEMEP/crop/02ang_Gemep/
+train :  ../datasets/GEMEP/crop/02anx_Gemep/
+train :  ../datasets/GEMEP/crop/02des_Gemep/
+train :  ../datasets/GEMEP/crop/02dis_Gemep/
+train :  ../datasets/GEMEP/crop/02fea_Gemep/
+train :  ../datasets/GEMEP/crop/02irr_Gemep/
+train :  ../datasets/GEMEP/crop/02joy_Gemep/
+train :  ../datasets/GEMEP/crop/02ple_Gemep/
+train :  ../datasets/GEMEP/crop/02sad_Gemep/
+train :  ../datasets/GEMEP/crop/03amu_Gemep/
+train :  ../datasets/GEMEP/crop/03ang_Gemep/
+train :  ../datasets/GEMEP/crop/03anx_Gemep/
+train :  ../datasets/GEMEP/crop/03con_Gemep/
+train :  ../datasets/GEMEP/crop/03des_Gemep/
+train :  ../datasets/GEMEP/crop/03fea_Gemep/
+train :  ../datasets/GEMEP/crop/03irr_Gemep/
+train :  ../datasets/GEMEP/crop/03joy_Gemep/
+train :  ../datasets/GEMEP/crop/03ple_Gemep/
+train :  ../datasets/GEMEP/crop/03sad_Gemep/
+train :  ../datasets/GEMEP/crop/03sur_Gemep/
+train :  ../datasets/GEMEP/crop/04amu_Gemep/
+train :  ../datasets/GEMEP/crop/04ang_Gemep/
+train :  ../datasets/GEMEP/crop/04anx_Gemep/
+train :  ../datasets/GEMEP/crop/04des_Gemep/
+train :  ../datasets/GEMEP/crop/04dis_Gemep/
+train :  ../datasets/GEMEP/crop/04fea_Gemep/
+train :  ../datasets/GEMEP/crop/04irr_Gemep/
+train :  ../datasets/GEMEP/crop/04joy_Gemep/
+train :  ../datasets/GEMEP/crop/04ple_Gemep/
+train :  ../datasets/GEMEP/crop/04sad_Gemep/
+train :  ../datasets/GEMEP/crop/06amu_Gemep/
+train :  ../datasets/GEMEP/crop/06ang_Gemep/
+train :  ../datasets/GEMEP/crop/06anx_Gemep/
+train :  ../datasets/GEMEP/crop/06con_Gemep/
+train :  ../datasets/GEMEP/crop/06des_Gemep/
+train :  ../datasets/GEMEP/crop/06fea_Gemep/
+train :  ../datasets/GEMEP/crop/06irr_Gemep/
+train :  ../datasets/GEMEP/crop/06joy_Gemep/
+train :  ../datasets/GEMEP/crop/06ple_Gemep/
+train :  ../datasets/GEMEP/crop/06sad_Gemep/
+train :  ../datasets/GEMEP/crop/06sur_Gemep/
+train :  ../datasets/GEMEP/crop/07amu_Gemep/
+train :  ../datasets/GEMEP/crop/07ang_Gemep/
+train :  ../datasets/GEMEP/crop/07anx_Gemep/
+train :  ../datasets/GEMEP/crop/07con_Gemep/
+train :  ../datasets/GEMEP/crop/07des_Gemep/
+train :  ../datasets/GEMEP/crop/07fea_Gemep/
+train :  ../datasets/GEMEP/crop/07irr_Gemep/
+train :  ../datasets/GEMEP/crop/07joy_Gemep/
+train :  ../datasets/GEMEP/crop/07ple_Gemep/
+train :  ../datasets/GEMEP/crop/07sad_Gemep/
+train :  ../datasets/GEMEP/crop/07sur_Gemep/
+train :  ../datasets/GEMEP/crop/08amu_Gemep/
+train :  ../datasets/GEMEP/crop/08ang_Gemep/
+train :  ../datasets/GEMEP/crop/08anx_Gemep/
+train :  ../datasets/GEMEP/crop/08con_Gemep/
+train :  ../datasets/GEMEP/crop/08des_Gemep/
+train :  ../datasets/GEMEP/crop/08fea_Gemep/
+train :  ../datasets/GEMEP/crop/08irr_Gemep/
+train :  ../datasets/GEMEP/crop/08joy_Gemep/
+train :  ../datasets/GEMEP/crop/08ple_Gemep/
+train :  ../datasets/GEMEP/crop/08sad_Gemep/
+train :  ../datasets/GEMEP/crop/08sur_Gemep/
+train :  ../datasets/GEMEP/crop/09amu_Gemep/
+train :  ../datasets/GEMEP/crop/09ang_Gemep/
+train :  ../datasets/GEMEP/crop/09anx_Gemep/
+train :  ../datasets/GEMEP/crop/09des_Gemep/
+train :  ../datasets/GEMEP/crop/09dis_Gemep/
+train :  ../datasets/GEMEP/crop/09fea_Gemep/
+train :  ../datasets/GEMEP/crop/09irr_Gemep/
+train :  ../datasets/GEMEP/crop/09joy_Gemep/
+train :  ../datasets/GEMEP/crop/09ple_Gemep/
+train :  ../datasets/GEMEP/crop/09sad_Gemep/
+train :  ../datasets/GEMEP/crop/10amu_Gemep/
+train :  ../datasets/GEMEP/crop/10ang_Gemep/
+train :  ../datasets/GEMEP/crop/10anx_Gemep/
+train :  ../datasets/GEMEP/crop/10des_Gemep/
+train :  ../datasets/GEMEP/crop/10dis_Gemep/
+train :  ../datasets/GEMEP/crop/10fea_Gemep/
+train :  ../datasets/GEMEP/crop/10irr_Gemep/
+train :  ../datasets/GEMEP/crop/10joy_Gemep/
+train :  ../datasets/GEMEP/crop/10ple_Gemep/
+train :  ../datasets/GEMEP/crop/10sad_Gemep/
+val :  ../datasets/GEMEP/crop/05ang_Gemep/
+val :  ../datasets/GEMEP/crop/05dis_Gemep/
+val :  ../datasets/GEMEP/crop/05fea_Gemep/
+val :  ../datasets/GEMEP/crop/05ple_Gemep/
+100%|███████████████████████████████████████████████████████████████████████████████| 30/30 [13:26<00:00, 26.87s/it]
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+[Epoch 1] Training accuracy: 0.5327. Loss: 1.235 LR: 0.001000
+Training correct sum 3232 and length is 6067
+Validation accuracy:0.4593. Loss:1.694
+Val correct sum 175 and length is 381
+
+  3%|██▋                                                                             | 1/30 [00:26<12:41, 26.25s/it]
+[Epoch 2] Training accuracy: 0.8475. Loss: 0.447 LR: 0.001000
+Training correct sum 5142 and length is 6067
+Validation accuracy:0.5013. Loss:3.040
+Val correct sum 191 and length is 381
+
+  7%|█████▎                                                                          | 2/30 [00:53<12:31, 26.86s/it]
+[Epoch 3] Training accuracy: 0.9253. Loss: 0.254 LR: 0.001000
+Training correct sum 5614 and length is 6067
+Validation accuracy:0.4331. Loss:5.618
+
+ 10%|████████                                                                        | 3/30 [01:19<11:53, 26.43s/it]
+[Epoch 4] Training accuracy: 0.9357. Loss: 0.206 LR: 0.001000
+Training correct sum 5677 and length is 6067
+Validation accuracy:0.3412. Loss:4.965
+
+ 13%|██████████▋                                                                     | 4/30 [01:45<11:27, 26.42s/it]
+[Epoch 5] Training accuracy: 0.9479. Loss: 0.170 LR: 0.001000
+Training correct sum 5751 and length is 6067
+Validation accuracy:0.5197. Loss:2.736
+Val correct sum 198 and length is 381
+
+ 17%|█████████████▎                                                                  | 5/30 [02:12<11:01, 26.47s/it]
+[Epoch 6] Training accuracy: 0.9496. Loss: 0.159 LR: 0.001000
+Training correct sum 5761 and length is 6067
+Validation accuracy:0.2126. Loss:6.129
+
+ 20%|████████████████                                                                | 6/30 [02:38<10:35, 26.48s/it]
+[Epoch 7] Training accuracy: 0.9479. Loss: 0.162 LR: 0.001000
+Training correct sum 5751 and length is 6067
+Validation accuracy:0.1706. Loss:5.887
+
+ 23%|██████████████████▋                                                             | 7/30 [03:05<10:06, 26.36s/it]
+[Epoch 8] Training accuracy: 0.9695. Loss: 0.107 LR: 0.001000
+Training correct sum 5882 and length is 6067
+Validation accuracy:0.4882. Loss:5.886
+
+ 27%|█████████████████████▎                                                          | 8/30 [03:31<09:39, 26.35s/it]
+[Epoch 9] Training accuracy: 0.9637. Loss: 0.127 LR: 0.001000
+Training correct sum 5847 and length is 6067
+Validation accuracy:0.3202. Loss:3.763
+
+ 30%|████████████████████████                                                        | 9/30 [03:57<09:13, 26.35s/it]
+[Epoch 10] Training accuracy: 0.9687. Loss: 0.102 LR: 0.001000
+Training correct sum 5877 and length is 6067
+Validation accuracy:0.5591. Loss:2.266
+Val correct sum 213 and length is 381
+
+ 33%|██████████████████████████▎                                                    | 10/30 [04:24<08:48, 26.40s/it]
+[Epoch 11] Training accuracy: 0.9741. Loss: 0.084 LR: 0.000800
+Training correct sum 5910 and length is 6067
+Validation accuracy:0.1942. Loss:3.800
+
+ 37%|████████████████████████████▉                                                  | 11/30 [04:51<08:27, 26.71s/it]
+[Epoch 12] Training accuracy: 0.9804. Loss: 0.064 LR: 0.000800
+Training correct sum 5948 and length is 6067
+Validation accuracy:0.5013. Loss:2.539
+
+ 40%|███████████████████████████████▌                                               | 12/30 [05:18<08:00, 26.68s/it]
+[Epoch 13] Training accuracy: 0.9776. Loss: 0.071 LR: 0.000800
+Training correct sum 5931 and length is 6067
+Validation accuracy:0.2336. Loss:5.390
+
+ 43%|██████████████████████████████████▏                                            | 13/30 [05:45<07:34, 26.72s/it]
+[Epoch 14] Training accuracy: 0.9776. Loss: 0.081 LR: 0.000800
+Training correct sum 5931 and length is 6067
+Validation accuracy:0.4751. Loss:3.372
+
+ 47%|████████████████████████████████████▊                                          | 14/30 [06:11<07:04, 26.56s/it]
+[Epoch 15] Training accuracy: 0.9731. Loss: 0.085 LR: 0.000800
+Training correct sum 5904 and length is 6067
+Validation accuracy:0.3333. Loss:3.417
+
+ 50%|███████████████████████████████████████▌                                       | 15/30 [06:37<06:37, 26.52s/it]
+[Epoch 16] Training accuracy: 0.9781. Loss: 0.079 LR: 0.000800
+Training correct sum 5934 and length is 6067
+Validation accuracy:0.2205. Loss:3.676
+
+ 53%|██████████████████████████████████████████▏                                    | 16/30 [07:03<06:09, 26.41s/it]
+[Epoch 17] Training accuracy: 0.9870. Loss: 0.045 LR: 0.000800
+Training correct sum 5988 and length is 6067
+Validation accuracy:0.4514. Loss:4.279
+
+ 57%|████████████████████████████████████████████▊                                  | 17/30 [07:29<05:41, 26.29s/it]
+[Epoch 18] Training accuracy: 0.9749. Loss: 0.075 LR: 0.000800
+Training correct sum 5915 and length is 6067
+Validation accuracy:0.4331. Loss:3.224
+
+ 60%|███████████████████████████████████████████████▍                               | 18/30 [07:56<05:17, 26.43s/it]
+[Epoch 19] Training accuracy: 0.9684. Loss: 0.103 LR: 0.000800
+Training correct sum 5875 and length is 6067
+Validation accuracy:0.2467. Loss:4.599
+
+ 63%|██████████████████████████████████████████████████                             | 19/30 [08:22<04:49, 26.31s/it]
+[Epoch 20] Training accuracy: 0.9866. Loss: 0.047 LR: 0.000800
+Training correct sum 5986 and length is 6067
+Validation accuracy:0.3937. Loss:2.671
+
+ 67%|████████████████████████████████████████████████████▋                          | 20/30 [08:48<04:23, 26.31s/it]
+[Epoch 21] Training accuracy: 0.9916. Loss: 0.031 LR: 0.000640
+Training correct sum 6016 and length is 6067
+Validation accuracy:0.4409. Loss:3.539
+
+ 70%|███████████████████████████████████████████████████████▎                       | 21/30 [09:15<03:57, 26.39s/it]
+[Epoch 22] Training accuracy: 0.9888. Loss: 0.045 LR: 0.000640
+Training correct sum 5999 and length is 6067
+Validation accuracy:0.3491. Loss:3.523
+
+ 73%|█████████████████████████████████████████████████████████▉                     | 22/30 [09:41<03:29, 26.22s/it]
+[Epoch 23] Training accuracy: 0.9886. Loss: 0.042 LR: 0.000640
+Training correct sum 5998 and length is 6067
+Validation accuracy:0.4593. Loss:3.053
+
+ 77%|████████████████████████████████████████████████████████████▌                  | 23/30 [10:07<03:03, 26.16s/it]
+[Epoch 24] Training accuracy: 0.9883. Loss: 0.035 LR: 0.000640
+Training correct sum 5996 and length is 6067
+Validation accuracy:0.3648. Loss:2.608
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 24/30 [10:33<02:36, 26.13s/it]
+[Epoch 25] Training accuracy: 0.9906. Loss: 0.033 LR: 0.000640
+Training correct sum 6010 and length is 6067
+Validation accuracy:0.4121. Loss:3.579
+
+ 83%|█████████████████████████████████████████████████████████████████▊             | 25/30 [10:59<02:10, 26.14s/it]
+[Epoch 26] Training accuracy: 0.9909. Loss: 0.030 LR: 0.000640
+Training correct sum 6012 and length is 6067
+Validation accuracy:0.3832. Loss:3.711
+
+ 87%|████████████████████████████████████████████████████████████████████▍          | 26/30 [11:25<01:44, 26.09s/it]
+[Epoch 27] Training accuracy: 0.9834. Loss: 0.057 LR: 0.000640
+Training correct sum 5966 and length is 6067
+Validation accuracy:0.4908. Loss:2.221
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 27/30 [11:52<01:18, 26.22s/it]
+[Epoch 28] Training accuracy: 0.9881. Loss: 0.040 LR: 0.000640
+Training correct sum 5995 and length is 6067
+Validation accuracy:0.4672. Loss:2.178
+
+ 93%|█████████████████████████████████████████████████████████████████████████▋     | 28/30 [12:18<00:52, 26.19s/it]
+[Epoch 29] Training accuracy: 0.9924. Loss: 0.028 LR: 0.000640
+Training correct sum 6021 and length is 6067
+Validation accuracy:0.5013. Loss:3.393
+
+ 97%|████████████████████████████████████████████████████████████████████████████▎  | 29/30 [12:44<00:26, 26.12s/it]
+[Epoch 30] Training accuracy: 0.9927. Loss: 0.025 LR: 0.000640
+Training correct sum 6023 and length is 6067
+Validation accuracy:0.4856. Loss:3.200
+Val correct sum 185 and length is 381
+Model saved.
+100%|███████████████████████████████████████████████████████████████████████████████| 30/30 [13:10<00:00, 26.34s/it]
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/01amu_Gemep/
+train :  ../datasets/GEMEP/crop/01ang_Gemep/
+train :  ../datasets/GEMEP/crop/01anx_Gemep/
+train :  ../datasets/GEMEP/crop/01con_Gemep/
+train :  ../datasets/GEMEP/crop/01des_Gemep/
+train :  ../datasets/GEMEP/crop/01fea_Gemep/
+train :  ../datasets/GEMEP/crop/01irr_Gemep/
+train :  ../datasets/GEMEP/crop/01joy_Gemep/
+train :  ../datasets/GEMEP/crop/01ple_Gemep/
+train :  ../datasets/GEMEP/crop/01sad_Gemep/
+train :  ../datasets/GEMEP/crop/01sur_Gemep/
+train :  ../datasets/GEMEP/crop/02amu_Gemep/
+train :  ../datasets/GEMEP/crop/02ang_Gemep/
+train :  ../datasets/GEMEP/crop/02anx_Gemep/
+train :  ../datasets/GEMEP/crop/02des_Gemep/
+train :  ../datasets/GEMEP/crop/02dis_Gemep/
+train :  ../datasets/GEMEP/crop/02fea_Gemep/
+train :  ../datasets/GEMEP/crop/02irr_Gemep/
+train :  ../datasets/GEMEP/crop/02joy_Gemep/
+train :  ../datasets/GEMEP/crop/02ple_Gemep/
+train :  ../datasets/GEMEP/crop/02sad_Gemep/
+train :  ../datasets/GEMEP/crop/03amu_Gemep/
+train :  ../datasets/GEMEP/crop/03ang_Gemep/
+train :  ../datasets/GEMEP/crop/03anx_Gemep/
+train :  ../datasets/GEMEP/crop/03con_Gemep/
+train :  ../datasets/GEMEP/crop/03des_Gemep/
+train :  ../datasets/GEMEP/crop/03fea_Gemep/
+train :  ../datasets/GEMEP/crop/03irr_Gemep/
+train :  ../datasets/GEMEP/crop/03joy_Gemep/
+train :  ../datasets/GEMEP/crop/03ple_Gemep/
+train :  ../datasets/GEMEP/crop/03sad_Gemep/
+train :  ../datasets/GEMEP/crop/03sur_Gemep/
+train :  ../datasets/GEMEP/crop/04amu_Gemep/
+train :  ../datasets/GEMEP/crop/04ang_Gemep/
+train :  ../datasets/GEMEP/crop/04anx_Gemep/
+train :  ../datasets/GEMEP/crop/04des_Gemep/
+train :  ../datasets/GEMEP/crop/04dis_Gemep/
+train :  ../datasets/GEMEP/crop/04fea_Gemep/
+train :  ../datasets/GEMEP/crop/04irr_Gemep/
+train :  ../datasets/GEMEP/crop/04joy_Gemep/
+train :  ../datasets/GEMEP/crop/04ple_Gemep/
+train :  ../datasets/GEMEP/crop/04sad_Gemep/
+train :  ../datasets/GEMEP/crop/05amu_Gemep/
+train :  ../datasets/GEMEP/crop/05ang_Gemep/
+train :  ../datasets/GEMEP/crop/05anx_Gemep/
+train :  ../datasets/GEMEP/crop/05des_Gemep/
+train :  ../datasets/GEMEP/crop/05dis_Gemep/
+train :  ../datasets/GEMEP/crop/05fea_Gemep/
+train :  ../datasets/GEMEP/crop/05irr_Gemep/
+train :  ../datasets/GEMEP/crop/05joy_Gemep/
+train :  ../datasets/GEMEP/crop/05ple_Gemep/
+train :  ../datasets/GEMEP/crop/05sad_Gemep/
+train :  ../datasets/GEMEP/crop/07amu_Gemep/
+train :  ../datasets/GEMEP/crop/07ang_Gemep/
+train :  ../datasets/GEMEP/crop/07anx_Gemep/
+train :  ../datasets/GEMEP/crop/07con_Gemep/
+train :  ../datasets/GEMEP/crop/07des_Gemep/
+train :  ../datasets/GEMEP/crop/07fea_Gemep/
+train :  ../datasets/GEMEP/crop/07irr_Gemep/
+train :  ../datasets/GEMEP/crop/07joy_Gemep/
+train :  ../datasets/GEMEP/crop/07ple_Gemep/
+train :  ../datasets/GEMEP/crop/07sad_Gemep/
+train :  ../datasets/GEMEP/crop/07sur_Gemep/
+train :  ../datasets/GEMEP/crop/08amu_Gemep/
+train :  ../datasets/GEMEP/crop/08ang_Gemep/
+train :  ../datasets/GEMEP/crop/08anx_Gemep/
+train :  ../datasets/GEMEP/crop/08con_Gemep/
+train :  ../datasets/GEMEP/crop/08des_Gemep/
+train :  ../datasets/GEMEP/crop/08fea_Gemep/
+train :  ../datasets/GEMEP/crop/08irr_Gemep/
+train :  ../datasets/GEMEP/crop/08joy_Gemep/
+train :  ../datasets/GEMEP/crop/08ple_Gemep/
+train :  ../datasets/GEMEP/crop/08sad_Gemep/
+train :  ../datasets/GEMEP/crop/08sur_Gemep/
+train :  ../datasets/GEMEP/crop/09amu_Gemep/
+train :  ../datasets/GEMEP/crop/09ang_Gemep/
+train :  ../datasets/GEMEP/crop/09anx_Gemep/
+train :  ../datasets/GEMEP/crop/09des_Gemep/
+train :  ../datasets/GEMEP/crop/09dis_Gemep/
+train :  ../datasets/GEMEP/crop/09fea_Gemep/
+train :  ../datasets/GEMEP/crop/09irr_Gemep/
+train :  ../datasets/GEMEP/crop/09joy_Gemep/
+train :  ../datasets/GEMEP/crop/09ple_Gemep/
+train :  ../datasets/GEMEP/crop/09sad_Gemep/
+train :  ../datasets/GEMEP/crop/10amu_Gemep/
+train :  ../datasets/GEMEP/crop/10ang_Gemep/
+train :  ../datasets/GEMEP/crop/10anx_Gemep/
+train :  ../datasets/GEMEP/crop/10des_Gemep/
+train :  ../datasets/GEMEP/crop/10dis_Gemep/
+train :  ../datasets/GEMEP/crop/10fea_Gemep/
+train :  ../datasets/GEMEP/crop/10irr_Gemep/
+train :  ../datasets/GEMEP/crop/10joy_Gemep/
+train :  ../datasets/GEMEP/crop/10ple_Gemep/
+train :  ../datasets/GEMEP/crop/10sad_Gemep/
+val :  ../datasets/GEMEP/crop/06ang_Gemep/
+val :  ../datasets/GEMEP/crop/06con_Gemep/
+val :  ../datasets/GEMEP/crop/06fea_Gemep/
+val :  ../datasets/GEMEP/crop/06ple_Gemep/
+val :  ../datasets/GEMEP/crop/06sad_Gemep/
+val :  ../datasets/GEMEP/crop/06sur_Gemep/
+[Epoch 1] Training accuracy: 0.5953. Loss: 1.126 LR: 0.001000
+
+  3%|██▋                                                                             | 1/30 [00:26<12:36, 26.09s/it]
+Validation accuracy:0.2492. Loss:1.975
+Val correct sum 80 and length is 321
+best_acc:0.2492
+[Epoch 2] Training accuracy: 0.8842. Loss: 0.356 LR: 0.001000
+
+  7%|█████▎                                                                          | 2/30 [00:52<12:10, 26.09s/it]
+Validation accuracy:0.1713. Loss:2.868
+Val correct sum 55 and length is 321
+[Epoch 3] Training accuracy: 0.9294. Loss: 0.236 LR: 0.001000
+
+ 10%|████████                                                                        | 3/30 [01:18<11:42, 26.02s/it]
+Validation accuracy:0.5078. Loss:3.052
+Val correct sum 163 and length is 321
+best_acc:0.5078
+[Epoch 4] Training accuracy: 0.9203. Loss: 0.251 LR: 0.001000
+
+ 13%|██████████▋                                                                     | 4/30 [01:44<11:16, 26.02s/it]
+Validation accuracy:0.4424. Loss:2.586
+Val correct sum 142 and length is 321
+[Epoch 5] Training accuracy: 0.9557. Loss: 0.148 LR: 0.001000
+
+ 17%|█████████████▎                                                                  | 5/30 [02:10<10:50, 26.03s/it]
+Validation accuracy:0.2461. Loss:4.179
+Val correct sum 79 and length is 321
+[Epoch 6] Training accuracy: 0.9404. Loss: 0.184 LR: 0.001000
+Training correct sum 5684 and length is 6044
+Validation accuracy:0.3520. Loss:3.436
+
+ 20%|████████████████                                                                | 6/30 [02:36<10:28, 26.18s/it]
+[Epoch 7] Training accuracy: 0.9573. Loss: 0.138 LR: 0.001000
+Training correct sum 5786 and length is 6044
+Validation accuracy:0.4299. Loss:2.214
+
+ 23%|██████████████████▋                                                             | 7/30 [03:03<10:06, 26.37s/it]
+[Epoch 8] Training accuracy: 0.9658. Loss: 0.117 LR: 0.001000
+Training correct sum 5837 and length is 6044
+Validation accuracy:0.2991. Loss:2.312
+
+ 27%|█████████████████████▎                                                          | 8/30 [03:29<09:36, 26.22s/it]
+[Epoch 9] Training accuracy: 0.9633. Loss: 0.118 LR: 0.001000
+Training correct sum 5822 and length is 6044
+Validation accuracy:0.2648. Loss:2.886
+
+ 30%|████████████████████████                                                        | 9/30 [03:55<09:07, 26.06s/it]
+[Epoch 10] Training accuracy: 0.9684. Loss: 0.111 LR: 0.001000
+Training correct sum 5853 and length is 6044
+Validation accuracy:0.4548. Loss:2.004
+
+ 33%|██████████████████████████▎                                                    | 10/30 [04:20<08:39, 25.95s/it]
+[Epoch 11] Training accuracy: 0.9820. Loss: 0.060 LR: 0.000800
+Training correct sum 5935 and length is 6044
+Validation accuracy:0.3707. Loss:2.734
+
+ 37%|████████████████████████████▉                                                  | 11/30 [04:46<08:13, 25.95s/it]
+[Epoch 12] Training accuracy: 0.9785. Loss: 0.066 LR: 0.000800
+
+ 40%|███████████████████████████████▌                                               | 12/30 [05:12<07:46, 25.90s/it]
+Validation accuracy:0.3676. Loss:3.220
+Val correct sum 118 and length is 321
+[Epoch 13] Training accuracy: 0.9780. Loss: 0.080 LR: 0.000800
+Training correct sum 5911 and length is 6044
+Validation accuracy:0.3676. Loss:2.941
+
+ 43%|██████████████████████████████████▏                                            | 13/30 [05:38<07:20, 25.89s/it]
+[Epoch 14] Training accuracy: 0.9795. Loss: 0.070 LR: 0.000800
+Training correct sum 5920 and length is 6044
+Validation accuracy:0.3832. Loss:2.318
+
+ 47%|████████████████████████████████████▊                                          | 14/30 [06:04<06:55, 26.00s/it]
+[Epoch 15] Training accuracy: 0.9749. Loss: 0.079 LR: 0.000800
+Training correct sum 5892 and length is 6044
+Validation accuracy:0.2679. Loss:2.456
+
+ 50%|███████████████████████████████████████▌                                       | 15/30 [06:30<06:30, 26.04s/it]
+[Epoch 16] Training accuracy: 0.9749. Loss: 0.081 LR: 0.000800
+Training correct sum 5892 and length is 6044
+Validation accuracy:0.3489. Loss:2.546
+
+ 53%|██████████████████████████████████████████▏                                    | 16/30 [06:56<06:03, 25.95s/it]
+[Epoch 17] Training accuracy: 0.9858. Loss: 0.046 LR: 0.000800
+Training correct sum 5958 and length is 6044
+Validation accuracy:0.3302. Loss:2.112
+
+ 57%|████████████████████████████████████████████▊                                  | 17/30 [07:23<05:39, 26.13s/it]
+[Epoch 18] Training accuracy: 0.9853. Loss: 0.054 LR: 0.000800
+Training correct sum 5955 and length is 6044
+Validation accuracy:0.3583. Loss:5.024
+
+ 60%|███████████████████████████████████████████████▍                               | 18/30 [07:48<05:11, 25.96s/it]
+[Epoch 19] Training accuracy: 0.9820. Loss: 0.062 LR: 0.000800
+Training correct sum 5935 and length is 6044
+Validation accuracy:0.3645. Loss:3.938
+
+ 63%|██████████████████████████████████████████████████                             | 19/30 [08:15<04:47, 26.15s/it]
+[Epoch 20] Training accuracy: 0.9801. Loss: 0.073 LR: 0.000800
+Training correct sum 5924 and length is 6044
+Validation accuracy:0.2928. Loss:3.933
+
+ 67%|████████████████████████████████████████████████████▋                          | 20/30 [08:41<04:22, 26.27s/it]
+[Epoch 21] Training accuracy: 0.9891. Loss: 0.033 LR: 0.000640
+Training correct sum 5978 and length is 6044
+Validation accuracy:0.3832. Loss:2.575
+
+ 70%|███████████████████████████████████████████████████████▎                       | 21/30 [09:07<03:55, 26.19s/it]
+[Epoch 22] Training accuracy: 0.9931. Loss: 0.024 LR: 0.000640
+Training correct sum 6002 and length is 6044
+Validation accuracy:0.3302. Loss:3.025
+
+ 73%|█████████████████████████████████████████████████████████▉                     | 22/30 [09:33<03:29, 26.20s/it]
+[Epoch 23] Training accuracy: 0.9931. Loss: 0.027 LR: 0.000640
+
+ 77%|████████████████████████████████████████████████████████████▌                  | 23/30 [10:00<03:03, 26.26s/it]
+Validation accuracy:0.3053. Loss:4.206
+Val correct sum 98 and length is 321
+[Epoch 24] Training accuracy: 0.9841. Loss: 0.054 LR: 0.000640
+Training correct sum 5948 and length is 6044
+Validation accuracy:0.2492. Loss:2.748
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 24/30 [10:26<02:36, 26.14s/it]
+[Epoch 25] Training accuracy: 0.9879. Loss: 0.045 LR: 0.000640
+Training correct sum 5971 and length is 6044
+Validation accuracy:0.4174. Loss:3.129
+
+ 83%|█████████████████████████████████████████████████████████████████▊             | 25/30 [10:52<02:11, 26.28s/it]
+[Epoch 26] Training accuracy: 0.9901. Loss: 0.037 LR: 0.000640
+Training correct sum 5984 and length is 6044
+Validation accuracy:0.3583. Loss:2.666
+
+ 87%|████████████████████████████████████████████████████████████████████▍          | 26/30 [11:18<01:44, 26.24s/it]
+[Epoch 27] Training accuracy: 0.9879. Loss: 0.039 LR: 0.000640
+Training correct sum 5971 and length is 6044
+Validation accuracy:0.3769. Loss:2.443
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 27/30 [11:44<01:18, 26.05s/it]
+[Epoch 28] Training accuracy: 0.9922. Loss: 0.031 LR: 0.000640
+Training correct sum 5997 and length is 6044
+Validation accuracy:0.3769. Loss:2.579
+
+ 93%|█████████████████████████████████████████████████████████████████████████▋     | 28/30 [12:10<00:52, 26.03s/it]
+[Epoch 29] Training accuracy: 0.9874. Loss: 0.049 LR: 0.000640
+Training correct sum 5968 and length is 6044
+Validation accuracy:0.2368. Loss:2.953
+
+ 97%|████████████████████████████████████████████████████████████████████████████▎  | 29/30 [12:36<00:25, 25.92s/it]
+[Epoch 30] Training accuracy: 0.9897. Loss: 0.032 LR: 0.000640
+
+100%|███████████████████████████████████████████████████████████████████████████████| 30/30 [13:02<00:00, 26.08s/it]
+Validation accuracy:0.3146. Loss:2.322
+Val correct sum 101 and length is 321
+Model saved.
+[Split: 06/10] Accuracy: 0.341
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/01amu_Gemep/
+train :  ../datasets/GEMEP/crop/01ang_Gemep/
+train :  ../datasets/GEMEP/crop/01anx_Gemep/
+train :  ../datasets/GEMEP/crop/01con_Gemep/
+train :  ../datasets/GEMEP/crop/01des_Gemep/
+train :  ../datasets/GEMEP/crop/01fea_Gemep/
+train :  ../datasets/GEMEP/crop/01irr_Gemep/
+train :  ../datasets/GEMEP/crop/01joy_Gemep/
+train :  ../datasets/GEMEP/crop/01ple_Gemep/
+train :  ../datasets/GEMEP/crop/01sad_Gemep/
+train :  ../datasets/GEMEP/crop/01sur_Gemep/
+train :  ../datasets/GEMEP/crop/02amu_Gemep/
+train :  ../datasets/GEMEP/crop/02ang_Gemep/
+train :  ../datasets/GEMEP/crop/02anx_Gemep/
+train :  ../datasets/GEMEP/crop/02des_Gemep/
+train :  ../datasets/GEMEP/crop/02dis_Gemep/
+train :  ../datasets/GEMEP/crop/02fea_Gemep/
+train :  ../datasets/GEMEP/crop/02irr_Gemep/
+train :  ../datasets/GEMEP/crop/02joy_Gemep/
+train :  ../datasets/GEMEP/crop/02ple_Gemep/
+train :  ../datasets/GEMEP/crop/02sad_Gemep/
+train :  ../datasets/GEMEP/crop/03amu_Gemep/
+train :  ../datasets/GEMEP/crop/03ang_Gemep/
+train :  ../datasets/GEMEP/crop/03anx_Gemep/
+train :  ../datasets/GEMEP/crop/03con_Gemep/
+train :  ../datasets/GEMEP/crop/03des_Gemep/
+train :  ../datasets/GEMEP/crop/03fea_Gemep/
+train :  ../datasets/GEMEP/crop/03irr_Gemep/
+train :  ../datasets/GEMEP/crop/03joy_Gemep/
+train :  ../datasets/GEMEP/crop/03ple_Gemep/
+train :  ../datasets/GEMEP/crop/03sad_Gemep/
+train :  ../datasets/GEMEP/crop/03sur_Gemep/
+train :  ../datasets/GEMEP/crop/04amu_Gemep/
+train :  ../datasets/GEMEP/crop/04ang_Gemep/
+train :  ../datasets/GEMEP/crop/04anx_Gemep/
+train :  ../datasets/GEMEP/crop/04des_Gemep/
+train :  ../datasets/GEMEP/crop/04dis_Gemep/
+train :  ../datasets/GEMEP/crop/04fea_Gemep/
+train :  ../datasets/GEMEP/crop/04irr_Gemep/
+train :  ../datasets/GEMEP/crop/04joy_Gemep/
+train :  ../datasets/GEMEP/crop/04ple_Gemep/
+train :  ../datasets/GEMEP/crop/04sad_Gemep/
+train :  ../datasets/GEMEP/crop/05amu_Gemep/
+train :  ../datasets/GEMEP/crop/05ang_Gemep/
+train :  ../datasets/GEMEP/crop/05anx_Gemep/
+train :  ../datasets/GEMEP/crop/05des_Gemep/
+train :  ../datasets/GEMEP/crop/05dis_Gemep/
+train :  ../datasets/GEMEP/crop/05fea_Gemep/
+train :  ../datasets/GEMEP/crop/05irr_Gemep/
+train :  ../datasets/GEMEP/crop/05joy_Gemep/
+train :  ../datasets/GEMEP/crop/05ple_Gemep/
+train :  ../datasets/GEMEP/crop/05sad_Gemep/
+train :  ../datasets/GEMEP/crop/06amu_Gemep/
+train :  ../datasets/GEMEP/crop/06ang_Gemep/
+train :  ../datasets/GEMEP/crop/06anx_Gemep/
+train :  ../datasets/GEMEP/crop/06con_Gemep/
+train :  ../datasets/GEMEP/crop/06des_Gemep/
+train :  ../datasets/GEMEP/crop/06fea_Gemep/
+train :  ../datasets/GEMEP/crop/06irr_Gemep/
+train :  ../datasets/GEMEP/crop/06joy_Gemep/
+train :  ../datasets/GEMEP/crop/06ple_Gemep/
+train :  ../datasets/GEMEP/crop/06sad_Gemep/
+train :  ../datasets/GEMEP/crop/06sur_Gemep/
+train :  ../datasets/GEMEP/crop/08amu_Gemep/
+train :  ../datasets/GEMEP/crop/08ang_Gemep/
+train :  ../datasets/GEMEP/crop/08anx_Gemep/
+train :  ../datasets/GEMEP/crop/08con_Gemep/
+train :  ../datasets/GEMEP/crop/08des_Gemep/
+train :  ../datasets/GEMEP/crop/08fea_Gemep/
+train :  ../datasets/GEMEP/crop/08irr_Gemep/
+train :  ../datasets/GEMEP/crop/08joy_Gemep/
+train :  ../datasets/GEMEP/crop/08ple_Gemep/
+train :  ../datasets/GEMEP/crop/08sad_Gemep/
+train :  ../datasets/GEMEP/crop/08sur_Gemep/
+train :  ../datasets/GEMEP/crop/09amu_Gemep/
+train :  ../datasets/GEMEP/crop/09ang_Gemep/
+train :  ../datasets/GEMEP/crop/09anx_Gemep/
+train :  ../datasets/GEMEP/crop/09des_Gemep/
+train :  ../datasets/GEMEP/crop/09dis_Gemep/
+train :  ../datasets/GEMEP/crop/09fea_Gemep/
+train :  ../datasets/GEMEP/crop/09irr_Gemep/
+train :  ../datasets/GEMEP/crop/09joy_Gemep/
+train :  ../datasets/GEMEP/crop/09ple_Gemep/
+train :  ../datasets/GEMEP/crop/09sad_Gemep/
+train :  ../datasets/GEMEP/crop/10amu_Gemep/
+train :  ../datasets/GEMEP/crop/10ang_Gemep/
+train :  ../datasets/GEMEP/crop/10anx_Gemep/
+train :  ../datasets/GEMEP/crop/10des_Gemep/
+train :  ../datasets/GEMEP/crop/10dis_Gemep/
+train :  ../datasets/GEMEP/crop/10fea_Gemep/
+train :  ../datasets/GEMEP/crop/10irr_Gemep/
+train :  ../datasets/GEMEP/crop/10joy_Gemep/
+train :  ../datasets/GEMEP/crop/10ple_Gemep/
+train :  ../datasets/GEMEP/crop/10sad_Gemep/
+val :  ../datasets/GEMEP/crop/07ang_Gemep/
+val :  ../datasets/GEMEP/crop/07con_Gemep/
+val :  ../datasets/GEMEP/crop/07fea_Gemep/
+val :  ../datasets/GEMEP/crop/07ple_Gemep/
+val :  ../datasets/GEMEP/crop/07sad_Gemep/
+val :  ../datasets/GEMEP/crop/07sur_Gemep/
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+[Epoch 1] Training accuracy: 0.6851. Loss: 0.870 LR: 0.001000
+Training correct sum 4044 and length is 5903
+Validation accuracy:0.0440. Loss:3.380
+Val correct sum 21 and length is 477
+
+  3%|██▋                                                                             | 1/30 [00:25<12:32, 25.94s/it]
+[Epoch 2] Training accuracy: 0.9133. Loss: 0.281 LR: 0.001000
+Training correct sum 5391 and length is 5903
+Validation accuracy:0.1593. Loss:3.913
+Val correct sum 76 and length is 477
+
+  7%|█████▎                                                                          | 2/30 [00:51<11:58, 25.67s/it]
+[Epoch 3] Training accuracy: 0.9309. Loss: 0.236 LR: 0.001000
+Training correct sum 5495 and length is 5903
+Validation accuracy:0.2579. Loss:3.871
+Val correct sum 123 and length is 477
+
+ 10%|████████                                                                        | 3/30 [01:17<11:34, 25.72s/it]
+[Epoch 4] Training accuracy: 0.9395. Loss: 0.196 LR: 0.001000
+Training correct sum 5546 and length is 5903
+Validation accuracy:0.4130. Loss:2.450
+Val correct sum 197 and length is 477
+
+ 13%|██████████▋                                                                     | 4/30 [01:42<11:07, 25.66s/it]
+[Epoch 5] Training accuracy: 0.9534. Loss: 0.163 LR: 0.001000
+Training correct sum 5628 and length is 5903
+Validation accuracy:0.0776. Loss:8.057
+
+ 17%|█████████████▎                                                                  | 5/30 [02:09<10:49, 26.00s/it]
+[Epoch 6] Training accuracy: 0.9573. Loss: 0.155 LR: 0.001000
+Training correct sum 5651 and length is 5903
+Validation accuracy:0.2683. Loss:4.913
+
+ 20%|████████████████                                                                | 6/30 [02:35<10:21, 25.88s/it]
+[Epoch 7] Training accuracy: 0.9493. Loss: 0.166 LR: 0.001000
+Training correct sum 5604 and length is 5903
+Validation accuracy:0.4130. Loss:1.963
+
+ 23%|██████████████████▋                                                             | 7/30 [03:00<09:55, 25.88s/it]
+[Epoch 8] Training accuracy: 0.9595. Loss: 0.132 LR: 0.001000
+Training correct sum 5664 and length is 5903
+Validation accuracy:0.2704. Loss:4.212
+
+ 27%|█████████████████████▎                                                          | 8/30 [03:26<09:27, 25.79s/it]
+[Epoch 9] Training accuracy: 0.9692. Loss: 0.108 LR: 0.001000
+Training correct sum 5721 and length is 5903
+Validation accuracy:0.1426. Loss:4.696
+
+ 30%|████████████████████████                                                        | 9/30 [03:52<09:03, 25.89s/it]
+[Epoch 10] Training accuracy: 0.9607. Loss: 0.121 LR: 0.001000
+Training correct sum 5671 and length is 5903
+Validation accuracy:0.3564. Loss:5.749
+
+ 33%|██████████████████████████▎                                                    | 10/30 [04:18<08:37, 25.90s/it]
+[Epoch 11] Training accuracy: 0.9734. Loss: 0.080 LR: 0.000800
+Training correct sum 5746 and length is 5903
+Validation accuracy:0.0000. Loss:16.675
+
+ 37%|████████████████████████████▉                                                  | 11/30 [04:44<08:12, 25.91s/it]
+[Epoch 12] Training accuracy: 0.9876. Loss: 0.047 LR: 0.000800
+Training correct sum 5830 and length is 5903
+Validation accuracy:0.2558. Loss:4.667
+
+ 40%|███████████████████████████████▌                                               | 12/30 [05:10<07:46, 25.89s/it]
+[Epoch 13] Training accuracy: 0.9793. Loss: 0.061 LR: 0.000800
+Training correct sum 5781 and length is 5903
+Validation accuracy:0.1782. Loss:6.202
+
+ 43%|██████████████████████████████████▏                                            | 13/30 [05:36<07:19, 25.85s/it]
+[Epoch 14] Training accuracy: 0.9692. Loss: 0.098 LR: 0.000800
+Training correct sum 5721 and length is 5903
+Validation accuracy:0.1027. Loss:10.282
+
+ 47%|████████████████████████████████████▊                                          | 14/30 [06:02<06:55, 25.97s/it]
+[Epoch 15] Training accuracy: 0.9787. Loss: 0.078 LR: 0.000800
+Training correct sum 5777 and length is 5903
+Validation accuracy:0.2411. Loss:12.472
+
+ 50%|███████████████████████████████████████▌                                       | 15/30 [06:28<06:30, 26.01s/it]
+[Epoch 16] Training accuracy: 0.9194. Loss: 0.251 LR: 0.000800
+Training correct sum 5427 and length is 5903
+Validation accuracy:0.1509. Loss:5.536
+
+ 53%|██████████████████████████████████████████▏                                    | 16/30 [06:53<06:01, 25.83s/it]
+[Epoch 17] Training accuracy: 0.9832. Loss: 0.067 LR: 0.000800
+
+ 57%|████████████████████████████████████████████▊                                  | 17/30 [07:19<05:36, 25.87s/it]
+Validation accuracy:0.1803. Loss:5.569
+Val correct sum 86 and length is 477
+[Epoch 18] Training accuracy: 0.9607. Loss: 0.128 LR: 0.000800
+Training correct sum 5671 and length is 5903
+Validation accuracy:0.1572. Loss:4.151
+
+ 60%|███████████████████████████████████████████████▍                               | 18/30 [07:45<05:11, 25.93s/it]
+[Epoch 19] Training accuracy: 0.9844. Loss: 0.053 LR: 0.000800
+Training correct sum 5811 and length is 5903
+Validation accuracy:0.1027. Loss:6.103
+
+ 63%|██████████████████████████████████████████████████                             | 19/30 [08:11<04:44, 25.89s/it]
+[Epoch 20] Training accuracy: 0.9893. Loss: 0.038 LR: 0.000800
+Training correct sum 5840 and length is 5903
+Validation accuracy:0.1803. Loss:9.001
+
+ 67%|████████████████████████████████████████████████████▋                          | 20/30 [08:37<04:19, 25.95s/it]
+[Epoch 21] Training accuracy: 0.9861. Loss: 0.044 LR: 0.000640
+Training correct sum 5821 and length is 5903
+Validation accuracy:0.3312. Loss:6.019
+
+ 70%|███████████████████████████████████████████████████████▎                       | 21/30 [09:03<03:52, 25.87s/it]
+[Epoch 22] Training accuracy: 0.9919. Loss: 0.026 LR: 0.000640
+Training correct sum 5855 and length is 5903
+Validation accuracy:0.2767. Loss:6.958
+
+ 73%|█████████████████████████████████████████████████████████▉                     | 22/30 [09:30<03:28, 26.10s/it]
+[Epoch 23] Training accuracy: 0.9953. Loss: 0.021 LR: 0.000640
+Training correct sum 5875 and length is 5903
+Validation accuracy:0.4256. Loss:3.840
+Val correct sum 203 and length is 477
+
+ 77%|████████████████████████████████████████████████████████████▌                  | 23/30 [09:56<03:02, 26.13s/it]
+[Epoch 24] Training accuracy: 0.9971. Loss: 0.013 LR: 0.000640
+Training correct sum 5886 and length is 5903
+Validation accuracy:0.3774. Loss:4.095
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 24/30 [10:21<02:35, 25.96s/it]
+[Epoch 25] Training accuracy: 0.9909. Loss: 0.034 LR: 0.000640
+Training correct sum 5849 and length is 5903
+Validation accuracy:0.3019. Loss:6.506
+
+ 83%|█████████████████████████████████████████████████████████████████▊             | 25/30 [10:47<02:08, 25.78s/it]
+[Epoch 26] Training accuracy: 0.9910. Loss: 0.033 LR: 0.000640
+
+ 87%|████████████████████████████████████████████████████████████████████▍          | 26/30 [11:12<01:43, 25.75s/it]
+Validation accuracy:0.3270. Loss:6.354
+Val correct sum 156 and length is 477
+[Epoch 27] Training accuracy: 0.9864. Loss: 0.048 LR: 0.000640
+Training correct sum 5823 and length is 5903
+Validation accuracy:0.3312. Loss:4.814
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 27/30 [11:38<01:17, 25.77s/it]
+[Epoch 28] Training accuracy: 0.9878. Loss: 0.040 LR: 0.000640
+Training correct sum 5831 and length is 5903
+Validation accuracy:0.2264. Loss:6.128
+
+ 93%|█████████████████████████████████████████████████████████████████████████▋     | 28/30 [12:04<00:51, 25.77s/it]
+[Epoch 29] Training accuracy: 0.9920. Loss: 0.026 LR: 0.000640
+Training correct sum 5856 and length is 5903
+Validation accuracy:0.3732. Loss:5.738
+
+ 97%|████████████████████████████████████████████████████████████████████████████▎  | 29/30 [12:30<00:25, 25.88s/it]
+[Epoch 30] Training accuracy: 0.9909. Loss: 0.034 LR: 0.000640
+Training correct sum 5849 and length is 5903
+Validation accuracy:0.3040. Loss:4.959
+Val correct sum 145 and length is 477
+Model saved.
+[Split: 07/10] Accuracy: 0.241
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/01amu_Gemep/
+train :  ../datasets/GEMEP/crop/01ang_Gemep/
+train :  ../datasets/GEMEP/crop/01anx_Gemep/
+train :  ../datasets/GEMEP/crop/01con_Gemep/
+train :  ../datasets/GEMEP/crop/01des_Gemep/
+train :  ../datasets/GEMEP/crop/01fea_Gemep/
+train :  ../datasets/GEMEP/crop/01irr_Gemep/
+train :  ../datasets/GEMEP/crop/01joy_Gemep/
+train :  ../datasets/GEMEP/crop/01ple_Gemep/
+train :  ../datasets/GEMEP/crop/01sad_Gemep/
+train :  ../datasets/GEMEP/crop/01sur_Gemep/
+train :  ../datasets/GEMEP/crop/02amu_Gemep/
+train :  ../datasets/GEMEP/crop/02ang_Gemep/
+train :  ../datasets/GEMEP/crop/02anx_Gemep/
+train :  ../datasets/GEMEP/crop/02des_Gemep/
+train :  ../datasets/GEMEP/crop/02dis_Gemep/
+train :  ../datasets/GEMEP/crop/02fea_Gemep/
+train :  ../datasets/GEMEP/crop/02irr_Gemep/
+train :  ../datasets/GEMEP/crop/02joy_Gemep/
+train :  ../datasets/GEMEP/crop/02ple_Gemep/
+train :  ../datasets/GEMEP/crop/02sad_Gemep/
+train :  ../datasets/GEMEP/crop/03amu_Gemep/
+train :  ../datasets/GEMEP/crop/03ang_Gemep/
+train :  ../datasets/GEMEP/crop/03anx_Gemep/
+train :  ../datasets/GEMEP/crop/03con_Gemep/
+train :  ../datasets/GEMEP/crop/03des_Gemep/
+train :  ../datasets/GEMEP/crop/03fea_Gemep/
+train :  ../datasets/GEMEP/crop/03irr_Gemep/
+train :  ../datasets/GEMEP/crop/03joy_Gemep/
+train :  ../datasets/GEMEP/crop/03ple_Gemep/
+train :  ../datasets/GEMEP/crop/03sad_Gemep/
+train :  ../datasets/GEMEP/crop/03sur_Gemep/
+train :  ../datasets/GEMEP/crop/04amu_Gemep/
+train :  ../datasets/GEMEP/crop/04ang_Gemep/
+train :  ../datasets/GEMEP/crop/04anx_Gemep/
+train :  ../datasets/GEMEP/crop/04des_Gemep/
+train :  ../datasets/GEMEP/crop/04dis_Gemep/
+train :  ../datasets/GEMEP/crop/04fea_Gemep/
+train :  ../datasets/GEMEP/crop/04irr_Gemep/
+train :  ../datasets/GEMEP/crop/04joy_Gemep/
+train :  ../datasets/GEMEP/crop/04ple_Gemep/
+train :  ../datasets/GEMEP/crop/04sad_Gemep/
+train :  ../datasets/GEMEP/crop/05amu_Gemep/
+train :  ../datasets/GEMEP/crop/05ang_Gemep/
+train :  ../datasets/GEMEP/crop/05anx_Gemep/
+train :  ../datasets/GEMEP/crop/05des_Gemep/
+train :  ../datasets/GEMEP/crop/05dis_Gemep/
+train :  ../datasets/GEMEP/crop/05fea_Gemep/
+train :  ../datasets/GEMEP/crop/05irr_Gemep/
+train :  ../datasets/GEMEP/crop/05joy_Gemep/
+train :  ../datasets/GEMEP/crop/05ple_Gemep/
+train :  ../datasets/GEMEP/crop/05sad_Gemep/
+train :  ../datasets/GEMEP/crop/06amu_Gemep/
+train :  ../datasets/GEMEP/crop/06ang_Gemep/
+train :  ../datasets/GEMEP/crop/06anx_Gemep/
+train :  ../datasets/GEMEP/crop/06con_Gemep/
+train :  ../datasets/GEMEP/crop/06des_Gemep/
+train :  ../datasets/GEMEP/crop/06fea_Gemep/
+train :  ../datasets/GEMEP/crop/06irr_Gemep/
+train :  ../datasets/GEMEP/crop/06joy_Gemep/
+train :  ../datasets/GEMEP/crop/06ple_Gemep/
+train :  ../datasets/GEMEP/crop/06sad_Gemep/
+train :  ../datasets/GEMEP/crop/06sur_Gemep/
+train :  ../datasets/GEMEP/crop/07amu_Gemep/
+train :  ../datasets/GEMEP/crop/07ang_Gemep/
+train :  ../datasets/GEMEP/crop/07anx_Gemep/
+train :  ../datasets/GEMEP/crop/07con_Gemep/
+train :  ../datasets/GEMEP/crop/07des_Gemep/
+train :  ../datasets/GEMEP/crop/07fea_Gemep/
+train :  ../datasets/GEMEP/crop/07irr_Gemep/
+train :  ../datasets/GEMEP/crop/07joy_Gemep/
+train :  ../datasets/GEMEP/crop/07ple_Gemep/
+train :  ../datasets/GEMEP/crop/07sad_Gemep/
+train :  ../datasets/GEMEP/crop/07sur_Gemep/
+train :  ../datasets/GEMEP/crop/09amu_Gemep/
+train :  ../datasets/GEMEP/crop/09ang_Gemep/
+train :  ../datasets/GEMEP/crop/09anx_Gemep/
+train :  ../datasets/GEMEP/crop/09des_Gemep/
+train :  ../datasets/GEMEP/crop/09dis_Gemep/
+train :  ../datasets/GEMEP/crop/09fea_Gemep/
+train :  ../datasets/GEMEP/crop/09irr_Gemep/
+train :  ../datasets/GEMEP/crop/09joy_Gemep/
+train :  ../datasets/GEMEP/crop/09ple_Gemep/
+train :  ../datasets/GEMEP/crop/09sad_Gemep/
+train :  ../datasets/GEMEP/crop/10amu_Gemep/
+train :  ../datasets/GEMEP/crop/10ang_Gemep/
+train :  ../datasets/GEMEP/crop/10anx_Gemep/
+train :  ../datasets/GEMEP/crop/10des_Gemep/
+train :  ../datasets/GEMEP/crop/10dis_Gemep/
+train :  ../datasets/GEMEP/crop/10fea_Gemep/
+train :  ../datasets/GEMEP/crop/10irr_Gemep/
+train :  ../datasets/GEMEP/crop/10joy_Gemep/
+train :  ../datasets/GEMEP/crop/10ple_Gemep/
+train :  ../datasets/GEMEP/crop/10sad_Gemep/
+val :  ../datasets/GEMEP/crop/08ang_Gemep/
+val :  ../datasets/GEMEP/crop/08con_Gemep/
+val :  ../datasets/GEMEP/crop/08fea_Gemep/
+val :  ../datasets/GEMEP/crop/08ple_Gemep/
+val :  ../datasets/GEMEP/crop/08sad_Gemep/
+100%|███████████████████████████████████████████████████████████████████████████████| 30/30 [12:56<00:00, 25.87s/it]
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+[Epoch 1] Training accuracy: 0.3337. Loss: 1.747 LR: 0.001000
+Training correct sum 2041 and length is 6117
+Validation accuracy:0.1752. Loss:2.038
+Val correct sum 65 and length is 371
+
+  3%|██▋                                                                             | 1/30 [00:26<12:51, 26.60s/it]
+[Epoch 2] Training accuracy: 0.3343. Loss: 1.724 LR: 0.001000
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1752. Loss:2.032
+
+  7%|█████▎                                                                          | 2/30 [00:52<12:20, 26.44s/it]
+[Epoch 3] Training accuracy: 0.3322. Loss: 1.718 LR: 0.001000
+Training correct sum 2032 and length is 6117
+Validation accuracy:0.1752. Loss:2.021
+
+ 10%|████████                                                                        | 3/30 [01:19<11:49, 26.28s/it]
+[Epoch 4] Training accuracy: 0.3306. Loss: 1.719 LR: 0.001000
+Training correct sum 2022 and length is 6117
+Validation accuracy:0.1752. Loss:2.164
+
+ 13%|██████████▋                                                                     | 4/30 [01:45<11:24, 26.34s/it]
+[Epoch 5] Training accuracy: 0.3343. Loss: 1.716 LR: 0.001000
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1752. Loss:2.106
+
+ 17%|█████████████▎                                                                  | 5/30 [02:11<10:52, 26.12s/it]
+[Epoch 6] Training accuracy: 0.3283. Loss: 1.714 LR: 0.001000
+
+ 20%|████████████████                                                                | 6/30 [02:37<10:25, 26.08s/it]
+Validation accuracy:0.1752. Loss:2.132
+Val correct sum 65 and length is 371
+[Epoch 7] Training accuracy: 0.3343. Loss: 1.715 LR: 0.001000
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1752. Loss:2.103
+
+ 23%|██████████████████▋                                                             | 7/30 [03:03<10:01, 26.14s/it]
+[Epoch 8] Training accuracy: 0.3343. Loss: 1.710 LR: 0.001000
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1752. Loss:2.090
+
+ 27%|█████████████████████▎                                                          | 8/30 [03:30<09:38, 26.32s/it]
+[Epoch 9] Training accuracy: 0.3343. Loss: 1.711 LR: 0.001000
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1698. Loss:3.238
+
+ 30%|████████████████████████                                                        | 9/30 [03:56<09:10, 26.23s/it]
+[Epoch 10] Training accuracy: 0.3343. Loss: 1.709 LR: 0.001000
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1752. Loss:2.044
+
+ 33%|██████████████████████████▎                                                    | 10/30 [04:22<08:45, 26.28s/it]
+[Epoch 11] Training accuracy: 0.3343. Loss: 1.709 LR: 0.000800
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1752. Loss:2.029
+
+ 37%|████████████████████████████▉                                                  | 11/30 [04:48<08:17, 26.20s/it]
+[Epoch 12] Training accuracy: 0.3299. Loss: 1.708 LR: 0.000800
+Training correct sum 2018 and length is 6117
+Validation accuracy:0.1752. Loss:2.020
+
+ 40%|███████████████████████████████▌                                               | 12/30 [05:14<07:48, 26.04s/it]
+[Epoch 13] Training accuracy: 0.3343. Loss: 1.709 LR: 0.000800
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1752. Loss:2.004
+
+ 43%|██████████████████████████████████▏                                            | 13/30 [05:40<07:23, 26.11s/it]
+[Epoch 14] Training accuracy: 0.3343. Loss: 1.710 LR: 0.000800
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1752. Loss:2.001
+
+ 47%|████████████████████████████████████▊                                          | 14/30 [06:07<07:00, 26.29s/it]
+[Epoch 15] Training accuracy: 0.3343. Loss: 1.708 LR: 0.000800
+
+ 50%|███████████████████████████████████████▌                                       | 15/30 [06:34<06:37, 26.52s/it]
+Validation accuracy:0.1752. Loss:1.996
+Val correct sum 65 and length is 371
+[Epoch 16] Training accuracy: 0.3343. Loss: 1.706 LR: 0.000800
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1698. Loss:2.033
+
+ 53%|██████████████████████████████████████████▏                                    | 16/30 [07:01<06:12, 26.61s/it]
+[Epoch 17] Training accuracy: 0.3343. Loss: 1.708 LR: 0.000800
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1429. Loss:2.000
+
+ 57%|████████████████████████████████████████████▊                                  | 17/30 [07:27<05:46, 26.69s/it]
+[Epoch 18] Training accuracy: 0.3279. Loss: 1.720 LR: 0.000800
+Training correct sum 2006 and length is 6117
+Validation accuracy:0.1429. Loss:1.968
+
+ 60%|███████████████████████████████████████████████▍                               | 18/30 [07:53<05:17, 26.47s/it]
+[Epoch 19] Training accuracy: 0.3343. Loss: 1.707 LR: 0.000800
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1752. Loss:1.977
+
+ 63%|██████████████████████████████████████████████████                             | 19/30 [08:20<04:50, 26.42s/it]
+[Epoch 20] Training accuracy: 0.3343. Loss: 1.705 LR: 0.000800
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1429. Loss:1.995
+
+ 67%|████████████████████████████████████████████████████▋                          | 20/30 [08:46<04:24, 26.46s/it]
+[Epoch 21] Training accuracy: 0.3343. Loss: 1.706 LR: 0.000640
+
+ 70%|███████████████████████████████████████████████████████▎                       | 21/30 [09:13<03:57, 26.43s/it]
+Validation accuracy:0.1752. Loss:1.997
+Val correct sum 65 and length is 371
+[Epoch 22] Training accuracy: 0.3310. Loss: 1.710 LR: 0.000640
+Training correct sum 2025 and length is 6117
+Validation accuracy:0.1698. Loss:2.072
+
+ 73%|█████████████████████████████████████████████████████████▉                     | 22/30 [09:39<03:31, 26.44s/it]
+[Epoch 23] Training accuracy: 0.3330. Loss: 1.673 LR: 0.000640
+Training correct sum 2037 and length is 6117
+Validation accuracy:0.1698. Loss:2.538
+
+ 77%|████████████████████████████████████████████████████████████▌                  | 23/30 [10:06<03:05, 26.43s/it]
+[Epoch 24] Training accuracy: 0.3343. Loss: 1.706 LR: 0.000640
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1698. Loss:2.011
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 24/30 [10:32<02:38, 26.35s/it]
+[Epoch 25] Training accuracy: 0.3343. Loss: 1.707 LR: 0.000640
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1725. Loss:1.962
+
+ 83%|█████████████████████████████████████████████████████████████████▊             | 25/30 [10:57<02:10, 26.14s/it]
+[Epoch 26] Training accuracy: 0.3343. Loss: 1.701 LR: 0.000640
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1698. Loss:3135.218
+
+ 87%|████████████████████████████████████████████████████████████████████▍          | 26/30 [11:23<01:43, 25.94s/it]
+[Epoch 27] Training accuracy: 0.3343. Loss: 1.705 LR: 0.000640
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1725. Loss:2.003
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 27/30 [11:49<01:17, 25.93s/it]
+[Epoch 28] Training accuracy: 0.3343. Loss: 1.709 LR: 0.000640
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1429. Loss:2.004
+
+ 93%|█████████████████████████████████████████████████████████████████████████▋     | 28/30 [12:15<00:51, 25.93s/it]
+[Epoch 29] Training accuracy: 0.3343. Loss: 1.705 LR: 0.000640
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1429. Loss:2.032
+
+ 97%|████████████████████████████████████████████████████████████████████████████▎  | 29/30 [12:41<00:25, 25.98s/it]
+[Epoch 30] Training accuracy: 0.3343. Loss: 1.707 LR: 0.000640
+Training correct sum 2045 and length is 6117
+Validation accuracy:0.1698. Loss:2.028
+Val correct sum 63 and length is 371
+Model saved.
+[Split: 08/10] Accuracy: 0.168
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/01amu_Gemep/
+train :  ../datasets/GEMEP/crop/01ang_Gemep/
+train :  ../datasets/GEMEP/crop/01anx_Gemep/
+train :  ../datasets/GEMEP/crop/01con_Gemep/
+train :  ../datasets/GEMEP/crop/01des_Gemep/
+train :  ../datasets/GEMEP/crop/01fea_Gemep/
+train :  ../datasets/GEMEP/crop/01irr_Gemep/
+train :  ../datasets/GEMEP/crop/01joy_Gemep/
+train :  ../datasets/GEMEP/crop/01ple_Gemep/
+train :  ../datasets/GEMEP/crop/01sad_Gemep/
+train :  ../datasets/GEMEP/crop/01sur_Gemep/
+train :  ../datasets/GEMEP/crop/02amu_Gemep/
+train :  ../datasets/GEMEP/crop/02ang_Gemep/
+train :  ../datasets/GEMEP/crop/02anx_Gemep/
+train :  ../datasets/GEMEP/crop/02des_Gemep/
+train :  ../datasets/GEMEP/crop/02dis_Gemep/
+train :  ../datasets/GEMEP/crop/02fea_Gemep/
+
+train :  ../datasets/GEMEP/crop/02irr_Gemep/
+train :  ../datasets/GEMEP/crop/02joy_Gemep/
+train :  ../datasets/GEMEP/crop/02ple_Gemep/
+train :  ../datasets/GEMEP/crop/02sad_Gemep/
+train :  ../datasets/GEMEP/crop/03amu_Gemep/
+train :  ../datasets/GEMEP/crop/03ang_Gemep/
+train :  ../datasets/GEMEP/crop/03anx_Gemep/
+train :  ../datasets/GEMEP/crop/03con_Gemep/
+train :  ../datasets/GEMEP/crop/03des_Gemep/
+train :  ../datasets/GEMEP/crop/03fea_Gemep/
+train :  ../datasets/GEMEP/crop/03irr_Gemep/
+train :  ../datasets/GEMEP/crop/03joy_Gemep/
+train :  ../datasets/GEMEP/crop/03ple_Gemep/
+train :  ../datasets/GEMEP/crop/03sad_Gemep/
+train :  ../datasets/GEMEP/crop/03sur_Gemep/
+train :  ../datasets/GEMEP/crop/04amu_Gemep/
+train :  ../datasets/GEMEP/crop/04ang_Gemep/
+train :  ../datasets/GEMEP/crop/04anx_Gemep/
+train :  ../datasets/GEMEP/crop/04des_Gemep/
+train :  ../datasets/GEMEP/crop/04dis_Gemep/
+train :  ../datasets/GEMEP/crop/04fea_Gemep/
+train :  ../datasets/GEMEP/crop/04irr_Gemep/
+train :  ../datasets/GEMEP/crop/04joy_Gemep/
+train :  ../datasets/GEMEP/crop/04ple_Gemep/
+train :  ../datasets/GEMEP/crop/04sad_Gemep/
+train :  ../datasets/GEMEP/crop/05amu_Gemep/
+train :  ../datasets/GEMEP/crop/05ang_Gemep/
+train :  ../datasets/GEMEP/crop/05anx_Gemep/
+train :  ../datasets/GEMEP/crop/05des_Gemep/
+train :  ../datasets/GEMEP/crop/05dis_Gemep/
+train :  ../datasets/GEMEP/crop/05fea_Gemep/
+train :  ../datasets/GEMEP/crop/05irr_Gemep/
+train :  ../datasets/GEMEP/crop/05joy_Gemep/
+train :  ../datasets/GEMEP/crop/05ple_Gemep/
+train :  ../datasets/GEMEP/crop/05sad_Gemep/
+train :  ../datasets/GEMEP/crop/06amu_Gemep/
+train :  ../datasets/GEMEP/crop/06ang_Gemep/
+train :  ../datasets/GEMEP/crop/06anx_Gemep/
+train :  ../datasets/GEMEP/crop/06con_Gemep/
+train :  ../datasets/GEMEP/crop/06des_Gemep/
+train :  ../datasets/GEMEP/crop/06fea_Gemep/
+train :  ../datasets/GEMEP/crop/06irr_Gemep/
+train :  ../datasets/GEMEP/crop/06joy_Gemep/
+train :  ../datasets/GEMEP/crop/06ple_Gemep/
+train :  ../datasets/GEMEP/crop/06sad_Gemep/
+train :  ../datasets/GEMEP/crop/06sur_Gemep/
+train :  ../datasets/GEMEP/crop/07amu_Gemep/
+train :  ../datasets/GEMEP/crop/07ang_Gemep/
+train :  ../datasets/GEMEP/crop/07anx_Gemep/
+train :  ../datasets/GEMEP/crop/07con_Gemep/
+train :  ../datasets/GEMEP/crop/07des_Gemep/
+train :  ../datasets/GEMEP/crop/07fea_Gemep/
+train :  ../datasets/GEMEP/crop/07irr_Gemep/
+train :  ../datasets/GEMEP/crop/07joy_Gemep/
+train :  ../datasets/GEMEP/crop/07ple_Gemep/
+train :  ../datasets/GEMEP/crop/07sad_Gemep/
+train :  ../datasets/GEMEP/crop/07sur_Gemep/
+train :  ../datasets/GEMEP/crop/08amu_Gemep/
+train :  ../datasets/GEMEP/crop/08ang_Gemep/
+train :  ../datasets/GEMEP/crop/08anx_Gemep/
+train :  ../datasets/GEMEP/crop/08con_Gemep/
+train :  ../datasets/GEMEP/crop/08des_Gemep/
+train :  ../datasets/GEMEP/crop/08fea_Gemep/
+train :  ../datasets/GEMEP/crop/08irr_Gemep/
+train :  ../datasets/GEMEP/crop/08joy_Gemep/
+train :  ../datasets/GEMEP/crop/08ple_Gemep/
+train :  ../datasets/GEMEP/crop/08sad_Gemep/
+train :  ../datasets/GEMEP/crop/08sur_Gemep/
+train :  ../datasets/GEMEP/crop/10amu_Gemep/
+train :  ../datasets/GEMEP/crop/10ang_Gemep/
+train :  ../datasets/GEMEP/crop/10anx_Gemep/
+train :  ../datasets/GEMEP/crop/10des_Gemep/
+train :  ../datasets/GEMEP/crop/10dis_Gemep/
+train :  ../datasets/GEMEP/crop/10fea_Gemep/
+train :  ../datasets/GEMEP/crop/10irr_Gemep/
+train :  ../datasets/GEMEP/crop/10joy_Gemep/
+train :  ../datasets/GEMEP/crop/10ple_Gemep/
+train :  ../datasets/GEMEP/crop/10sad_Gemep/
+val :  ../datasets/GEMEP/crop/09ang_Gemep/
+val :  ../datasets/GEMEP/crop/09dis_Gemep/
+val :  ../datasets/GEMEP/crop/09fea_Gemep/
+val :  ../datasets/GEMEP/crop/09ple_Gemep/
+val :  ../datasets/GEMEP/crop/09sad_Gemep/
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+[Epoch 1] Training accuracy: 0.3104. Loss: 1.787 LR: 0.001000
+Training correct sum 1868 and length is 6018
+Validation accuracy:0.2111. Loss:1.825
+Val correct sum 91 and length is 431
+
+  3%|██▋                                                                             | 1/30 [00:26<12:45, 26.39s/it]
+[Epoch 2] Training accuracy: 0.3242. Loss: 1.728 LR: 0.001000
+Training correct sum 1951 and length is 6018
+Validation accuracy:0.1183. Loss:2.185
+
+  7%|█████▎                                                                          | 2/30 [00:52<12:13, 26.19s/it]
+[Epoch 3] Training accuracy: 0.3262. Loss: 1.745 LR: 0.001000
+Training correct sum 1963 and length is 6018
+Validation accuracy:0.1183. Loss:2.191
+
+ 10%|████████                                                                        | 3/30 [01:19<11:51, 26.36s/it]
+[Epoch 4] Training accuracy: 0.3207. Loss: 1.754 LR: 0.001000
+Training correct sum 1930 and length is 6018
+Validation accuracy:0.4501. Loss:2.149
+Val correct sum 194 and length is 431
+
+ 13%|██████████▋                                                                     | 4/30 [01:45<11:26, 26.40s/it]
+[Epoch 5] Training accuracy: 0.3229. Loss: 1.753 LR: 0.001000
+Training correct sum 1943 and length is 6018
+Validation accuracy:0.4501. Loss:1.584
+
+ 17%|█████████████▎                                                                  | 5/30 [02:11<10:59, 26.39s/it]
+[Epoch 6] Training accuracy: 0.3199. Loss: 1.747 LR: 0.001000
+Training correct sum 1925 and length is 6018
+Validation accuracy:0.1183. Loss:2.226
+
+ 20%|████████████████                                                                | 6/30 [02:38<10:34, 26.45s/it]
+[Epoch 7] Training accuracy: 0.3177. Loss: 1.755 LR: 0.001000
+Training correct sum 1912 and length is 6018
+Validation accuracy:0.1183. Loss:2.201
+
+ 23%|██████████████████▋                                                             | 7/30 [03:05<10:12, 26.63s/it]
+[Epoch 8] Training accuracy: 0.3187. Loss: 1.728 LR: 0.001000
+Training correct sum 1918 and length is 6018
+Validation accuracy:0.1183. Loss:2.223
+
+ 27%|█████████████████████▎                                                          | 8/30 [03:32<09:50, 26.86s/it]
+[Epoch 9] Training accuracy: 0.3262. Loss: 1.733 LR: 0.001000
+Training correct sum 1963 and length is 6018
+Validation accuracy:0.0882. Loss:2.175
+
+ 30%|████████████████████████                                                        | 9/30 [03:59<09:21, 26.72s/it]
+[Epoch 10] Training accuracy: 0.3224. Loss: 1.730 LR: 0.001000
+Training correct sum 1940 and length is 6018
+Validation accuracy:0.4501. Loss:1.963
+
+ 33%|██████████████████████████▎                                                    | 10/30 [04:25<08:53, 26.66s/it]
+[Epoch 11] Training accuracy: 0.4284. Loss: 1.484 LR: 0.000800
+Training correct sum 2578 and length is 6018
+Validation accuracy:0.1183. Loss:2.848
+
+ 37%|████████████████████████████▉                                                  | 11/30 [04:51<08:22, 26.46s/it]
+[Epoch 12] Training accuracy: 0.4930. Loss: 1.321 LR: 0.000800
+Training correct sum 2967 and length is 6018
+Validation accuracy:0.1183. Loss:3.520
+
+ 40%|███████████████████████████████▌                                               | 12/30 [05:18<07:57, 26.51s/it]
+[Epoch 13] Training accuracy: 0.5047. Loss: 1.256 LR: 0.000800
+Training correct sum 3037 and length is 6018
+Validation accuracy:0.1183. Loss:4.001
+
+ 43%|██████████████████████████████████▏                                            | 13/30 [05:44<07:27, 26.31s/it]
+[Epoch 14] Training accuracy: 0.5201. Loss: 1.240 LR: 0.000800
+Training correct sum 3130 and length is 6018
+Validation accuracy:0.6473. Loss:0.884
+Val correct sum 279 and length is 431
+
+ 47%|████████████████████████████████████▊                                          | 14/30 [06:09<06:58, 26.14s/it]
+[Epoch 15] Training accuracy: 0.5372. Loss: 1.196 LR: 0.000800
+
+ 50%|███████████████████████████████████████▌                                       | 15/30 [06:35<06:30, 26.03s/it]
+Validation accuracy:0.1183. Loss:4.808
+Val correct sum 51 and length is 431
+[Epoch 16] Training accuracy: 0.5597. Loss: 1.157 LR: 0.000800
+Training correct sum 3368 and length is 6018
+Validation accuracy:0.1183. Loss:5.569
+
+ 53%|██████████████████████████████████████████▏                                    | 16/30 [07:02<06:06, 26.15s/it]
+[Epoch 17] Training accuracy: 0.5558. Loss: 1.171 LR: 0.000800
+Training correct sum 3345 and length is 6018
+Validation accuracy:0.1671. Loss:1.707
+
+ 57%|████████████████████████████████████████████▊                                  | 17/30 [07:27<05:38, 26.05s/it]
+[Epoch 18] Training accuracy: 0.5811. Loss: 1.096 LR: 0.000800
+
+ 60%|███████████████████████████████████████████████▍                               | 18/30 [07:53<05:12, 26.04s/it]
+Validation accuracy:0.1183. Loss:5.759
+Val correct sum 51 and length is 431
+[Epoch 19] Training accuracy: 0.6022. Loss: 1.033 LR: 0.000800
+Training correct sum 3624 and length is 6018
+Validation accuracy:0.1926. Loss:2.191
+
+ 63%|██████████████████████████████████████████████████                             | 19/30 [08:19<04:46, 26.02s/it]
+[Epoch 20] Training accuracy: 0.6032. Loss: 0.997 LR: 0.000800
+
+ 67%|████████████████████████████████████████████████████▋                          | 20/30 [08:46<04:21, 26.13s/it]
+Validation accuracy:0.1183. Loss:4.377
+Val correct sum 51 and length is 431
+[Epoch 21] Training accuracy: 0.6258. Loss: 0.939 LR: 0.000640
+Training correct sum 3766 and length is 6018
+Validation accuracy:0.4756. Loss:1.147
+
+ 70%|███████████████████████████████████████████████████████▎                       | 21/30 [09:13<03:58, 26.50s/it]
+[Epoch 22] Training accuracy: 0.6087. Loss: 0.992 LR: 0.000640
+Training correct sum 3663 and length is 6018
+Validation accuracy:0.6821. Loss:0.857
+Val correct sum 294 and length is 431
+
+ 73%|█████████████████████████████████████████████████████████▉                     | 22/30 [09:41<03:34, 26.76s/it]
+[Epoch 23] Training accuracy: 0.6331. Loss: 0.923 LR: 0.000640
+Training correct sum 3810 and length is 6018
+Validation accuracy:0.5731. Loss:1.263
+
+ 77%|████████████████████████████████████████████████████████████▌                  | 23/30 [10:08<03:08, 26.90s/it]
+[Epoch 24] Training accuracy: 0.6231. Loss: 0.938 LR: 0.000640
+Training correct sum 3750 and length is 6018
+Validation accuracy:0.1183. Loss:2.243
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 24/30 [10:35<02:42, 27.06s/it]
+[Epoch 25] Training accuracy: 0.6416. Loss: 1.031 LR: 0.000640
+Training correct sum 3861 and length is 6018
+Validation accuracy:0.6868. Loss:0.912
+Val correct sum 296 and length is 431
+
+ 83%|█████████████████████████████████████████████████████████████████▊             | 25/30 [11:02<02:14, 26.90s/it]
+[Epoch 26] Training accuracy: 0.6251. Loss: 0.940 LR: 0.000640
+Training correct sum 3762 and length is 6018
+Validation accuracy:0.7169. Loss:0.862
+Val correct sum 309 and length is 431
+
+ 87%|████████████████████████████████████████████████████████████████████▍          | 26/30 [11:27<01:46, 26.54s/it]
+[Epoch 27] Training accuracy: 0.6447. Loss: 0.883 LR: 0.000640
+Training correct sum 3880 and length is 6018
+Validation accuracy:0.5638. Loss:1.525
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 27/30 [11:53<01:19, 26.35s/it]
+[Epoch 28] Training accuracy: 0.6617. Loss: 0.835 LR: 0.000640
+Training correct sum 3982 and length is 6018
+Validation accuracy:0.6659. Loss:0.844
+
+ 93%|█████████████████████████████████████████████████████████████████████████▋     | 28/30 [12:19<00:52, 26.25s/it]
+[Epoch 29] Training accuracy: 0.6612. Loss: 0.818 LR: 0.000640
+Training correct sum 3979 and length is 6018
+Validation accuracy:0.5545. Loss:2.225
+
+ 97%|████████████████████████████████████████████████████████████████████████████▎  | 29/30 [12:46<00:26, 26.22s/it]
+[Epoch 30] Training accuracy: 0.6030. Loss: 1.130 LR: 0.000640
+Training correct sum 3629 and length is 6018
+Validation accuracy:0.6172. Loss:1.054
+Val correct sum 266 and length is 431
+Model saved.
+[Split: 09/10] Accuracy: 0.324
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/01amu_Gemep/
+train :  ../datasets/GEMEP/crop/01ang_Gemep/
+train :  ../datasets/GEMEP/crop/01anx_Gemep/
+train :  ../datasets/GEMEP/crop/01con_Gemep/
+train :  ../datasets/GEMEP/crop/01des_Gemep/
+train :  ../datasets/GEMEP/crop/01fea_Gemep/
+train :  ../datasets/GEMEP/crop/01irr_Gemep/
+train :  ../datasets/GEMEP/crop/01joy_Gemep/
+train :  ../datasets/GEMEP/crop/01ple_Gemep/
+train :  ../datasets/GEMEP/crop/01sad_Gemep/
+train :  ../datasets/GEMEP/crop/01sur_Gemep/
+train :  ../datasets/GEMEP/crop/02amu_Gemep/
+train :  ../datasets/GEMEP/crop/02ang_Gemep/
+train :  ../datasets/GEMEP/crop/02anx_Gemep/
+train :  ../datasets/GEMEP/crop/02des_Gemep/
+train :  ../datasets/GEMEP/crop/02dis_Gemep/
+train :  ../datasets/GEMEP/crop/02fea_Gemep/
+train :  ../datasets/GEMEP/crop/02irr_Gemep/
+train :  ../datasets/GEMEP/crop/02joy_Gemep/
+train :  ../datasets/GEMEP/crop/02ple_Gemep/
+train :  ../datasets/GEMEP/crop/02sad_Gemep/
+train :  ../datasets/GEMEP/crop/03amu_Gemep/
+train :  ../datasets/GEMEP/crop/03ang_Gemep/
+train :  ../datasets/GEMEP/crop/03anx_Gemep/
+train :  ../datasets/GEMEP/crop/03con_Gemep/
+train :  ../datasets/GEMEP/crop/03des_Gemep/
+train :  ../datasets/GEMEP/crop/03fea_Gemep/
+train :  ../datasets/GEMEP/crop/03irr_Gemep/
+train :  ../datasets/GEMEP/crop/03joy_Gemep/
+train :  ../datasets/GEMEP/crop/03ple_Gemep/
+train :  ../datasets/GEMEP/crop/03sad_Gemep/
+train :  ../datasets/GEMEP/crop/03sur_Gemep/
+train :  ../datasets/GEMEP/crop/04amu_Gemep/
+train :  ../datasets/GEMEP/crop/04ang_Gemep/
+train :  ../datasets/GEMEP/crop/04anx_Gemep/
+train :  ../datasets/GEMEP/crop/04des_Gemep/
+train :  ../datasets/GEMEP/crop/04dis_Gemep/
+train :  ../datasets/GEMEP/crop/04fea_Gemep/
+train :  ../datasets/GEMEP/crop/04irr_Gemep/
+train :  ../datasets/GEMEP/crop/04joy_Gemep/
+train :  ../datasets/GEMEP/crop/04ple_Gemep/
+train :  ../datasets/GEMEP/crop/04sad_Gemep/
+train :  ../datasets/GEMEP/crop/05amu_Gemep/
+train :  ../datasets/GEMEP/crop/05ang_Gemep/
+train :  ../datasets/GEMEP/crop/05anx_Gemep/
+train :  ../datasets/GEMEP/crop/05des_Gemep/
+train :  ../datasets/GEMEP/crop/05dis_Gemep/
+train :  ../datasets/GEMEP/crop/05fea_Gemep/
+train :  ../datasets/GEMEP/crop/05irr_Gemep/
+train :  ../datasets/GEMEP/crop/05joy_Gemep/
+train :  ../datasets/GEMEP/crop/05ple_Gemep/
+train :  ../datasets/GEMEP/crop/05sad_Gemep/
+train :  ../datasets/GEMEP/crop/06amu_Gemep/
+train :  ../datasets/GEMEP/crop/06ang_Gemep/
+train :  ../datasets/GEMEP/crop/06anx_Gemep/
+train :  ../datasets/GEMEP/crop/06con_Gemep/
+train :  ../datasets/GEMEP/crop/06des_Gemep/
+train :  ../datasets/GEMEP/crop/06fea_Gemep/
+train :  ../datasets/GEMEP/crop/06irr_Gemep/
+train :  ../datasets/GEMEP/crop/06joy_Gemep/
+train :  ../datasets/GEMEP/crop/06ple_Gemep/
+train :  ../datasets/GEMEP/crop/06sad_Gemep/
+train :  ../datasets/GEMEP/crop/06sur_Gemep/
+train :  ../datasets/GEMEP/crop/07amu_Gemep/
+train :  ../datasets/GEMEP/crop/07ang_Gemep/
+train :  ../datasets/GEMEP/crop/07anx_Gemep/
+train :  ../datasets/GEMEP/crop/07con_Gemep/
+train :  ../datasets/GEMEP/crop/07des_Gemep/
+train :  ../datasets/GEMEP/crop/07fea_Gemep/
+train :  ../datasets/GEMEP/crop/07irr_Gemep/
+train :  ../datasets/GEMEP/crop/07joy_Gemep/
+train :  ../datasets/GEMEP/crop/07ple_Gemep/
+train :  ../datasets/GEMEP/crop/07sad_Gemep/
+train :  ../datasets/GEMEP/crop/07sur_Gemep/
+train :  ../datasets/GEMEP/crop/08amu_Gemep/
+train :  ../datasets/GEMEP/crop/08ang_Gemep/
+train :  ../datasets/GEMEP/crop/08anx_Gemep/
+train :  ../datasets/GEMEP/crop/08con_Gemep/
+train :  ../datasets/GEMEP/crop/08des_Gemep/
+train :  ../datasets/GEMEP/crop/08fea_Gemep/
+train :  ../datasets/GEMEP/crop/08irr_Gemep/
+train :  ../datasets/GEMEP/crop/08joy_Gemep/
+train :  ../datasets/GEMEP/crop/08ple_Gemep/
+train :  ../datasets/GEMEP/crop/08sad_Gemep/
+train :  ../datasets/GEMEP/crop/08sur_Gemep/
+train :  ../datasets/GEMEP/crop/09amu_Gemep/
+train :  ../datasets/GEMEP/crop/09ang_Gemep/
+train :  ../datasets/GEMEP/crop/09anx_Gemep/
+train :  ../datasets/GEMEP/crop/09des_Gemep/
+train :  ../datasets/GEMEP/crop/09dis_Gemep/
+train :  ../datasets/GEMEP/crop/09fea_Gemep/
+train :  ../datasets/GEMEP/crop/09irr_Gemep/
+train :  ../datasets/GEMEP/crop/09joy_Gemep/
+train :  ../datasets/GEMEP/crop/09ple_Gemep/
+train :  ../datasets/GEMEP/crop/09sad_Gemep/
+val :  ../datasets/GEMEP/crop/10ang_Gemep/
+val :  ../datasets/GEMEP/crop/10dis_Gemep/
+val :  ../datasets/GEMEP/crop/10fea_Gemep/
+val :  ../datasets/GEMEP/crop/10ple_Gemep/
+100%|███████████████████████████████████████████████████████████████████████████████| 30/30 [13:11<00:00, 26.40s/it]
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+[Epoch 1] Training accuracy: 0.6016. Loss: 1.115 LR: 0.001000
+Training correct sum 3683 and length is 6122
+Validation accuracy:0.0397. Loss:2.736
+Val correct sum 14 and length is 353
+
+  3%|██▋                                                                             | 1/30 [00:26<12:36, 26.09s/it]
+[Epoch 2] Training accuracy: 0.8728. Loss: 0.396 LR: 0.001000
+Training correct sum 5343 and length is 6122
+Validation accuracy:0.2436. Loss:3.181
+Val correct sum 86 and length is 353
+
+  7%|█████▎                                                                          | 2/30 [00:51<12:05, 25.90s/it]
+[Epoch 3] Training accuracy: 0.9271. Loss: 0.243 LR: 0.001000
+Training correct sum 5676 and length is 6122
+Validation accuracy:0.2748. Loss:3.521
+Val correct sum 97 and length is 353
+
+ 10%|████████                                                                        | 3/30 [01:18<11:42, 26.03s/it]
+[Epoch 4] Training accuracy: 0.9185. Loss: 0.261 LR: 0.001000
+Training correct sum 5623 and length is 6122
+Validation accuracy:0.2890. Loss:3.556
+Val correct sum 102 and length is 353
+
+ 13%|██████████▋                                                                     | 4/30 [01:43<11:14, 25.96s/it]
+[Epoch 5] Training accuracy: 0.9392. Loss: 0.199 LR: 0.001000
+Training correct sum 5750 and length is 6122
+Validation accuracy:0.2125. Loss:5.778
+
+ 17%|█████████████▎                                                                  | 5/30 [02:09<10:50, 26.01s/it]
+[Epoch 6] Training accuracy: 0.9507. Loss: 0.158 LR: 0.001000
+Training correct sum 5820 and length is 6122
+Validation accuracy:0.3598. Loss:2.687
+Val correct sum 127 and length is 353
+
+ 20%|████████████████                                                                | 6/30 [02:35<10:21, 25.90s/it]
+[Epoch 7] Training accuracy: 0.9503. Loss: 0.162 LR: 0.001000
+
+ 23%|██████████████████▋                                                             | 7/30 [03:01<09:57, 25.97s/it]
+Validation accuracy:0.2125. Loss:2.891
+Val correct sum 75 and length is 353
+[Epoch 8] Training accuracy: 0.9564. Loss: 0.141 LR: 0.001000
+Training correct sum 5855 and length is 6122
+Validation accuracy:0.3824. Loss:4.616
+Val correct sum 135 and length is 353
+
+ 27%|█████████████████████▎                                                          | 8/30 [03:27<09:31, 25.99s/it]
+[Epoch 9] Training accuracy: 0.9521. Loss: 0.146 LR: 0.001000
+Training correct sum 5829 and length is 6122
+Validation accuracy:0.2011. Loss:5.675
+
+ 30%|████████████████████████                                                        | 9/30 [03:54<09:10, 26.21s/it]
+[Epoch 10] Training accuracy: 0.9539. Loss: 0.143 LR: 0.001000
+Training correct sum 5840 and length is 6122
+Validation accuracy:0.2153. Loss:3.247
+
+ 33%|██████████████████████████▎                                                    | 10/30 [04:20<08:44, 26.21s/it]
+[Epoch 11] Training accuracy: 0.9703. Loss: 0.095 LR: 0.000800
+Training correct sum 5940 and length is 6122
+Validation accuracy:0.1615. Loss:5.379
+
+ 37%|████████████████████████████▉                                                  | 11/30 [04:47<08:18, 26.26s/it]
+[Epoch 12] Training accuracy: 0.9812. Loss: 0.067 LR: 0.000800
+Training correct sum 6007 and length is 6122
+Validation accuracy:0.2096. Loss:3.204
+
+ 40%|███████████████████████████████▌                                               | 12/30 [05:13<07:53, 26.33s/it]
+[Epoch 13] Training accuracy: 0.9802. Loss: 0.065 LR: 0.000800
+Training correct sum 6001 and length is 6122
+Validation accuracy:0.1416. Loss:5.555
+
+ 43%|██████████████████████████████████▏                                            | 13/30 [05:39<07:23, 26.09s/it]
+[Epoch 14] Training accuracy: 0.9673. Loss: 0.108 LR: 0.000800
+Training correct sum 5922 and length is 6122
+Validation accuracy:0.5014. Loss:2.018
+Val correct sum 177 and length is 353
+
+ 47%|████████████████████████████████████▊                                          | 14/30 [06:05<06:59, 26.21s/it]
+[Epoch 15] Training accuracy: 0.9727. Loss: 0.091 LR: 0.000800
+
+ 50%|███████████████████████████████████████▌                                       | 15/30 [06:32<06:37, 26.49s/it]
+Validation accuracy:0.3598. Loss:3.315
+Val correct sum 127 and length is 353
+[Epoch 16] Training accuracy: 0.9768. Loss: 0.077 LR: 0.000800
+Training correct sum 5980 and length is 6122
+Validation accuracy:0.2606. Loss:3.319
+
+ 53%|██████████████████████████████████████████▏                                    | 16/30 [06:59<06:09, 26.42s/it]
+[Epoch 17] Training accuracy: 0.9766. Loss: 0.081 LR: 0.000800
+Training correct sum 5979 and length is 6122
+Validation accuracy:0.2351. Loss:4.610
+
+ 57%|████████████████████████████████████████████▊                                  | 17/30 [07:24<05:40, 26.22s/it]
+[Epoch 18] Training accuracy: 0.9828. Loss: 0.055 LR: 0.000800
+Training correct sum 6017 and length is 6122
+Validation accuracy:0.1671. Loss:3.098
+
+ 60%|███████████████████████████████████████████████▍                               | 18/30 [07:51<05:16, 26.38s/it]
+[Epoch 19] Training accuracy: 0.9649. Loss: 0.116 LR: 0.000800
+Training correct sum 5907 and length is 6122
+Validation accuracy:0.2946. Loss:2.877
+
+ 63%|██████████████████████████████████████████████████                             | 19/30 [08:18<04:50, 26.42s/it]
+[Epoch 20] Training accuracy: 0.9864. Loss: 0.050 LR: 0.000800
+Training correct sum 6039 and length is 6122
+Validation accuracy:0.2351. Loss:3.874
+
+ 67%|████████████████████████████████████████████████████▋                          | 20/30 [08:44<04:24, 26.41s/it]
+[Epoch 21] Training accuracy: 0.9925. Loss: 0.027 LR: 0.000640
+Training correct sum 6076 and length is 6122
+Validation accuracy:0.4929. Loss:2.739
+
+ 70%|███████████████████████████████████████████████████████▎                       | 21/30 [09:10<03:56, 26.31s/it]
+[Epoch 22] Training accuracy: 0.9886. Loss: 0.038 LR: 0.000640
+Training correct sum 6052 and length is 6122
+Validation accuracy:0.1501. Loss:4.336
+
+ 73%|█████████████████████████████████████████████████████████▉                     | 22/30 [09:36<03:30, 26.28s/it]
+[Epoch 23] Training accuracy: 0.9874. Loss: 0.045 LR: 0.000640
+Training correct sum 6045 and length is 6122
+Validation accuracy:0.3513. Loss:3.248
+
+ 77%|████████████████████████████████████████████████████████████▌                  | 23/30 [10:02<03:03, 26.21s/it]
+[Epoch 24] Training accuracy: 0.9807. Loss: 0.060 LR: 0.000640
+Training correct sum 6004 and length is 6122
+Validation accuracy:0.1926. Loss:5.354
+
+ 80%|███████████████████████████████████████████████████████████████▏               | 24/30 [10:28<02:37, 26.21s/it]
+[Epoch 25] Training accuracy: 0.9860. Loss: 0.050 LR: 0.000640
+Training correct sum 6036 and length is 6122
+Validation accuracy:0.3258. Loss:2.636
+
+ 83%|█████████████████████████████████████████████████████████████████▊             | 25/30 [10:54<02:10, 26.13s/it]
+[Epoch 26] Training accuracy: 0.9889. Loss: 0.036 LR: 0.000640
+Training correct sum 6054 and length is 6122
+Validation accuracy:0.3909. Loss:3.335
+
+ 87%|████████████████████████████████████████████████████████████████████▍          | 26/30 [11:22<01:45, 26.49s/it]
+[Epoch 27] Training accuracy: 0.9850. Loss: 0.054 LR: 0.000640
+Training correct sum 6030 and length is 6122
+Validation accuracy:0.4844. Loss:2.469
+
+ 90%|███████████████████████████████████████████████████████████████████████        | 27/30 [11:48<01:19, 26.41s/it]
+[Epoch 28] Training accuracy: 0.9861. Loss: 0.051 LR: 0.000640
+Training correct sum 6037 and length is 6122
+Validation accuracy:0.4816. Loss:2.656
+
+ 93%|█████████████████████████████████████████████████████████████████████████▋     | 28/30 [12:14<00:52, 26.38s/it]
+[Epoch 29] Training accuracy: 0.9892. Loss: 0.040 LR: 0.000640
+Training correct sum 6056 and length is 6122
+Validation accuracy:0.3286. Loss:3.217
+
+ 97%|████████████████████████████████████████████████████████████████████████████▎  | 29/30 [12:41<00:26, 26.37s/it]
+[Epoch 30] Training accuracy: 0.9959. Loss: 0.017 LR: 0.000640
+Training correct sum 6097 and length is 6122
+Validation accuracy:0.3683. Loss:2.709
+Val correct sum 130 and length is 353
+Model saved.
+
+100%|███████████████████████████████████████████████████████████████████████████████| 30/30 [13:07<00:00, 26.25s/it]

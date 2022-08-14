@@ -11,17 +11,47 @@ import cv2
 import os
 from torchvision import transforms
 
+'''General'''
+def emo_tranform(n):
+    
+    if n == 7:
+        dic_emotion_transform = {
+            'surprise':0,
+            'fear':1,
+            'disgust':2,
+            'pleasure':3,
+            'sadness':4,
+            'anger':5,
+            'contempt':6
+        }
+
+    elif n == 12:
+        dic_emotion_transform = {
+            'amusement':0,
+            'pride':1,
+            'joy':2,
+            'fear':3,
+            'anxiety':4,
+            'despair':5,
+            'sadness':6,
+            'anger':7,
+            'irritation':8,
+            'interest':9,
+            'pleasure':10,
+            'relief':11
+        }
+    
+    return dic_emotion_transform
+
 
 '''ARM'''
-
-
-
 class Dataset(data.Dataset):
-    def __init__(self, data_path, data_type, phase, data, performer_number, transform=None, basic_aug=False):
+    def __init__(self, data_path, data_type, phase, data, performer_number, num_classes, transform=None, basic_aug=False, ):
         self.phase = phase
         self.transform = transform
         self.data_path = data_path
         self.data_type = data_type
+        self.dic_emotion_transform = emo_tranform(num_classes)
 
         NAME_COLUMN = 0
         LABEL_COLUMN = 1
@@ -87,11 +117,11 @@ class Dataset(data.Dataset):
 
             if phase == 'train':
                 for video in data:
-                    if video['emotion'] in dic_emotion_transform.keys() and video['performer_num'] != performer_number:
+                    if video['emotion'] in self.dic_emotion_transform.keys() and video['performer_num'] != performer_number:
                         self.get_data_what_u_want(video, phase)
             elif phase == 'val':
                 for video in data:
-                    if video['emotion'] in dic_emotion_transform.keys() and video['performer_num'] == performer_number:
+                    if video['emotion'] in self.dic_emotion_transform.keys() and video['performer_num'] == performer_number:
                         self.get_data_what_u_want(video, phase)
 
 
@@ -107,9 +137,9 @@ class Dataset(data.Dataset):
         for img_path in img_paths:
             join_img_path = os.path.join(join_path,img_path)
             self.file_paths.append(join_img_path)
-            self.label.append(dic_emotion_transform[video['emotion']]) #U must put it here and be sure that every file has label
+            self.label.append(self.dic_emotion_transform[video['emotion']]) #U must put it here and be sure that every file has label
         self.content.append(len(img_paths))
-        self.emotion_label.append(dic_emotion_transform[video['emotion']])
+        self.emotion_label.append(self.dic_emotion_transform[video['emotion']])
         if phase == 'val':
             print(phase, ': ', join_path)
 
@@ -141,33 +171,6 @@ class Dataset(data.Dataset):
             return image, label ,idx
         else:
             return image
-'''
-dic_emotion_transform ={
-    'surprise':0,
-    'fear':1,
-    'disgust':2,
-    'pleasure':3,
-    'sadness':4,
-    'anger':5,
-    'contempt':6
-}
-'''
-
-dic_emotion_transform ={
-    'amusement':0,
-    'pride':1,
-    'joy':2,
-    'fear':3,
-    'anxiety':4,
-    'despair':5,
-    'sadness':6,
-    'anger':7,
-    'irritation':8,
-    'interest':9,
-    'pleasure':10,
-    'relief':11
-}
-
 
 
 # 0:Surprise, 1:Fear, 2:Disgust, 3:Happiness, 4:Sadness, 5:Anger, 6:Neutral
@@ -210,7 +213,7 @@ def get_babyrobot_annotations(phase):
     return data
 
 
-def get_babyrobot_data(phase, number, subjects=list(range(0,31))):
+def get_babyrobot_data(phase, number, num_classes, subjects=list(range(0,31))):
     
     data = get_babyrobot_annotations(phase)
 
@@ -218,10 +221,10 @@ def get_babyrobot_data(phase, number, subjects=list(range(0,31))):
     paths = []
 
     for video in data:
-        if video['emotion'] in dic_emotion_transform.keys() :
+        if video['emotion'] in emo_tranform(num_classes).keys() :
             if phase =='train' and video['group_num'] != number:
 
-                label = dic_emotion_transform[video['emotion']]
+                label = emo_tranform(num_classes)[video['emotion']]
                 # ========================= Load OpenPose Features ==========================
                 json_dir = os.path.join('../datasets/' + video['path'] + "/")
                 # print('train_direction = ',json_dir)
@@ -245,9 +248,9 @@ def get_babyrobot_data(phase, number, subjects=list(range(0,31))):
                 Y.append(label)
                 paths.append(video['path'])
 
-        if video['emotion'] in dic_emotion_transform.keys() :
+        if video['emotion'] in emo_tranform(num_classes).keys() :
             if phase =='test' and video['group_num'] == number:
-                label = dic_emotion_transform[video['emotion']]
+                label = emo_tranform(num_classes)[video['emotion']]
 
                 # ========================= Load OpenPose Features ==========================
 
@@ -334,7 +337,7 @@ def get_keypoints_from_json_list(json_list, json_dir, subject=None,emotion=None,
 
 
 class BodyFaceDataset(data.Dataset):
-    def __init__(self, args, data=None, indices=None, subjects=None, phase=None, number =None):
+    def __init__(self, args, data = None, indices = None, subjects = None, phase = None, number = None):
         self.args = args
         self.phase = phase
 
@@ -349,7 +352,7 @@ class BodyFaceDataset(data.Dataset):
                 self.paths = [paths[x] for x in indices]
 
             elif subjects !=None:
-                self.bodies, self.hands_right, self.hands_left, self.lengths, self.Y, self.paths = get_babyrobot_data(subjects=subjects, phase = phase,number =number)
+                self.bodies, self.hands_right, self.hands_left, self.lengths, self.Y, self.paths = get_babyrobot_data(subjects = subjects, phase = phase, number = number, num_classes = self.args.num_classes)
 
         self.lengths = []
         for index in range(len(self.bodies)):

@@ -110,7 +110,7 @@ def test():
                                                 transforms.ToTensor(),
                                                 transforms.Normalize(mean=[0.558, 0.437, 0.384], std=[0.277, 0.247, 0.241])])
 
-        face_test_dataset = Dataset(args.dataset_path, args.data_type, phase='val', transform=data_transforms_test, data = None, performer_number=n)
+        face_test_dataset = Dataset(args.dataset_path, args.data_type, phase='val', transform = data_transforms_test, data = None, performer_number = n, num_classes = args.num_classes)
         face_test_size = face_test_dataset.__len__()
         print('Face testing size: ', face_test_size, '\n')
 
@@ -121,7 +121,7 @@ def test():
                                                     pin_memory=True)
 
         #----------------------Body Data----------------------#
-        body_test_dataset = BodyFaceDataset(args=args,  subjects=list(range(0,31)), phase="test",number  = n)
+        body_test_dataset = BodyFaceDataset(args=args,  subjects=list(range(0,31)), phase="test", number = n)
         scaler = get_scaler(body_test_dataset)#find the min and max value that will be used later to scale
         body_test_dataset.set_scaler(scaler)#actually scaled the whole data
         body_test_dataset.to_tensors()

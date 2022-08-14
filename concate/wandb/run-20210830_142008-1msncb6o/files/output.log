@@ -1,0 +1,187 @@
+
+  0%|                                                                  | 0/50 [00:00<?, ?it/s]
+The dataset is GEMEP and the path is ../datasets/GEMEP/
+Train set size: 5740
+Validation set size: 5740
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.0001
+)
+[Epoch 1] Training accuracy: 0.4507. Loss: 1.445 LR: 0.001000
+[Epoch 1] Validation accuracy:0.4439. Loss:1.709
+Model saved.
+
+  2%|█▏                                                        | 1/50 [00:37<30:23, 37.21s/it]
+[Epoch 2] Training accuracy: 0.6688. Loss: 0.881 LR: 0.001000
+[Epoch 2] Validation accuracy:0.7012. Loss:0.828
+Model saved.
+
+  4%|██▎                                                       | 2/50 [01:13<29:20, 36.68s/it]
+
+  6%|███▍                                                      | 3/50 [01:48<28:16, 36.09s/it]
+[Epoch 3] Validation accuracy:0.5603. Loss:2.373
+
+  8%|████▋                                                     | 4/50 [02:24<27:25, 35.77s/it]
+[Epoch 4] Validation accuracy:0.7199. Loss:1.048
+Model saved.
+best_acc:0.7199
+
+ 10%|█████▊                                                    | 5/50 [02:59<26:45, 35.67s/it]
+[Epoch 5] Validation accuracy:0.6632. Loss:1.285
+[Epoch 6] Training accuracy: 0.9162. Loss: 0.241 LR: 0.001000
+
+ 12%|██████▉                                                   | 6/50 [03:35<26:11, 35.71s/it]
+Model saved.
+best_acc:0.7779
+
+ 14%|████████                                                  | 7/50 [04:10<25:31, 35.61s/it]
+[Epoch 7] Validation accuracy:0.7413. Loss:0.988
+
+ 16%|█████████▎                                                | 8/50 [04:46<24:55, 35.60s/it]
+[Epoch 8] Validation accuracy:0.9108. Loss:0.271
+Model saved.
+best_acc:0.9108
+
+ 18%|██████████▍                                               | 9/50 [05:21<24:18, 35.58s/it]
+[Epoch 9] Validation accuracy:0.9618. Loss:0.107
+Model saved.
+best_acc:0.9618
+[Epoch 10] Training accuracy: 0.9859. Loss: 0.047 LR: 0.001000
+
+ 20%|███████████▍                                             | 10/50 [05:58<23:52, 35.81s/it]
+Model saved.
+best_acc:0.9845
+
+ 22%|████████████▌                                            | 11/50 [06:33<23:13, 35.74s/it]
+[Epoch 11] Validation accuracy:0.9730. Loss:0.067
+
+ 24%|█████████████▋                                           | 12/50 [07:08<22:24, 35.39s/it]
+[Epoch 12] Validation accuracy:0.9713. Loss:0.074
+
+ 26%|██████████████▊                                          | 13/50 [07:43<21:41, 35.19s/it]
+[Epoch 13] Validation accuracy:0.8239. Loss:0.853
+
+ 28%|███████████████▉                                         | 14/50 [08:18<21:07, 35.20s/it]
+[Epoch 14] Validation accuracy:0.9179. Loss:0.293
+
+ 30%|█████████████████                                        | 15/50 [08:53<20:31, 35.19s/it]
+[Epoch 15] Validation accuracy:0.9542. Loss:0.202
+
+ 32%|██████████████████▏                                      | 16/50 [09:28<19:50, 35.02s/it]
+[Epoch 16] Validation accuracy:0.9768. Loss:0.054
+
+ 34%|███████████████████▍                                     | 17/50 [10:03<19:13, 34.96s/it]
+[Epoch 17] Validation accuracy:0.9596. Loss:0.108
+
+ 36%|████████████████████▌                                    | 18/50 [10:38<18:40, 35.01s/it]
+[Epoch 18] Validation accuracy:0.8814. Loss:0.513
+
+ 38%|█████████████████████▋                                   | 19/50 [11:13<18:04, 34.98s/it]
+[Epoch 19] Validation accuracy:0.9611. Loss:0.143
+
+ 40%|██████████████████████▊                                  | 20/50 [11:48<17:30, 35.03s/it]
+[Epoch 20] Validation accuracy:0.9716. Loss:0.091
+
+ 42%|███████████████████████▉                                 | 21/50 [12:22<16:52, 34.92s/it]
+[Epoch 21] Validation accuracy:0.9873. Loss:0.033
+Model saved.
+best_acc:0.9873
+
+ 44%|█████████████████████████                                | 22/50 [12:56<16:10, 34.66s/it]
+[Epoch 22] Validation accuracy:0.9807. Loss:0.055
+
+ 46%|██████████████████████████▏                              | 23/50 [13:31<15:33, 34.58s/it]
+[Epoch 23] Validation accuracy:0.9932. Loss:0.019
+Model saved.
+best_acc:0.9932
+
+ 48%|███████████████████████████▎                             | 24/50 [14:06<15:01, 34.67s/it]
+[Epoch 24] Validation accuracy:0.9671. Loss:0.140
+
+ 50%|████████████████████████████▌                            | 25/50 [14:40<14:26, 34.67s/it]
+[Epoch 25] Validation accuracy:0.9178. Loss:0.411
+
+ 52%|█████████████████████████████▋                           | 26/50 [15:15<13:51, 34.65s/it]
+[Epoch 26] Validation accuracy:0.9080. Loss:0.390
+[Epoch 27] Training accuracy: 0.9946. Loss: 0.019 LR: 0.000640
+
+ 54%|██████████████████████████████▊                          | 27/50 [15:50<13:18, 34.72s/it]
+[Epoch 28] Training accuracy: 0.9885. Loss: 0.038 LR: 0.000640
+
+ 56%|███████████████████████████████▉                         | 28/50 [16:25<12:45, 34.78s/it]
+
+ 58%|█████████████████████████████████                        | 29/50 [17:00<12:11, 34.83s/it]
+[Epoch 29] Validation accuracy:0.9479. Loss:0.190
+[Epoch 30] Training accuracy: 0.9838. Loss: 0.050 LR: 0.000640
+
+ 60%|██████████████████████████████████▏                      | 30/50 [17:35<11:36, 34.82s/it]
+
+ 62%|███████████████████████████████████▎                     | 31/50 [18:09<10:57, 34.61s/it]
+[Epoch 31] Validation accuracy:0.9847. Loss:0.037
+
+ 64%|████████████████████████████████████▍                    | 32/50 [18:43<10:23, 34.64s/it]
+[Epoch 32] Validation accuracy:0.9927. Loss:0.021
+
+ 66%|█████████████████████████████████████▌                   | 33/50 [19:18<09:46, 34.52s/it]
+[Epoch 33] Validation accuracy:0.9906. Loss:0.032
+
+ 68%|██████████████████████████████████████▊                  | 34/50 [19:52<09:12, 34.56s/it]
+[Epoch 34] Validation accuracy:0.9859. Loss:0.035
+
+ 70%|███████████████████████████████████████▉                 | 35/50 [20:27<08:37, 34.49s/it]
+[Epoch 35] Validation accuracy:0.9732. Loss:0.080
+[Epoch 36] Training accuracy: 0.9976. Loss: 0.008 LR: 0.000512
+
+ 72%|█████████████████████████████████████████                | 36/50 [21:01<08:04, 34.57s/it]
+Model saved.
+best_acc:0.9937
+
+ 74%|██████████████████████████████████████████▏              | 37/50 [21:36<07:30, 34.68s/it]
+[Epoch 37] Validation accuracy:0.9159. Loss:0.473
+
+ 76%|███████████████████████████████████████████▎             | 38/50 [22:11<06:55, 34.63s/it]
+[Epoch 38] Validation accuracy:0.9618. Loss:0.170
+
+ 78%|████████████████████████████████████████████▍            | 39/50 [22:46<06:21, 34.70s/it]
+[Epoch 39] Validation accuracy:0.9906. Loss:0.025
+
+ 80%|█████████████████████████████████████████████▌           | 40/50 [23:20<05:47, 34.72s/it]
+[Epoch 40] Validation accuracy:0.9922. Loss:0.025
+
+ 82%|██████████████████████████████████████████████▋          | 41/50 [23:55<05:13, 34.80s/it]
+[Epoch 41] Validation accuracy:0.9956. Loss:0.014
+Model saved.
+best_acc:0.9956
+
+ 84%|███████████████████████████████████████████████▉         | 42/50 [24:31<04:39, 34.89s/it]
+[Epoch 42] Validation accuracy:0.9890. Loss:0.026
+
+ 86%|█████████████████████████████████████████████████        | 43/50 [25:06<04:05, 35.02s/it]
+[Epoch 43] Validation accuracy:0.9899. Loss:0.032
+
+ 88%|██████████████████████████████████████████████████▏      | 44/50 [25:41<03:29, 34.98s/it]
+[Epoch 44] Validation accuracy:0.9920. Loss:0.026
+
+ 90%|███████████████████████████████████████████████████▎     | 45/50 [26:16<02:55, 35.10s/it]
+[Epoch 45] Validation accuracy:0.9958. Loss:0.011
+Model saved.
+best_acc:0.9958
+
+ 92%|████████████████████████████████████████████████████▍    | 46/50 [26:51<02:20, 35.01s/it]
+[Epoch 46] Validation accuracy:0.9787. Loss:0.060
+
+ 94%|█████████████████████████████████████████████████████▌   | 47/50 [27:26<01:44, 34.99s/it]
+[Epoch 47] Validation accuracy:0.9859. Loss:0.043
+
+ 96%|██████████████████████████████████████████████████████▋  | 48/50 [28:01<01:09, 34.95s/it]
+[Epoch 48] Validation accuracy:0.9322. Loss:0.341
+
+ 98%|███████████████████████████████████████████████████████▊ | 49/50 [28:35<00:34, 34.83s/it]
+[Epoch 49] Validation accuracy:0.9495. Loss:0.325
+[Epoch 50] Training accuracy: 0.9929. Loss: 0.023 LR: 0.000410
+
+100%|█████████████████████████████████████████████████████████| 50/50 [29:10<00:00, 35.01s/it]

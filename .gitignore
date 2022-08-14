@@ -1,17 +1,10 @@
-./models/GEMEP
-./models/GEMEP_BODY_7
-./models/GEMEP_BODY_12
-./models/GEMEP_FACE_7
-./models/GEMEP_FACE_12
-./models/GEMEP_FC_7
-./models/GEMEP_FC_12
-./models/GEMEP_FC_12_Max
+models/
+!models/README.txt
+!models/model_structure.png
 
 
-./datasets/BRED_dataset
-./datasets/GEMEP
-./datasets/rafdb
-./datasets/rafdb_openpose
+datasets/
+!datasets/README.txt
 
 
 ./concate/kfold

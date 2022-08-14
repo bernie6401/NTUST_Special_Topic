@@ -1,0 +1,32 @@
+{
+    "os": "Windows-10-10.0.19042-SP0",
+    "python": "3.8.10",
+    "heartbeatAt": "2021-08-30T17:33:22.033902",
+    "startedAt": "2021-08-30T17:33:20.796982",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--data_type",
+        "GEMEP",
+        "--lr",
+        "0.01",
+        "--wandb",
+        "--step",
+        "40",
+        "--epoch",
+        "200",
+        "--weight_d",
+        "1e-2",
+        "--checkpoint",
+        "../models/GEMEP/epoch3_acc0.533.pth"
+    ],
+    "state": "running",
+    "program": "train_hfp.py",
+    "codePath": "train_hfp.py",
+    "host": "DESKTOP-KASKE6A",
+    "username": "Ho Ping-Hsueh",
+    "executable": "C:\\Users\\Ho Ping-Hsueh\\Anaconda3\\envs\\test\\python.exe"
+}

@@ -1,0 +1,59 @@
+2021-09-10 14:16:53,613 INFO    MainThread:6080 [internal.py:wandb_internal():88] W&B internal server running at pid: 6080, started at: 2021-09-10 14:16:53.607803
+2021-09-10 14:16:53,614 INFO    WriterThread:6080 [datastore.py:open_for_write():80] open: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\run-rzl4sbu6.wandb
+2021-09-10 14:16:53,615 DEBUG   HandlerThread:6080 [handler.py:handle_request():124] handle_request: check_version
+2021-09-10 14:16:53,616 DEBUG   SenderThread:6080 [sender.py:send():179] send: header
+2021-09-10 14:16:53,616 DEBUG   SenderThread:6080 [sender.py:send_request():193] send_request: check_version
+2021-09-10 14:16:53,835 DEBUG   SenderThread:6080 [sender.py:send():179] send: run
+2021-09-10 14:16:53,847 DEBUG   SenderThread:6080 [git.py:repo():33] git repository is invalid
+2021-09-10 14:16:54,221 INFO    SenderThread:6080 [dir_watcher.py:__init__():168] watching files in: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files
+2021-09-10 14:16:54,221 INFO    SenderThread:6080 [sender.py:_start_run_threads():716] run started: rzl4sbu6 with start time 1631254612
+2021-09-10 14:16:54,222 DEBUG   SenderThread:6080 [sender.py:send():179] send: summary
+2021-09-10 14:16:54,222 DEBUG   HandlerThread:6080 [handler.py:handle_request():124] handle_request: run_start
+2021-09-10 14:16:54,222 INFO    SenderThread:6080 [sender.py:_save_file():841] saving file wandb-summary.json with policy end
+2021-09-10 14:16:54,231 DEBUG   HandlerThread:6080 [meta.py:__init__():39] meta init
+2021-09-10 14:16:54,231 DEBUG   HandlerThread:6080 [meta.py:__init__():53] meta init done
+2021-09-10 14:16:54,231 DEBUG   HandlerThread:6080 [meta.py:probe():210] probe
+2021-09-10 14:16:54,238 DEBUG   HandlerThread:6080 [git.py:repo():33] git repository is invalid
+2021-09-10 14:16:54,238 DEBUG   HandlerThread:6080 [meta.py:_save_pip():57] save pip
+2021-09-10 14:16:54,239 DEBUG   HandlerThread:6080 [meta.py:_save_pip():71] save pip done
+2021-09-10 14:16:54,239 DEBUG   HandlerThread:6080 [meta.py:_save_conda():78] save conda
+2021-09-10 14:16:55,222 INFO    Thread-12 :6080 [dir_watcher.py:_on_file_created():216] file/dir created: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\wandb-summary.json
+2021-09-10 14:16:55,222 INFO    Thread-12 :6080 [dir_watcher.py:_on_file_created():216] file/dir created: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\conda-environment.yaml
+2021-09-10 14:16:55,222 INFO    Thread-12 :6080 [dir_watcher.py:_on_file_created():216] file/dir created: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\requirements.txt
+2021-09-10 14:16:56,008 WARNING MainThread:6080 [internal.py:wandb_internal():147] Internal process interrupt: 1
+2021-09-10 14:16:56,098 DEBUG   HandlerThread:6080 [meta.py:_save_conda():86] save conda done
+2021-09-10 14:16:56,098 DEBUG   HandlerThread:6080 [meta.py:probe():252] probe done
+2021-09-10 14:16:56,103 DEBUG   SenderThread:6080 [sender.py:send():179] send: files
+2021-09-10 14:16:56,103 INFO    SenderThread:6080 [sender.py:_save_file():841] saving file wandb-metadata.json with policy now
+2021-09-10 14:16:56,109 DEBUG   HandlerThread:6080 [handler.py:handle_request():124] handle_request: stop_status
+2021-09-10 14:16:56,109 DEBUG   SenderThread:6080 [sender.py:send_request():193] send_request: stop_status
+2021-09-10 14:16:56,222 INFO    Thread-12 :6080 [dir_watcher.py:_on_file_created():216] file/dir created: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\wandb-metadata.json
+2021-09-10 14:16:56,222 INFO    Thread-12 :6080 [dir_watcher.py:_on_file_created():216] file/dir created: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\output.log
+2021-09-10 14:16:56,325 DEBUG   SenderThread:6080 [sender.py:send():179] send: config
+2021-09-10 14:16:56,325 DEBUG   SenderThread:6080 [sender.py:send():179] send: config
+2021-09-10 14:16:56,325 DEBUG   SenderThread:6080 [sender.py:send():179] send: config
+2021-09-10 14:16:56,325 DEBUG   SenderThread:6080 [sender.py:send():179] send: config
+2021-09-10 14:16:56,325 DEBUG   SenderThread:6080 [sender.py:send():179] send: config
+2021-09-10 14:16:56,325 DEBUG   SenderThread:6080 [sender.py:send():179] send: config
+2021-09-10 14:16:56,325 DEBUG   SenderThread:6080 [sender.py:send():179] send: config
+2021-09-10 14:16:56,325 DEBUG   SenderThread:6080 [sender.py:send():179] send: config
+2021-09-10 14:16:56,721 INFO    Thread-15 :6080 [upload_job.py:push():137] Uploaded file C:\Users\HOPING~1\AppData\Local\Temp\tmpbcefp_x3wandb\14pkyqjx-wandb-metadata.json
+2021-09-10 14:17:03,016 WARNING MainThread:6080 [internal.py:is_dead():366] Internal process exiting, parent pid 21784 disappeared
+2021-09-10 14:17:03,016 ERROR   MainThread:6080 [internal.py:wandb_internal():143] Internal process shutdown.
+2021-09-10 14:17:03,118 INFO    WriterThread:6080 [datastore.py:close():288] close: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\run-rzl4sbu6.wandb
+2021-09-10 14:17:03,118 INFO    HandlerThread:6080 [handler.py:finish():638] shutting down handler
+2021-09-10 14:17:03,336 INFO    SenderThread:6080 [sender.py:finish():945] shutting down sender
+2021-09-10 14:17:03,336 INFO    SenderThread:6080 [dir_watcher.py:finish():282] shutting down directory watcher
+2021-09-10 14:17:04,228 INFO    SenderThread:6080 [dir_watcher.py:finish():312] scan: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files
+2021-09-10 14:17:04,229 INFO    SenderThread:6080 [dir_watcher.py:finish():318] scan save: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\conda-environment.yaml conda-environment.yaml
+2021-09-10 14:17:04,229 INFO    SenderThread:6080 [dir_watcher.py:finish():318] scan save: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\config.yaml config.yaml
+2021-09-10 14:17:04,229 INFO    SenderThread:6080 [dir_watcher.py:finish():318] scan save: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\output.log output.log
+2021-09-10 14:17:04,229 INFO    SenderThread:6080 [dir_watcher.py:finish():318] scan save: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\requirements.txt requirements.txt
+2021-09-10 14:17:04,231 INFO    SenderThread:6080 [dir_watcher.py:finish():318] scan save: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\wandb-metadata.json wandb-metadata.json
+2021-09-10 14:17:04,232 INFO    SenderThread:6080 [dir_watcher.py:finish():318] scan save: D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\wandb-summary.json wandb-summary.json
+2021-09-10 14:17:04,234 INFO    SenderThread:6080 [file_pusher.py:finish():177] shutting down file pusher
+2021-09-10 14:17:04,234 INFO    SenderThread:6080 [file_pusher.py:join():182] waiting for file pusher
+2021-09-10 14:17:04,795 INFO    Thread-18 :6080 [upload_job.py:push():137] Uploaded file D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\wandb-summary.json
+2021-09-10 14:17:04,807 INFO    Thread-16 :6080 [upload_job.py:push():137] Uploaded file D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\config.yaml
+2021-09-10 14:17:04,833 INFO    Thread-17 :6080 [upload_job.py:push():137] Uploaded file D:\NTUST\Project\Special_Topic\Model\All\max\concate\wandb\run-20210910_141652-rzl4sbu6\files\requirements.txt
+2021-09-10 14:17:05,504 INFO    MainThread:6080 [internal.py:handle_exit():78] Internal process exited

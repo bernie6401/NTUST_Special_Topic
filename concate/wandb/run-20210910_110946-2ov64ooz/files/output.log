@@ -1,0 +1,120 @@
+The dataset is GEMEP and the path is ../datasets/GEMEP/
+Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    eps: 1e-08
+    lr: 0.001
+    weight_decay: 0.01
+)
+train :  ../datasets/GEMEP/crop/02amu_Gemep/
+train :  ../datasets/GEMEP/crop/02ang_Gemep/
+train :  ../datasets/GEMEP/crop/02anx_Gemep/
+train :  ../datasets/GEMEP/crop/02des_Gemep/
+train :  ../datasets/GEMEP/crop/02dis_Gemep/
+train :  ../datasets/GEMEP/crop/02fea_Gemep/
+train :  ../datasets/GEMEP/crop/02irr_Gemep/
+train :  ../datasets/GEMEP/crop/02joy_Gemep/
+train :  ../datasets/GEMEP/crop/02ple_Gemep/
+train :  ../datasets/GEMEP/crop/02sad_Gemep/
+train :  ../datasets/GEMEP/crop/03amu_Gemep/
+train :  ../datasets/GEMEP/crop/03ang_Gemep/
+train :  ../datasets/GEMEP/crop/03anx_Gemep/
+train :  ../datasets/GEMEP/crop/03con_Gemep/
+train :  ../datasets/GEMEP/crop/03des_Gemep/
+train :  ../datasets/GEMEP/crop/03fea_Gemep/
+train :  ../datasets/GEMEP/crop/03irr_Gemep/
+train :  ../datasets/GEMEP/crop/03joy_Gemep/
+train :  ../datasets/GEMEP/crop/03ple_Gemep/
+train :  ../datasets/GEMEP/crop/03sad_Gemep/
+train :  ../datasets/GEMEP/crop/03sur_Gemep/
+train :  ../datasets/GEMEP/crop/04amu_Gemep/
+train :  ../datasets/GEMEP/crop/04ang_Gemep/
+train :  ../datasets/GEMEP/crop/04anx_Gemep/
+train :  ../datasets/GEMEP/crop/04des_Gemep/
+train :  ../datasets/GEMEP/crop/04dis_Gemep/
+train :  ../datasets/GEMEP/crop/04fea_Gemep/
+train :  ../datasets/GEMEP/crop/04irr_Gemep/
+train :  ../datasets/GEMEP/crop/04joy_Gemep/
+train :  ../datasets/GEMEP/crop/04ple_Gemep/
+train :  ../datasets/GEMEP/crop/04sad_Gemep/
+train :  ../datasets/GEMEP/crop/05amu_Gemep/
+train :  ../datasets/GEMEP/crop/05ang_Gemep/
+train :  ../datasets/GEMEP/crop/05anx_Gemep/
+train :  ../datasets/GEMEP/crop/05des_Gemep/
+train :  ../datasets/GEMEP/crop/05dis_Gemep/
+train :  ../datasets/GEMEP/crop/05fea_Gemep/
+train :  ../datasets/GEMEP/crop/05irr_Gemep/
+train :  ../datasets/GEMEP/crop/05joy_Gemep/
+train :  ../datasets/GEMEP/crop/05ple_Gemep/
+train :  ../datasets/GEMEP/crop/05sad_Gemep/
+train :  ../datasets/GEMEP/crop/06amu_Gemep/
+train :  ../datasets/GEMEP/crop/06ang_Gemep/
+train :  ../datasets/GEMEP/crop/06anx_Gemep/
+train :  ../datasets/GEMEP/crop/06con_Gemep/
+train :  ../datasets/GEMEP/crop/06des_Gemep/
+train :  ../datasets/GEMEP/crop/06fea_Gemep/
+train :  ../datasets/GEMEP/crop/06irr_Gemep/
+train :  ../datasets/GEMEP/crop/06joy_Gemep/
+train :  ../datasets/GEMEP/crop/06ple_Gemep/
+train :  ../datasets/GEMEP/crop/06sad_Gemep/
+train :  ../datasets/GEMEP/crop/06sur_Gemep/
+train :  ../datasets/GEMEP/crop/07amu_Gemep/
+train :  ../datasets/GEMEP/crop/07ang_Gemep/
+train :  ../datasets/GEMEP/crop/07anx_Gemep/
+train :  ../datasets/GEMEP/crop/07con_Gemep/
+train :  ../datasets/GEMEP/crop/07des_Gemep/
+train :  ../datasets/GEMEP/crop/07fea_Gemep/
+train :  ../datasets/GEMEP/crop/07irr_Gemep/
+train :  ../datasets/GEMEP/crop/07joy_Gemep/
+train :  ../datasets/GEMEP/crop/07ple_Gemep/
+train :  ../datasets/GEMEP/crop/07sad_Gemep/
+train :  ../datasets/GEMEP/crop/07sur_Gemep/
+train :  ../datasets/GEMEP/crop/08amu_Gemep/
+train :  ../datasets/GEMEP/crop/08ang_Gemep/
+train :  ../datasets/GEMEP/crop/08anx_Gemep/
+train :  ../datasets/GEMEP/crop/08con_Gemep/
+train :  ../datasets/GEMEP/crop/08des_Gemep/
+train :  ../datasets/GEMEP/crop/08fea_Gemep/
+train :  ../datasets/GEMEP/crop/08irr_Gemep/
+train :  ../datasets/GEMEP/crop/08joy_Gemep/
+train :  ../datasets/GEMEP/crop/08ple_Gemep/
+train :  ../datasets/GEMEP/crop/08sad_Gemep/
+train :  ../datasets/GEMEP/crop/08sur_Gemep/
+train :  ../datasets/GEMEP/crop/09amu_Gemep/
+train :  ../datasets/GEMEP/crop/09ang_Gemep/
+train :  ../datasets/GEMEP/crop/09anx_Gemep/
+train :  ../datasets/GEMEP/crop/09des_Gemep/
+train :  ../datasets/GEMEP/crop/09dis_Gemep/
+train :  ../datasets/GEMEP/crop/09fea_Gemep/
+train :  ../datasets/GEMEP/crop/09irr_Gemep/
+train :  ../datasets/GEMEP/crop/09joy_Gemep/
+train :  ../datasets/GEMEP/crop/09ple_Gemep/
+train :  ../datasets/GEMEP/crop/09sad_Gemep/
+train :  ../datasets/GEMEP/crop/10amu_Gemep/
+train :  ../datasets/GEMEP/crop/10ang_Gemep/
+train :  ../datasets/GEMEP/crop/10anx_Gemep/
+train :  ../datasets/GEMEP/crop/10des_Gemep/
+train :  ../datasets/GEMEP/crop/10dis_Gemep/
+train :  ../datasets/GEMEP/crop/10fea_Gemep/
+train :  ../datasets/GEMEP/crop/10irr_Gemep/
+train :  ../datasets/GEMEP/crop/10joy_Gemep/
+train :  ../datasets/GEMEP/crop/10ple_Gemep/
+train :  ../datasets/GEMEP/crop/10sad_Gemep/
+val :  ../datasets/GEMEP/crop/01ang_Gemep/
+val :  ../datasets/GEMEP/crop/01con_Gemep/
+val :  ../datasets/GEMEP/crop/01fea_Gemep/
+val :  ../datasets/GEMEP/crop/01ple_Gemep/
+val :  ../datasets/GEMEP/crop/01sad_Gemep/
+val :  ../datasets/GEMEP/crop/01sur_Gemep/
+  0%|                                                                                        | 0/30 [00:00<?, ?it/s]
+[Epoch 1] Training accuracy: 0.5832. Loss: 1.168 LR: 0.001000
+  0%|                                                                                        | 0/30 [00:27<?, ?it/s]
+Traceback (most recent call last):
+  File "train_face_leave_one_out.py", line 263, in <module>
+    main()
+  File "train_face_leave_one_out.py", line 111, in main
+    val_acc = validate(val_loader, len(val_dataset), model, CE_criterion, optimizer, val_dataset)
+  File "train_face_leave_one_out.py", line 186, in validate
+    storage_face[i][j] += feature_map_face[k][j]
+IndexError: list index out of range
