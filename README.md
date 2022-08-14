@@ -10,14 +10,10 @@ Taipei City 106, Taipei County, Taiwan
 <sup>1</sup>jmguo@mail.ntust.edu.tw, bernie6401@gmail.com, Max.chang965132@gmail.com
 <sup>2</sup>chhsia625@gmail.com
 
-***
-
 ## Data
 The datasets are placed in the datasets folder, we prepare them as the link you can download by correct structure, please see the [data readme](datasets/README.txt).
 
 In the folder, we just use [GEMEP dataset](https://www.unige.ch/cisa/gemep) that has whole body including face and body especially as our research data and compare with [other paper](https://ieeexplore.ieee.org/abstract/document/8769871).
-
-***
 
 ## Models
 The modes' weights are placed in the models folder, we prepare them as the link you can download by correct structure, please see [model readme](models/README.txt).
@@ -27,8 +23,6 @@ We use [Fusing Body Posture model](https://github.com/filby89/body-face-emotion-
 Our model structure is as below:
 
 <img src="./models/model_structure.png" alt="IMG1" style="zoom:75%;" />
-
-***
 
 ## Run
 > Setup environment:
@@ -51,8 +45,6 @@ python test_leave_one_out.py -p --data_type GEMEP --num_classes 7
 python test_leave_one_out.py -p --data_type GEMEP --num_classes 12
 ```
 
-***
-
 ## Result
 ### 7 Classes - Face / Body / Whole
 <img src="./Confusion_matrix/GEMEP_Face7_acc0.66.png"/>
@@ -64,7 +56,9 @@ python test_leave_one_out.py -p --data_type GEMEP --num_classes 12
 <img src="./Confusion_matrix/GEMEP_Body12_acc0.525.png"/>
 <img src="./Confusion_matrix/GEMEP_Whole12_acc0.6.png"/>
 
-***
-
 ## More Detail
 You can download [here](./A_Hybrid_Facial_Expression_Recognition_System_Based_on_Facial_Features_and_Pose_Estimation.pdf) for more experience detail such as platform, software version, or hyper parameters, etc.
+
+
+## Update
+* 2022/08/14 update dataset_leave_one_out.py and test_leave_one_out.py files about adding emo_tranform() function in former file to parse num_classes argument and let the user used it more convenient. Now you can just use the comment above and no need to adjust any code in any file in testing mode.
