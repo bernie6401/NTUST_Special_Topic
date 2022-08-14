@@ -1,9 +1,9 @@
-models/
+models/*
 !models/README.txt
 !models/model_structure.png
 
 
-datasets/
+datasets/*
 !datasets/README.txt
 
 
