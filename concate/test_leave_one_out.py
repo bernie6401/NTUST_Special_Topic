@@ -25,7 +25,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     '''ARM'''
     parser.add_argument('--dataset_path', type=str, default='../datasets/', help='Root dataset path.')
-    parser.add_argument('--data_type', type=str, default='GEMEP_FACE', help='rafdb or affectnet or ferplus or new_test(the new data you want to test)')
+    parser.add_argument('--data_type', type=str, default='GEMEP', help='rafdb or affectnet or ferplus or new_test(the new data you want to test)')
     parser.add_argument('--new_test_path', type=str, default=None, help='New test dataset path.')
     parser.add_argument('--phase', type=str, default='test', help='The phase you want to choose.(default:test or new_test)')
     parser.add_argument('--checkpoint_face', type=str, default='../models/GEMEP_FACE/split1_epoch1_acc0.9139.pth', help='Pytorch checkpoint file path')
